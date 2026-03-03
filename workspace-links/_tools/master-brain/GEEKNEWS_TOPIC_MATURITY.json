@@ -1,0 +1,374 @@
+{
+  "generated": "2026-02-28T19:19:32.057101",
+  "source": "/mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot/docs/GEEKNEWS_PROJECT_HELPFUL.json",
+  "items_total": 1197,
+  "topic_count": 8,
+  "method": {
+    "signals": [
+      "volume",
+      "engagement(points)",
+      "history(topic_id span)",
+      "activity(recent topic_id)",
+      "source diversity"
+    ],
+    "weights": {
+      "volume": 0.35,
+      "engagement": 0.2,
+      "history": 0.2,
+      "activity": 0.15,
+      "diversity": 0.1
+    },
+    "stage_thresholds": {
+      "성숙": ">=75",
+      "성장": ">=60 and <75",
+      "초기-성장": ">=45 and <60",
+      "탐색": "<45"
+    }
+  },
+  "topics": [
+    {
+      "topic": "모델/플랫폼 경쟁",
+      "maturity_stage": "성숙",
+      "maturity_score": 83.4,
+      "count": 641,
+      "avg_score": 8.97,
+      "avg_points": 0.41,
+      "unique_domains": 20,
+      "topic_id_range": [
+        1420,
+        27057
+      ],
+      "signals": {
+        "volume": 1.0,
+        "engagement": 0.2036,
+        "history": 0.9647,
+        "activity": 0.9994,
+        "diversity": 1.0
+      },
+      "top_examples": [
+        {
+          "topic_id": "27049",
+          "title": "경쟁사 AI 5개를 하나로 묶은 Perplexity Computer, 멀티모델 오케스트레이션 전략",
+          "topic_url": "https://news.hada.io/topic?id=27049",
+          "score": 18,
+          "points": 2
+        },
+        {
+          "topic_id": "26919",
+          "title": "LLM이 만든 비밀번호가 위험한 이유, 100비트처럼 보이지만 실제론 27비트",
+          "topic_url": "https://news.hada.io/topic?id=26919",
+          "score": 20,
+          "points": 15
+        },
+        {
+          "topic_id": "21505",
+          "title": "질문 목록 정리 및 이동하기 - (Chatgpt, Claude, Perplexity, Gemini 지원)",
+          "topic_url": "https://news.hada.io/topic?id=21505",
+          "score": 13,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "topic": "AI 에이전트/코딩 에이전트",
+      "maturity_stage": "성장",
+      "maturity_score": 65.2,
+      "count": 220,
+      "avg_score": 10.44,
+      "avg_points": 1.26,
+      "unique_domains": 12,
+      "topic_id_range": [
+        1064,
+        27060
+      ],
+      "signals": {
+        "volume": 0.3432,
+        "engagement": 0.6318,
+        "history": 0.9782,
+        "activity": 0.9995,
+        "diversity": 0.6
+      },
+      "top_examples": [
+        {
+          "topic_id": "26972",
+          "title": "/init으로 AGENTS.md 자동 생성하지 마라 - 오히려 비용만 20% 늘어남",
+          "topic_url": "https://news.hada.io/topic?id=26972",
+          "score": 23,
+          "points": 51
+        },
+        {
+          "topic_id": "22635",
+          "title": "AGENTS.md - AI 코딩 에이전트를 위한 오픈 포맷",
+          "topic_url": "https://news.hada.io/topic?id=22635",
+          "score": 21,
+          "points": 0
+        },
+        {
+          "topic_id": "26921",
+          "title": "Claude Code 에이전트를 픽셀 아트 캐릭터로 시각화하는 VS Code 확장 - Pixel Agents",
+          "topic_url": "https://news.hada.io/topic?id=26921",
+          "score": 22,
+          "points": 19
+        }
+      ]
+    },
+    {
+      "topic": "개발 인프라/오픈소스",
+      "maturity_stage": "초기-성장",
+      "maturity_score": 59.9,
+      "count": 341,
+      "avg_score": 8.47,
+      "avg_points": 0.28,
+      "unique_domains": 7,
+      "topic_id_range": [
+        496,
+        27066
+      ],
+      "signals": {
+        "volume": 0.532,
+        "engagement": 0.1408,
+        "history": 0.9998,
+        "activity": 0.9998,
+        "diversity": 0.35
+      },
+      "top_examples": [
+        {
+          "topic_id": "22393",
+          "title": "Rust, Python, TypeScript: 새로운 프로그래밍 3대장(Trifecta)",
+          "topic_url": "https://news.hada.io/topic?id=22393",
+          "score": 10,
+          "points": 0
+        },
+        {
+          "topic_id": "15016",
+          "title": "MP3 Tag Editor (Python Streamlit +FastAPI) on Docker",
+          "topic_url": "https://news.hada.io/topic?id=15016",
+          "score": 10,
+          "points": 0
+        },
+        {
+          "topic_id": "27050",
+          "title": "OpenFang — Rust로 만든 오픈소스 에이전트 운영체제 (v0.1.0)",
+          "topic_url": "https://news.hada.io/topic?id=27050",
+          "score": 17,
+          "points": 9
+        }
+      ]
+    },
+    {
+      "topic": "보안/리스크/정책",
+      "maturity_stage": "초기-성장",
+      "maturity_score": 56.2,
+      "count": 15,
+      "avg_score": 8.2,
+      "avg_points": 2.0,
+      "unique_domains": 5,
+      "topic_id_range": [
+        3175,
+        27020
+      ],
+      "signals": {
+        "volume": 0.0234,
+        "engagement": 1.0,
+        "history": 0.8972,
+        "activity": 0.998,
+        "diversity": 0.25
+      },
+      "top_examples": [
+        {
+          "topic_id": "26919",
+          "title": "LLM이 만든 비밀번호가 위험한 이유, 100비트처럼 보이지만 실제론 27비트",
+          "topic_url": "https://news.hada.io/topic?id=26919",
+          "score": 20,
+          "points": 15
+        },
+        {
+          "topic_id": "26868",
+          "title": "Anthropic, Claude Code에 보안 취약점 스캔 기능 출시 (리서치 프리뷰)",
+          "topic_url": "https://news.hada.io/topic?id=26868",
+          "score": 8,
+          "points": 6
+        },
+        {
+          "topic_id": "20255",
+          "title": "MCP 보안 취약점, Tool-Poison-Attack",
+          "topic_url": "https://news.hada.io/topic?id=20255",
+          "score": 7,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "topic": "기타/미분류",
+      "maturity_stage": "초기-성장",
+      "maturity_score": 48.0,
+      "count": 86,
+      "avg_score": 6.36,
+      "avg_points": 0.86,
+      "unique_domains": 3,
+      "topic_id_range": [
+        2731,
+        26996
+      ],
+      "signals": {
+        "volume": 0.1342,
+        "engagement": 0.4302,
+        "history": 0.913,
+        "activity": 0.9971,
+        "diversity": 0.15
+      },
+      "top_examples": [
+        {
+          "topic_id": "11754",
+          "title": "xAI PromptIDE - 프롬프트 엔지니어링을 위한 통합 개발 환경",
+          "topic_url": "https://news.hada.io/topic?id=11754",
+          "score": 12,
+          "points": 0
+        },
+        {
+          "topic_id": "26874",
+          "title": "코드를 읽지 않는 시대, 엔지니어는 무엇을 읽어야 하는가",
+          "topic_url": "https://news.hada.io/topic?id=26874",
+          "score": 10,
+          "points": 52
+        },
+        {
+          "topic_id": "25141",
+          "title": "사고보다 빠른 AI 속도가 유발하는 개발자의 '바이브 코딩' 피로감 분석",
+          "topic_url": "https://news.hada.io/topic?id=25141",
+          "score": 8,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "topic": "자동화/워크플로우",
+      "maturity_stage": "초기-성장",
+      "maturity_score": 45.6,
+      "count": 107,
+      "avg_score": 9.64,
+      "avg_points": 0.34,
+      "unique_domains": 3,
+      "topic_id_range": [
+        601,
+        27072
+      ],
+      "signals": {
+        "volume": 0.1669,
+        "engagement": 0.1682,
+        "history": 0.996,
+        "activity": 1.0,
+        "diversity": 0.15
+      },
+      "top_examples": [
+        {
+          "topic_id": "26959",
+          "title": "Show GN: Pi Workflow VSCode 익스텐션 — 커스텀 CLI 코딩 에이전트 Cursor like 익스텐션으로 개발",
+          "topic_url": "https://news.hada.io/topic?id=26959",
+          "score": 21,
+          "points": 5
+        },
+        {
+          "topic_id": "13860",
+          "title": "Skyvern – LLM 및 컴퓨터 비전을 활용한 브라우저 워크플로우 자동화",
+          "topic_url": "https://news.hada.io/topic?id=13860",
+          "score": 15,
+          "points": 0
+        },
+        {
+          "topic_id": "8355",
+          "title": "Automatisch - 워크플로우 자동화 도구 Zapier의 오픈소스 대체제",
+          "topic_url": "https://news.hada.io/topic?id=8355",
+          "score": 15,
+          "points": 0
+        }
+      ]
+    },
+    {
+      "topic": "게임/Unity/MSW",
+      "maturity_stage": "탐색",
+      "maturity_score": 39.2,
+      "count": 14,
+      "avg_score": 7.57,
+      "avg_points": 0.43,
+      "unique_domains": 2,
+      "topic_id_range": [
+        2874,
+        27060
+      ],
+      "signals": {
+        "volume": 0.0218,
+        "engagement": 0.2143,
+        "history": 0.9101,
+        "activity": 0.9995,
+        "diversity": 0.1
+      },
+      "top_examples": [
+        {
+          "topic_id": "26927",
+          "title": "Show GN: AI 에이전트가 Unity/Godot/Unreal 에디터를 직접 제어하는 OpenClaw 플러그인",
+          "topic_url": "https://news.hada.io/topic?id=26927",
+          "score": 14,
+          "points": 5
+        },
+        {
+          "topic_id": "10909",
+          "title": "Unity 이후의 게임 개발",
+          "topic_url": "https://news.hada.io/topic?id=10909",
+          "score": 6,
+          "points": 0
+        },
+        {
+          "topic_id": "27060",
+          "title": "Show GN: AI Agent들을 위한 MMORPG 포켓몬 게임",
+          "topic_url": "https://news.hada.io/topic?id=27060",
+          "score": 14,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "topic": "MCP/툴 연동 생태계",
+      "maturity_stage": "탐색",
+      "maturity_score": 26.5,
+      "count": 53,
+      "avg_score": 10.26,
+      "avg_points": 0.17,
+      "unique_domains": 1,
+      "topic_id_range": [
+        18521,
+        27072
+      ],
+      "signals": {
+        "volume": 0.0827,
+        "engagement": 0.0849,
+        "history": 0.3218,
+        "activity": 1.0,
+        "diversity": 0.05
+      },
+      "top_examples": [
+        {
+          "topic_id": "19978",
+          "title": "OpenAI, Agents SDK에 MCP 지원 추가",
+          "topic_url": "https://news.hada.io/topic?id=19978",
+          "score": 28,
+          "points": 0
+        },
+        {
+          "topic_id": "19880",
+          "title": "Model Context Protocol(MCP)을 통해 IntelliJ와 Claude를 연동하기",
+          "topic_url": "https://news.hada.io/topic?id=19880",
+          "score": 11,
+          "points": 0
+        },
+        {
+          "topic_id": "19633",
+          "title": "Model Context Protocol (MCP) 개발 방법",
+          "topic_url": "https://news.hada.io/topic?id=19633",
+          "score": 9,
+          "points": 0
+        }
+      ]
+    }
+  ]
+}

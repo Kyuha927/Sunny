@@ -1,0 +1,196 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-03-03T23:14:30.071439",
+  "owner": "Master-Codex",
+  "master_channel": "VSCode Codex Extension chat",
+  "ssot_files": {
+    "brain": "/mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot/docs/BRAIN_MASTER.md",
+    "classification": "/mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot/docs/BRAIN_SESSION_CLASSIFICATION.md",
+    "routing_settings": "/mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot/docs/MASTER_ROUTING_SETTINGS.json",
+    "geeknews_digest": "/mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot/docs/GEEKNEWS_HELPFUL.md",
+    "conversation_memory": "/mnt/c/Users/jhk92/.gemini/antigravity/brain/2d6fb331-c215-4342-9d17-d797a75eeb9c/conversation_memory.md"
+  },
+  "routing_policy": {
+    "windows_only": "Windows",
+    "heavy_automation_primary": "WSL-Ubuntu",
+    "heavy_automation_fallback": "Windows",
+    "general_dev_default": "WSL-Ubuntu",
+    "browser_orchestration_primary": "Antigravity",
+    "chatgpt_context_source": "latest export zip in Downloads",
+    "master_classifier_primary": "models/gemini-2.5-pro",
+    "master_classifier_secondary": "models/gemini-2.5-flash"
+  },
+  "master_decision_engine": {
+    "source": "Antigravity multi-model agent-team",
+    "profile_available": true,
+    "summary": "Antigravity multi-model agent-team profile imported (router + prefix routing + bridge hub).",
+    "decision_router_model": "models/gemini-2.5-pro",
+    "decision_router_fallback_model": "models/gemini-2.5-flash",
+    "routing_tags": {
+      "@claude": "Claude Code CLI",
+      "@llama": "Local LLM (Ollama)",
+      "@echo": "Echo/Debug Executor"
+    },
+    "model_stack": [
+      "Gemini (fast router + general)",
+      "Claude (deep coding/reasoning)",
+      "Llama via OpenRouter (cost-effective reasoning)",
+      "Qwen/Ollama (local simple tasks)"
+    ],
+    "source_files": [
+      "/mnt/c/Users/jhk92/.gemini/antigravity/brain/e3324327-74a9-43ff-b41c-b2aae2ec29c8/PROJECT_HANDOFF.md",
+      "/mnt/c/Users/jhk92/.gemini/antigravity/brain/3b262b60-8ab0-4902-9b67-409e67625dcf/implementation_plan.md"
+    ]
+  },
+  "codex_chat_gui": {
+    "available": true,
+    "state_file": "/mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot/.agent/codex_chat_gui_rooms.json",
+    "room_count": 85,
+    "rooms_with_model": 0,
+    "rooms_with_profile": 0,
+    "rooms": [
+      {
+        "name": "채팅GUI-기능개선 | gui-, 기능개선, 이전, 모델, 실행, 내용을",
+        "session_id": "019c8ace-03eb-7b51-97e0-f7a54eb3de21",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "WSL-리눅스-환경이전 | wsl-, 리눅스, 환경이전, antigravity, bash, cli",
+        "session_id": "019c8ace-03eb-7b51-97e0-f7a54eb3de21",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "채팅GUI-기능개선 | gui-, 기능개선, 파일, 어떻게, 보내, 파일을",
+        "session_id": "019c8fc7-1ec8-7a30-8061-fe72e3f8bbf9",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "WSL-리눅스-환경이전 | 리눅스, wsl-, 환경이전, bash, cd, 에서",
+        "session_id": "019c8fc7-1ec8-7a30-8061-fe72e3f8bbf9",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "윈도우-파워셸-실행 | 윈도우, 파워셸, 실행, windows, 계정, 에서",
+        "session_id": "019c8fc7-1ec8-7a30-8061-fe72e3f8bbf9",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "코덱스-권한-세션설정 | http, get, kb, amd64, archive.ubuntu.com/ubuntu, components",
+        "session_id": "019c8fc7-1ec8-7a30-8061-fe72e3f8bbf9",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "VSCode-원격개발 | vscode-, 원격개발, 설정해, gpt-5, 모델, 기준으로",
+        "session_id": "019c8fc7-1ec8-7a30-8061-fe72e3f8bbf9",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "코덱스-권한-세션설정 | 세션, 시작, 권한, 코덱스, 세션설정, workspace-write",
+        "session_id": "019c8ffa-5bb1-75e0-9957-8ffcfe709c81",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-문서핸드오프 | 문서핸드오프, list, ag/, users/jhk92/onedrive/, eb, ac",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-이미지에셋생성 | antigravity, import, 이미지에셋생성, v2, summary, ag/",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-문서핸드오프 | to, 문서핸드오프, notion, sync, obsidian, antigravity",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-게임유니티MSW | 게임유니티, msw, timeline, 시스템, 구현, 시각적",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-이미지에셋생성 | 이미지에셋생성, timeline, antigravity, import, 이미지, 자막",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-브릿지통합 | 브릿지통합, 물리, ag/, users/jhk92/downloads/my, 진입, spiral",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-UI프론트엔드 | 프론트엔드, 완료, 단계, ag/ui, id, 구현",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-이미지에셋생성 | 이미지에셋생성, ag/, 물리, 구역, id, 배치",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-게임유니티MSW | 게임유니티, msw, to, of, autonomous, unity",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-문서핸드오프 | 문서핸드오프, antigravity, import, to, level, ag/",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-문서핸드오프 | 문서핸드오프, claude, ag/, install, to, ripgrep",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      },
+      {
+        "name": "Antigravity-WSL리눅스환경 | 리눅스환경, claude, installation, ag/wsl, to, run",
+        "session_id": "",
+        "codex_model": "",
+        "codex_profile": ""
+      }
+    ]
+  },
+  "node_status": {
+    "Windows": "online",
+    "WSL-Ubuntu": "online",
+    "Fold1": "offline",
+    "Antigravity": "online",
+    "WindowsTempArtifacts": "online",
+    "ChatGPT-WebApp": "online",
+    "GeekNewsHelpful": "online"
+  },
+  "auto_sync": {
+    "brain_task": "MoltbotBrainAutoSync",
+    "geeknews_task": "MoltbotGeekNewsEvery3Days",
+    "geeknews_interval_days": 3,
+    "strategy": "background idle + dawn",
+    "brain_schedule": "daily 03:20 + at logon (idle-only)",
+    "geeknews_schedule": "every 3 days 03:40 (idle-only)"
+  },
+  "reporting_contract": [
+    "Route used",
+    "Project path on that route",
+    "Artifact/output path"
+  ]
+}

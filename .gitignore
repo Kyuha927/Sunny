@@ -1,0 +1,18 @@
+# Obsidian local UI/cache
+.obsidian/workspace*.json
+.obsidian/cache/
+
+# Temporary/OS files
+.trash/
+.DS_Store
+Thumbs.db
+
+# Optional local env/tool state
+.smart-env/
+
+# Nested repository (manage separately)
+OpenClaw/
+
+# Sensitive notes / generated logs that may include tokens
+딥시크API.md
+workspace-links/_tools/codex-compact-history/

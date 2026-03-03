@@ -1,0 +1,1188 @@
+# BRAIN SESSION CLASSIFICATION
+
+- generated: `2026-03-03 23:14:30`
+- purpose: classify all sessions including unscoped/temp outputs
+
+## Windows
+- status: **online**
+- detail: session files: 68 | project-scoped=0, temp-unscoped=0, external-scoped=67, unknown=1
+- scope counts:
+  - `external-scoped`: 67
+  - `unknown`: 1
+- classified sessions: 68
+  - `019c94fa-5cfb-7fc1-86a6-06fc15d2cf69` | scope=`external-scoped` | 2026-02-25 22:27:29
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c902c-59eb-7362-b854-4c79bf4609d2` | scope=`external-scoped` | 2026-02-25 01:04:30
+    - cwd: C:\WINDOWS\system32
+  - `019c8f4d-9834-7093-a179-f9143ffe7dd5` | scope=`external-scoped` | 2026-02-24 22:19:08
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c85f7-0229-7333-9eb2-74f31c169cf2` | scope=`external-scoped` | 2026-02-24 19:34:14
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c883a-4680-7740-af6f-e25adf78f32e` | scope=`external-scoped` | 2026-02-24 18:28:31
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c8a88-d304-77a0-8ec3-d5b52e2eb263` | scope=`external-scoped` | 2026-02-24 15:54:28
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c3aac-f57c-77a3-a423-e6eb55ca99ca` | scope=`external-scoped` | 2026-02-24 14:30:03
+    - cwd: c:\Users\jhk92\Downloads\My project (7)
+  - `019c89ff-f7a5-7ba3-b6e5-129387732519` | scope=`external-scoped` | 2026-02-23 19:36:19
+    - cwd: c:\Users\jhk92\Downloads\쓸수있는것-20260223T091445Z-1-001\쓸수있는것
+  - `019c88f5-fff2-7f03-8b7a-b622ee5ef49e` | scope=`external-scoped` | 2026-02-23 14:56:37
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c5fd6-65e5-7220-946f-63b66c3175d7` | scope=`external-scoped` | 2026-02-23 02:17:41
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c8600-5b7d-7130-9c65-750c6b3786f6` | scope=`external-scoped` | 2026-02-23 00:41:05
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c85fd-35d4-7230-b721-d1ba136e1680` | scope=`external-scoped` | 2026-02-23 00:37:11
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c85fc-bd7b-7b32-aff0-c233389d7520` | scope=`unknown` | 2026-02-23 00:34:19
+  - `019c85fa-ef1f-7723-9362-6616d7f22f42` | scope=`external-scoped` | 2026-02-23 00:32:45
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c85fa-c3f4-7942-92fb-464155dbf6a3` | scope=`external-scoped` | 2026-02-23 00:32:15
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c8409-1ee1-7941-9828-f01d716bad18` | scope=`external-scoped` | 2026-02-22 17:46:30
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c8445-94c0-7112-93a5-0c52f70a45d4` | scope=`external-scoped` | 2026-02-22 16:57:47
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c7fe7-b6a7-7053-8cd8-11314609b80d` | scope=`external-scoped` | 2026-02-21 20:19:18
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c7a7b-d20f-7523-aad3-922e6bde5f73` | scope=`external-scoped` | 2026-02-20 19:52:21
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c740c-e510-71d0-b3b8-685aabe896f0` | scope=`external-scoped` | 2026-02-20 16:28:39
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c74e1-32a7-7520-9113-62867f79db51` | scope=`external-scoped` | 2026-02-19 17:06:52
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c7187-b430-7fb2-873c-a158d58ee7a3` | scope=`external-scoped` | 2026-02-19 16:53:51
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c742b-9350-7140-bccf-25912f2aa882` | scope=`external-scoped` | 2026-02-19 13:38:12
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c6666-2fc7-7bb3-a682-b344ae57e659` | scope=`external-scoped` | 2026-02-19 01:26:46
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6efd-a299-7a51-b261-795fccb851f3` | scope=`external-scoped` | 2026-02-18 13:24:02
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac1b-7a40-aa33-b8d2704de610` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac22-7ca0-91cd-2b76ba1dfc50` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac22-7d22-a546-a5c4eb80efca` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac22-7501-b186-eb30f04bd449` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac19-7490-9f42-ba262eaa578a` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6ef9-ddc4-77a3-8199-bdb3217d4216` | scope=`external-scoped` | 2026-02-18 13:19:56
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6ef9-ddc4-7b80-a329-61852027d3a6` | scope=`external-scoped` | 2026-02-18 13:19:56
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6c01-7954-7b72-8d48-aadef2ae01c6` | scope=`external-scoped` | 2026-02-17 23:29:22
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6c01-4263-7f11-912a-981f8f49685b` | scope=`external-scoped` | 2026-02-17 23:29:11
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c663c-0559-7030-9ec5-54ad8e418b14` | scope=`external-scoped` | 2026-02-17 12:15:09
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6661-1fff-7f82-80b3-7cde5a01c481` | scope=`external-scoped` | 2026-02-16 21:20:22
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c665f-a39d-7250-8b5e-69f8b116c662` | scope=`external-scoped` | 2026-02-16 21:18:28
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6659-0c9c-7213-b268-cf284b7aa526` | scope=`external-scoped` | 2026-02-16 21:11:52
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6658-5021-7313-ad68-19fa9599917c` | scope=`external-scoped` | 2026-02-16 21:09:34
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6640-656d-7da3-b08a-0f4b94801f18` | scope=`external-scoped` | 2026-02-16 20:44:54
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6633-ec05-7601-a570-8542e7d7c57c` | scope=`external-scoped` | 2026-02-16 20:42:19
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6616-2f8a-7321-8fc2-b4f0b37765f8` | scope=`external-scoped` | 2026-02-16 20:04:47
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c65c5-d078-7621-ab2b-4acb9f45a17d` | scope=`external-scoped` | 2026-02-16 19:40:30
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c64c7-7eaa-7383-a76e-d6db7a061b85` | scope=`external-scoped` | 2026-02-16 19:05:22
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c65a2-cf21-7e91-bd18-0905046e0a78` | scope=`external-scoped` | 2026-02-16 19:03:26
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c64c4-abc7-7c00-a8fb-ae4af8def11c` | scope=`external-scoped` | 2026-02-16 17:36:51
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c64c1-a52d-7863-9dc5-ae5c61e910b8` | scope=`external-scoped` | 2026-02-16 13:48:31
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c64c1-805d-73a2-b4d0-83e6929f8418` | scope=`external-scoped` | 2026-02-16 13:42:11
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c64c0-64f0-7282-b052-2dd5f694e97b` | scope=`external-scoped` | 2026-02-16 13:40:58
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c6490-8e70-7203-8ce6-5c269517dca8` | scope=`external-scoped` | 2026-02-16 13:06:13
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c6488-6736-7620-801a-7a00deb854ad` | scope=`external-scoped` | 2026-02-16 12:44:24
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c647f-e46d-7ed3-a174-6eeac4d648c8` | scope=`external-scoped` | 2026-02-16 12:32:22
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c647e-be79-7110-8218-3c52ce078da9` | scope=`external-scoped` | 2026-02-16 12:30:25
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c5b1c-f9de-7410-8872-6d679fc48202` | scope=`external-scoped` | 2026-02-16 00:43:19
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c5cb9-c270-70d3-942b-d72337345383` | scope=`external-scoped` | 2026-02-15 21:21:56
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c4ca1-35b9-7313-a42f-393085bcb616` | scope=`external-scoped` | 2026-02-15 20:56:33
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c5ffc-efe1-77e1-b99e-a5b4b4bc6642` | scope=`external-scoped` | 2026-02-15 15:30:05
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c5fce-451f-7583-aa8c-dc03fb113588` | scope=`external-scoped` | 2026-02-15 15:00:20
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c5c60-f800-7ad2-81b8-b2bbafca5673` | scope=`external-scoped` | 2026-02-15 14:41:09
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c5fc4-f245-7aa0-a5d3-85bb5a29da23` | scope=`external-scoped` | 2026-02-15 14:32:23
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c5cac-af1c-7803-aa68-c15181f6e8d1` | scope=`external-scoped` | 2026-02-15 00:12:47
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c5c64-c2de-7a41-aef8-421ea0eb2d36` | scope=`external-scoped` | 2026-02-14 22:44:23
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c5c25-5861-72e0-9315-3a29ae6204be` | scope=`external-scoped` | 2026-02-14 21:42:54
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c576a-b153-7ef3-963e-cee2d5f566e5` | scope=`external-scoped` | 2026-02-14 00:38:31
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c4c9b-7771-7cd1-8e7e-b85956b177cf` | scope=`external-scoped` | 2026-02-11 21:10:39
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c4302-9139-7e12-b478-ee96207dd628` | scope=`external-scoped` | 2026-02-11 15:52:31
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c430e-5a86-7450-93d1-1162beb25d8d` | scope=`external-scoped` | 2026-02-10 00:43:39
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c30df-dd81-79a0-934f-53e469e5cfa3` | scope=`external-scoped` | 2026-02-06 12:17:55
+    - cwd: c:\Users\jhk92\Downloads\My project (7)
+
+## WSL-Ubuntu
+- status: **online**
+- detail: session files: 483 | project-scoped=354, temp-unscoped=0, external-scoped=128, unknown=1
+- scope counts:
+  - `external-scoped`: 128
+  - `project-scoped`: 354
+  - `unknown`: 1
+- classified sessions: 483
+  - `019c9f6d-c428-7de3-98d6-c59b74adc015` | scope=`project-scoped` | 2026-03-03 23:13:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb3ce-b45d-78b1-aac3-4e985b4b4f9b` | scope=`project-scoped` | 2026-03-03 22:08:31
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb3cc-d3db-7071-b0bb-5b415abf76c6` | scope=`project-scoped` | 2026-03-03 22:06:21
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb3cb-0151-7ae2-8cdb-78f31d334995` | scope=`project-scoped` | 2026-03-03 22:04:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9065-7eb7-7553-a234-d772c07c9b42` | scope=`project-scoped` | 2026-03-03 20:08:28
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb2f0-f39a-7b23-bd29-43433b0ee246` | scope=`project-scoped` | 2026-03-03 18:06:21
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb2ef-1610-7cd0-ac7a-c67b84e320c3` | scope=`project-scoped` | 2026-03-03 18:04:12
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb2ed-4146-7773-8ebc-34744e06a51f` | scope=`project-scoped` | 2026-03-03 18:02:16
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb21f-c9e3-7af1-9c31-a284362d65d8` | scope=`project-scoped` | 2026-03-03 14:41:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3ad-f436-7551-9904-6b160b20f84d` | scope=`project-scoped` | 2026-03-03 13:49:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1fa-8863-7a53-b6bc-ee076e296b1d` | scope=`project-scoped` | 2026-03-03 13:37:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1f8-aae9-7d93-bc59-8bdff388423c` | scope=`project-scoped` | 2026-03-03 13:35:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1f6-d347-7772-8cb0-7635a0ecadfd` | scope=`project-scoped` | 2026-03-03 13:33:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1f4-f603-7660-b94a-c92132c15344` | scope=`project-scoped` | 2026-03-03 13:30:49
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1f3-0acc-73d0-963a-435d6df20a6c` | scope=`project-scoped` | 2026-03-03 13:29:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1f1-37e6-7873-8a49-b999bf6ec565` | scope=`project-scoped` | 2026-03-03 13:26:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1dd-81a3-7ac2-8ef0-858435aa2c74` | scope=`project-scoped` | 2026-03-03 13:05:29
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1db-a3f0-70a2-97f6-df783158883e` | scope=`project-scoped` | 2026-03-03 13:03:26
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1d9-d734-7713-88b5-00dc535b47e9` | scope=`project-scoped` | 2026-03-03 13:01:22
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1bc-bbdb-7571-9681-fa73afac540a` | scope=`project-scoped` | 2026-03-03 12:29:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1ba-e27e-7413-bbc4-3ad8fb3488e5` | scope=`project-scoped` | 2026-03-03 12:27:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1a7-2ce6-7ce0-b2b6-07e88dc4f9aa` | scope=`project-scoped` | 2026-03-03 12:06:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1a5-4fd8-7313-b3a6-7657a61c7e41` | scope=`project-scoped` | 2026-03-03 12:04:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb1a3-751a-7441-b673-df2243e52608` | scope=`project-scoped` | 2026-03-03 12:01:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb19d-7d51-7712-9f44-a21ebc2d41d0` | scope=`project-scoped` | 2026-03-03 11:55:27
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb180-4c24-7290-91fe-eb69338ab474` | scope=`project-scoped` | 2026-03-03 11:23:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb162-f6c4-7040-bb38-eaadc9baa7e6` | scope=`project-scoped` | 2026-03-03 10:51:23
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb161-1d7d-7061-8d92-a9a03c7f15ec` | scope=`project-scoped` | 2026-03-03 10:49:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb143-9f18-70f0-8f29-1d0a63459e5a` | scope=`project-scoped` | 2026-03-03 10:17:21
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb141-c0b9-71d3-b7d4-1be41edd4604` | scope=`project-scoped` | 2026-03-03 10:15:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb13f-ea3c-7d22-a4fc-ceece4d1cd4b` | scope=`project-scoped` | 2026-03-03 10:13:16
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb122-14a9-7a03-a4e2-4cfaa125706b` | scope=`project-scoped` | 2026-03-03 09:40:42
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb120-35cc-7fa0-897d-75ce19dad8dd` | scope=`project-scoped` | 2026-03-03 09:38:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb11e-5876-7e53-9004-1817e285d305` | scope=`project-scoped` | 2026-03-03 09:36:40
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb11a-4477-7eb2-a203-6f60e87a4414` | scope=`project-scoped` | 2026-03-03 09:31:53
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cb101-9990-7753-b443-fd7c99cd226d` | scope=`project-scoped` | 2026-03-03 09:04:39
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019caef6-9904-78a1-878c-8aad97422d39` | scope=`project-scoped` | 2026-03-02 23:33:15
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019caef4-c2b9-78e2-b609-f202de45fab2` | scope=`project-scoped` | 2026-03-02 23:31:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019caeeb-cdd2-70a3-a534-aeec6c6ee32e` | scope=`project-scoped` | 2026-03-02 23:22:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cac80-d3a3-73f0-b5b0-b09c43574751` | scope=`project-scoped` | 2026-03-02 12:04:54
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cac7e-f648-71b1-a35a-77f5b18e5ca2` | scope=`project-scoped` | 2026-03-02 12:04:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cac7d-1d10-7062-821d-751c1a536751` | scope=`project-scoped` | 2026-03-02 12:02:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cac69-706f-7f80-8cb3-ecb6963c3a62` | scope=`project-scoped` | 2026-03-02 11:40:10
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cac68-111d-7df3-a60e-3f801155084f` | scope=`project-scoped` | 2026-03-02 11:38:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cac66-4107-7981-912c-22e42bc498dd` | scope=`project-scoped` | 2026-03-02 11:36:54
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019cac64-66e8-7171-8d3b-d9a5ea520c6b` | scope=`project-scoped` | 2026-03-02 11:35:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca9d2-42c3-76e2-ba90-ac1949171263` | scope=`project-scoped` | 2026-03-01 23:36:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca9d0-65a0-7dd0-b8c4-eada6c7d3771` | scope=`project-scoped` | 2026-03-01 23:34:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca9ce-91d9-7b31-82ec-c76dc867c2c7` | scope=`project-scoped` | 2026-03-01 23:32:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca9b7-031b-7b11-aae6-44f69f25f669` | scope=`project-scoped` | 2026-03-01 23:06:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca9b5-2669-7083-a8fc-dc4363e969e2` | scope=`project-scoped` | 2026-03-01 23:04:21
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca9b3-5831-7722-8df7-df8cc1acac79` | scope=`project-scoped` | 2026-03-01 23:02:24
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c740c-e510-71d0-b3b8-685aabe896f0` | scope=`external-scoped` | 2026-03-01 20:42:39
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019ca883-23d0-7b12-9527-7e0ce5c2a7a9` | scope=`project-scoped` | 2026-03-01 20:05:25
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8e6-906e-7f40-a029-359fed9d61fd` | scope=`project-scoped` | 2026-03-01 19:18:12
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8b9-87d4-7413-8043-25f591686952` | scope=`project-scoped` | 2026-03-01 18:29:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8b7-d364-7ca3-970c-4be22a4b3eb7` | scope=`project-scoped` | 2026-03-01 18:27:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8b1-0429-7430-b5ce-a5a924b0561a` | scope=`project-scoped` | 2026-03-01 18:20:01
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8af-4d19-7dc3-97d2-0bcc1a474589` | scope=`project-scoped` | 2026-03-01 18:18:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8ad-8975-7172-a4dd-8baa4c7d8ccb` | scope=`project-scoped` | 2026-03-01 18:16:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c883a-4680-7740-af6f-e25adf78f32e` | scope=`external-scoped` | 2026-03-01 18:13:25
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019ca8ac-2bbf-76c0-9a95-3a7b12720c7f` | scope=`project-scoped` | 2026-03-01 18:13:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8ac-163c-7ff1-9d17-80c74292665e` | scope=`external-scoped` | 2026-03-01 18:12:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Codex-Chat-GUI-NextGen-clean
+  - `019ca8ab-5408-7b63-a813-3f81e9c378e6` | scope=`project-scoped` | 2026-03-01 18:12:10
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8ab-4067-7820-8fab-7e0ffc44c32c` | scope=`external-scoped` | 2026-03-01 18:12:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Codex-Chat-GUI-NextGen-clean
+  - `019ca8ab-23a0-7fe3-876e-23562e497151` | scope=`project-scoped` | 2026-03-01 18:11:57
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8ab-07b4-7183-a8a2-8f6237033d49` | scope=`external-scoped` | 2026-03-01 18:11:49
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Codex-Chat-GUI-NextGen-clean
+  - `019ca8aa-ea59-7972-860a-8bc9ea9b800c` | scope=`project-scoped` | 2026-03-01 18:11:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8aa-cbb8-7fc3-a17d-216b2ae2d3d4` | scope=`external-scoped` | 2026-03-01 18:11:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Codex-Chat-GUI-NextGen-clean
+  - `019ca8a9-2162-76d0-9d87-c8bfffef0b2d` | scope=`project-scoped` | 2026-03-01 18:11:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8a8-5876-71a2-8023-5a863d866fb1` | scope=`project-scoped` | 2026-03-01 18:08:54
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8a8-1798-7331-8bc4-964419a19f0f` | scope=`external-scoped` | 2026-03-01 18:08:36
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Codex-Chat-GUI-NextGen-clean
+  - `019ca8a7-6cdc-74a3-bb3c-e692dc2ebe5a` | scope=`project-scoped` | 2026-03-01 18:07:53
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8a7-0566-7aa3-826f-569b02c70a03` | scope=`project-scoped` | 2026-03-01 18:07:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8a3-ca8b-7c53-b7ba-6413ce43c22f` | scope=`project-scoped` | 2026-03-01 18:05:16
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8a2-107d-72d2-8345-d4a6cee61bb7` | scope=`project-scoped` | 2026-03-01 18:03:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca8a0-5b03-7b51-a1b8-d0a386f76217` | scope=`project-scoped` | 2026-03-01 18:01:56
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca88d-f099-7872-9c64-7252004f9cdf` | scope=`project-scoped` | 2026-03-01 17:41:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca86d-9a3f-79e0-aff0-e6897c646d54` | scope=`external-scoped` | 2026-03-01 17:28:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Codex-Chat-GUI-NextGen-clean
+  - `019ca880-9abd-7b50-84d5-c50572bc15bb` | scope=`external-scoped` | 2026-03-01 17:25:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Codex-Chat-GUI-NextGen-clean
+  - `019ca871-a4c6-79e1-b87d-a0a43a7ede05` | scope=`project-scoped` | 2026-03-01 17:10:30
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a06-4677-72a3-8ab3-9450d38433e9` | scope=`project-scoped` | 2026-03-01 16:52:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca857-b6b4-7db3-a83d-f89cfd98c064` | scope=`project-scoped` | 2026-03-01 16:42:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca856-5939-7ff2-a811-0bc6394f7f56` | scope=`project-scoped` | 2026-03-01 16:40:42
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca854-a809-7e91-b37f-ac3b9114e8be` | scope=`project-scoped` | 2026-03-01 16:38:55
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca852-e21f-7ec3-9f0a-07d5a902d687` | scope=`project-scoped` | 2026-03-01 16:37:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ace-03eb-7b51-97e0-f7a54eb3de21` | scope=`project-scoped` | 2026-03-01 16:36:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca513-93f0-7a90-b28a-efac77f890da` | scope=`project-scoped` | 2026-03-01 01:29:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4f8-977e-7a71-9fe7-0e12dcbd4217` | scope=`project-scoped` | 2026-03-01 00:59:36
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4f6-df37-7500-b2a8-4b8f16538052` | scope=`project-scoped` | 2026-03-01 00:57:57
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4dc-276e-7b81-99a0-cd4b49ec4d38` | scope=`project-scoped` | 2026-03-01 00:28:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4c7-9313-7953-afcc-bac0c76175d9` | scope=`project-scoped` | 2026-03-01 00:24:21
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3e0-a241-78d3-adc9-7403b43b7122` | scope=`project-scoped` | 2026-03-01 00:23:27
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4d2-ca6a-7553-97be-959651e84191` | scope=`project-scoped` | 2026-03-01 00:18:31
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4d1-1a4d-7f93-b393-03f118315563` | scope=`project-scoped` | 2026-03-01 00:16:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4cf-607b-7e12-a26b-f643a2ca475e` | scope=`project-scoped` | 2026-03-01 00:14:30
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4aa-7d45-79e0-95f3-46c4c0c40c4b` | scope=`project-scoped` | 2026-02-28 23:34:08
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca4a8-cde9-7c03-977d-0a6f4f02132d` | scope=`project-scoped` | 2026-02-28 23:32:39
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9da2-3521-7742-b4f7-735641208de9` | scope=`project-scoped` | 2026-02-28 23:15:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9cc0-517d-70d2-b4d8-04f1061e769f` | scope=`project-scoped` | 2026-02-28 23:14:59
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca489-b7b4-7702-ae50-aa3d1125215b` | scope=`project-scoped` | 2026-02-28 22:58:45
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca488-0676-7f20-9aeb-8ab4cdf24a87` | scope=`project-scoped` | 2026-02-28 22:56:51
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca486-5775-73d0-a97a-1d982a8c925e` | scope=`project-scoped` | 2026-02-28 22:54:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca427-aa31-7801-bd4b-3cf229fe16d4` | scope=`project-scoped` | 2026-02-28 21:23:28
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca42b-eac6-77a3-a026-bfefa5309a95` | scope=`project-scoped` | 2026-02-28 21:16:57
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3e4-0c8e-7e73-96bc-51f288fae21c` | scope=`project-scoped` | 2026-02-28 20:29:21
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3ea-6116-7b01-a58a-0460ef0e17d1` | scope=`project-scoped` | 2026-02-28 20:03:56
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3eb-1f6e-7403-a4f1-388f8306f525` | scope=`project-scoped` | 2026-02-28 20:03:44
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3eb-0364-7843-a382-4ba2b3918b3e` | scope=`project-scoped` | 2026-02-28 20:03:39
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3ea-f21a-7ea1-aef0-9f25e3bfba74` | scope=`project-scoped` | 2026-02-28 20:03:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca32f-aee9-7261-bb92-c848d0faf8b4` | scope=`project-scoped` | 2026-02-28 20:02:21
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3e8-75cf-7910-bf23-227b55ff4a24` | scope=`project-scoped` | 2026-02-28 20:02:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3e9-5891-7f92-bf43-da17e1a0ad1e` | scope=`project-scoped` | 2026-02-28 20:01:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3e9-4eab-7f90-88dc-44af22d5987b` | scope=`project-scoped` | 2026-02-28 20:01:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca3e9-33df-7d12-8bd8-0c8f3e4bb10e` | scope=`project-scoped` | 2026-02-28 20:01:40
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca33d-abf0-7602-8390-e2539d4d6a7e` | scope=`project-scoped` | 2026-02-28 19:48:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca37d-83e8-7181-b016-845762fffd86` | scope=`project-scoped` | 2026-02-28 18:05:50
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca37b-c782-7602-ba53-d9f18d4ca775` | scope=`project-scoped` | 2026-02-28 18:03:54
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca37a-127c-7a53-a746-32b8c3ed5534` | scope=`project-scoped` | 2026-02-28 18:02:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca07c-838f-72f1-b303-4e79e131c405` | scope=`external-scoped` | 2026-02-28 16:59:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Codex-Chat-GUI-NextGen-clean
+  - `019ca314-b14d-7a23-88c0-fde6559a23f5` | scope=`project-scoped` | 2026-02-28 16:56:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca338-2377-7073-b677-ad34bba1698f` | scope=`project-scoped` | 2026-02-28 16:49:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca336-5e47-7960-9ac5-b3dbb509ed0d` | scope=`project-scoped` | 2026-02-28 16:47:46
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca334-9622-7a30-9207-fc499fe7dd72` | scope=`project-scoped` | 2026-02-28 16:46:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca332-cc62-7c51-9c42-dbbf9674b54c` | scope=`project-scoped` | 2026-02-28 16:44:12
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca331-0c1e-70b0-ac21-85e71db0adee` | scope=`project-scoped` | 2026-02-28 16:42:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca32f-4e57-77a0-99fb-7651204c07f9` | scope=`project-scoped` | 2026-02-28 16:40:24
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca312-ec99-7df1-8a47-ad7f443cb542` | scope=`project-scoped` | 2026-02-28 16:24:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca31d-6aed-7a72-b90c-38a93cdc7dfd` | scope=`project-scoped` | 2026-02-28 16:20:50
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca31b-a78f-7711-bee7-ab7d78560810` | scope=`project-scoped` | 2026-02-28 16:18:48
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca319-e51b-7c40-82c3-d3d57f383fb7` | scope=`project-scoped` | 2026-02-28 16:16:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c92c4-14ea-70d1-8a51-b2ab82672b5b` | scope=`project-scoped` | 2026-02-28 12:32:16
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca24a-49c5-7e62-ac0c-a55f658aee08` | scope=`project-scoped` | 2026-02-28 12:29:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca07b-1b10-7eb0-9374-cff2a9111c7d` | scope=`project-scoped` | 2026-02-28 04:03:56
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca07c-2c7b-7361-902b-b129459e19aa` | scope=`project-scoped` | 2026-02-28 04:03:39
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca05f-0d7c-7042-a9ea-9782a1497e2a` | scope=`project-scoped` | 2026-02-28 03:33:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca048-7ab2-79a3-b2e8-d8d1766ea4cf` | scope=`external-scoped` | 2026-02-28 03:07:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca048-6984-7722-8c24-fe71ce397c34` | scope=`external-scoped` | 2026-02-28 03:07:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca044-a1b8-7f10-92ec-5e2d18153571` | scope=`external-scoped` | 2026-02-28 03:03:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca044-8bff-7b13-a03c-1b4e118b43ac` | scope=`external-scoped` | 2026-02-28 03:02:57
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca042-e922-7491-aab5-2310e461a327` | scope=`project-scoped` | 2026-02-28 03:02:38
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca041-21e6-78b1-b3a6-6b86a9d24f9b` | scope=`project-scoped` | 2026-02-28 03:01:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca03c-050e-7ac2-b168-4bb48a4bb4bf` | scope=`external-scoped` | 2026-02-28 02:53:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca03b-f860-7fa0-a2a1-1313663a43af` | scope=`external-scoped` | 2026-02-28 02:53:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca03b-45cc-7723-9524-6669cc9e228f` | scope=`external-scoped` | 2026-02-28 02:52:49
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca03b-4356-7ec0-9558-87f2b9eb22a9` | scope=`external-scoped` | 2026-02-28 02:52:48
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca03b-3342-70b2-a18c-4f556ddf5c5d` | scope=`external-scoped` | 2026-02-28 02:52:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca03b-3275-7432-98e4-aea9e0577941` | scope=`external-scoped` | 2026-02-28 02:52:42
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019ca03a-fd4a-7483-9c2c-8261fa616104` | scope=`project-scoped` | 2026-02-28 02:52:29
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca03a-b2b4-7081-9b76-1db570701e88` | scope=`project-scoped` | 2026-02-28 02:52:10
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca03a-9ab9-7151-888e-fdf87cf3c505` | scope=`project-scoped` | 2026-02-28 02:52:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca038-6d63-7ec2-878e-c466e0b11de3` | scope=`project-scoped` | 2026-02-28 02:49:42
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca038-587d-7e82-b19d-cab2541fa549` | scope=`project-scoped` | 2026-02-28 02:49:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca037-d862-7161-a4e6-880f4a1a2ed4` | scope=`project-scoped` | 2026-02-28 02:49:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca037-c246-7843-aed4-2dc3955aad6c` | scope=`project-scoped` | 2026-02-28 02:48:59
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca037-c235-7663-a1bf-5660dbcd3492` | scope=`project-scoped` | 2026-02-28 02:48:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca025-272f-70e1-99bb-6160c543d189` | scope=`project-scoped` | 2026-02-28 02:29:56
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca009-5e6b-7501-8e0c-0e1fc4438117` | scope=`project-scoped` | 2026-02-28 01:59:23
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019ca007-93f8-7b20-9e94-c95caca5b257` | scope=`project-scoped` | 2026-02-28 01:58:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9feb-503b-7820-943a-3695747151f1` | scope=`project-scoped` | 2026-02-28 01:27:01
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9fe9-8ed5-7583-8a72-56e3aebb1f9b` | scope=`project-scoped` | 2026-02-28 01:25:17
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9fcd-55dd-7c22-813e-1df3fa5c9a13` | scope=`project-scoped` | 2026-02-28 00:54:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9fb1-71bd-7732-8fdd-47ca562fd822` | scope=`project-scoped` | 2026-02-28 00:23:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9f82-03b8-7ba2-8c06-9a53d1c14258` | scope=`project-scoped` | 2026-02-27 23:32:10
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9f32-f561-7620-8030-5f8b87eae49b` | scope=`project-scoped` | 2026-02-27 22:05:57
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9f31-2af5-7530-9628-e07360fcae5c` | scope=`project-scoped` | 2026-02-27 22:04:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9f2f-6599-7450-a914-47a954d9c515` | scope=`project-scoped` | 2026-02-27 22:02:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9d60-9889-7c50-9992-88cd9deeb809` | scope=`project-scoped` | 2026-02-27 15:12:16
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9d0d-ba41-7740-b07a-61fa9a23a485` | scope=`project-scoped` | 2026-02-27 12:06:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9d0b-dba4-73f2-86e6-b5a63f0f3c2e` | scope=`project-scoped` | 2026-02-27 12:04:01
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9d0a-0b5b-7583-97cd-bbe45f463be6` | scope=`project-scoped` | 2026-02-27 12:02:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9cf3-1e68-7ec1-a2f9-d8a5c83751a2` | scope=`project-scoped` | 2026-02-27 11:36:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9cd6-8c6c-7042-9962-133b7458ef37` | scope=`project-scoped` | 2026-02-27 11:05:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9cb9-fd83-70a2-9287-3c738a213e5c` | scope=`project-scoped` | 2026-02-27 10:34:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9c9d-1f49-7cb2-8559-050e1b5646bd` | scope=`project-scoped` | 2026-02-27 10:03:05
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9c9b-58a8-7623-a932-d4fa477a3fa6` | scope=`project-scoped` | 2026-02-27 10:01:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9c99-835e-7b82-8162-371b57c83f26` | scope=`project-scoped` | 2026-02-27 09:58:42
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9b23-8404-71f3-8af0-e1e4f94fcb4e` | scope=`project-scoped` | 2026-02-27 03:10:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9b07-26d9-7521-a8b2-30d037ca798c` | scope=`external-scoped` | 2026-02-27 03:00:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9b07-94e0-7010-827f-cb3e99c74691` | scope=`project-scoped` | 2026-02-27 02:39:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9aa8-9a11-7a21-9a51-99c75b80b277` | scope=`project-scoped` | 2026-02-27 00:56:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a8c-ac15-7082-89a5-6d22396a731e` | scope=`project-scoped` | 2026-02-27 00:25:40
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a8a-e96e-7fe3-a070-1f2dbac78a81` | scope=`project-scoped` | 2026-02-27 00:23:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a6b-ef73-7400-bbc7-44fa2d7e5b77` | scope=`project-scoped` | 2026-02-26 23:50:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a6a-290d-7da0-97d3-ea5c3a8677f9` | scope=`project-scoped` | 2026-02-26 23:47:59
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a6b-0ba9-7401-aa83-70c2989b2457` | scope=`project-scoped` | 2026-02-26 23:47:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a68-6106-7de3-8740-eb83f9355dac` | scope=`project-scoped` | 2026-02-26 23:46:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a69-4d2c-7a33-801a-c2ef87302c2d` | scope=`project-scoped` | 2026-02-26 23:45:21
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a5f-40b4-7093-9aba-aa33a218e1af` | scope=`project-scoped` | 2026-02-26 23:35:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a5f-1f8d-7f01-875c-25c7f27c5c26` | scope=`project-scoped` | 2026-02-26 23:34:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a5d-59a1-7be1-9509-9d74aa325916` | scope=`project-scoped` | 2026-02-26 23:34:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a5b-961c-7c82-8256-5ca235de7421` | scope=`project-scoped` | 2026-02-26 23:32:01
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a53-b1bc-7882-978e-c325675334c7` | scope=`project-scoped` | 2026-02-26 23:23:36
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a51-eb13-7eb0-b89b-d37da5e84a01` | scope=`project-scoped` | 2026-02-26 23:21:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a53-743c-7221-a9e0-68bbe0d3797c` | scope=`project-scoped` | 2026-02-26 23:21:31
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a53-4754-7143-9e28-17cfbb28f73b` | scope=`project-scoped` | 2026-02-26 23:21:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a50-24c3-75f2-9e87-7f9e12b5dd2d` | scope=`project-scoped` | 2026-02-26 23:19:41
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a4f-8d82-7683-892b-dfcdce91cb24` | scope=`project-scoped` | 2026-02-26 23:17:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a4a-e77c-71d3-a42d-51020aac44b7` | scope=`external-scoped` | 2026-02-26 23:14:31
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9a4b-5b8a-7081-a923-200ef84fdc86` | scope=`project-scoped` | 2026-02-26 23:12:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a49-72f8-7871-8712-c79669c634c3` | scope=`project-scoped` | 2026-02-26 23:10:44
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a47-d7c1-7482-8cf8-ce059510eb3a` | scope=`project-scoped` | 2026-02-26 23:08:51
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9880-435b-7741-b8ad-fbb17b54709d` | scope=`external-scoped` | 2026-02-26 23:08:08
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9a45-8c4e-77b2-bdd4-f209cd38a185` | scope=`project-scoped` | 2026-02-26 23:06:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a43-4295-7aa2-b58c-7c5cb2d7746e` | scope=`project-scoped` | 2026-02-26 23:04:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a37-a308-7893-b1e6-ad8f3a1cf424` | scope=`external-scoped` | 2026-02-26 22:57:24
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9a33-ae32-7072-a911-1cb2965dd8f6` | scope=`external-scoped` | 2026-02-26 22:54:53
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9a0c-ad84-7893-8145-d7620ddf10a5` | scope=`project-scoped` | 2026-02-26 22:05:50
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a0a-dab1-7533-83a6-743a7715af17` | scope=`project-scoped` | 2026-02-26 22:04:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9a09-0e68-7ab3-adfa-640dfee0006c` | scope=`project-scoped` | 2026-02-26 22:02:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9913-7f73-7b11-9f0e-983aa7a6f595` | scope=`project-scoped` | 2026-02-26 17:32:38
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9913-5c34-7822-a6c3-04c3d0ae30f1` | scope=`project-scoped` | 2026-02-26 17:31:55
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9911-9146-7541-a523-4a461f3b738e` | scope=`project-scoped` | 2026-02-26 17:31:40
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c990c-7d16-7333-bc56-cbfcde931c3b` | scope=`project-scoped` | 2026-02-26 17:29:48
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c990a-a78c-7e62-a9c3-d4f4b61bb6aa` | scope=`project-scoped` | 2026-02-26 17:29:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c990e-4a0c-74e0-9904-4c6ab610e9e8` | scope=`project-scoped` | 2026-02-26 17:29:46
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9910-205f-7e12-aa3f-2e6c54fed774` | scope=`project-scoped` | 2026-02-26 17:29:44
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9909-fb09-7e33-ac53-2b420ca20ced` | scope=`project-scoped` | 2026-02-26 17:22:12
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9908-2c4f-7000-97cf-c0d0d9bf7d29` | scope=`project-scoped` | 2026-02-26 17:21:52
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9906-5648-7371-bf68-6c76ed609297` | scope=`project-scoped` | 2026-02-26 17:21:44
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9905-3f65-7803-86ac-c1a9ad486a33` | scope=`project-scoped` | 2026-02-26 17:17:28
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9901-caa9-7b91-bfb5-0fb22893189c` | scope=`project-scoped` | 2026-02-26 17:16:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c988b-d9a8-7dc1-ae67-45f4d5a5871e` | scope=`project-scoped` | 2026-02-26 15:04:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c988a-c841-7ae2-a0f3-dd80e338f79f` | scope=`project-scoped` | 2026-02-26 15:03:44
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c988a-4b36-7052-8be1-8d00a2d443a0` | scope=`project-scoped` | 2026-02-26 15:02:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c988a-2ac7-7fb1-8f10-ccc4f85989de` | scope=`project-scoped` | 2026-02-26 15:02:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c987b-2c2e-76e3-af51-6b6e789dbbdc` | scope=`project-scoped` | 2026-02-26 14:47:46
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9879-be17-7640-8c41-693ca040433e` | scope=`project-scoped` | 2026-02-26 14:45:31
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c95f6-7154-7e23-afc5-d74f49b9e224` | scope=`project-scoped` | 2026-02-26 03:03:24
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c95f5-5d4b-7943-838a-e35b4b1e48e2` | scope=`external-scoped` | 2026-02-26 03:00:15
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c95ef-a273-7a42-9918-32e7cc227ed3` | scope=`external-scoped` | 2026-02-26 02:54:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c95b5-0003-7f91-ada8-23c59dd1b92d` | scope=`external-scoped` | 2026-02-26 02:51:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c95d9-6ef1-7481-9e20-7941292e4ac1` | scope=`project-scoped` | 2026-02-26 02:32:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c95bd-364c-7ca1-874e-4e6356c30b17` | scope=`project-scoped` | 2026-02-26 02:00:24
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c95b1-e5fe-7111-9d68-c4e18b0bbbb3` | scope=`external-scoped` | 2026-02-26 01:46:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9582-e9cb-7612-99b7-21a939be5d8c` | scope=`external-scoped` | 2026-02-26 01:41:36
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c957d-cef6-7be0-8061-a95d139a18fe` | scope=`external-scoped` | 2026-02-26 01:40:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c955b-d0be-7223-b795-51f5a9142776` | scope=`external-scoped` | 2026-02-26 01:39:10
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c95a5-87ab-7773-969a-f28c32a3dc28` | scope=`project-scoped` | 2026-02-26 01:33:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c95a1-2d2b-7611-b76b-e888bde36685` | scope=`project-scoped` | 2026-02-26 01:29:33
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9596-72b6-77b0-9b7d-2e92f5043ccf` | scope=`project-scoped` | 2026-02-26 01:16:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9580-3b48-7201-a1d4-a9d2e0248197` | scope=`external-scoped` | 2026-02-26 01:13:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c958e-5826-7a82-8131-0b463e1cf4ae` | scope=`project-scoped` | 2026-02-26 01:07:42
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c958b-d283-7bc0-8595-6a7375a95424` | scope=`project-scoped` | 2026-02-26 01:04:57
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9585-0d29-7b70-8a22-a0975be38639` | scope=`project-scoped` | 2026-02-26 00:58:56
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9580-94f5-7663-90e8-7e6989681399` | scope=`project-scoped` | 2026-02-26 00:52:40
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c957f-c0b3-7b71-8b84-c7cced7aa877` | scope=`project-scoped` | 2026-02-26 00:51:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c957f-9bf0-7cb2-a58e-2de8dc1d57d1` | scope=`project-scoped` | 2026-02-26 00:51:38
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c957f-7bde-73d2-a3da-98cd617cc716` | scope=`project-scoped` | 2026-02-26 00:51:31
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9566-c265-7c03-8e6d-e45063694502` | scope=`project-scoped` | 2026-02-26 00:28:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c955e-da33-71f2-a0a6-7d3e6be6d5ff` | scope=`project-scoped` | 2026-02-26 00:16:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c955e-b48c-7f61-9955-80fa7e8c36d2` | scope=`project-scoped` | 2026-02-26 00:15:45
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9541-825f-7973-a720-8b563ab53255` | scope=`external-scoped` | 2026-02-26 00:06:33
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9543-61ae-7ef1-9b25-a82f26b862d9` | scope=`project-scoped` | 2026-02-25 23:45:59
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9543-2d1e-7782-942e-76e4ba1871c1` | scope=`project-scoped` | 2026-02-25 23:45:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9542-df05-70b3-90b1-9292055e37b0` | scope=`project-scoped` | 2026-02-25 23:45:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9542-bac1-7820-8283-79a26e11acc9` | scope=`project-scoped` | 2026-02-25 23:45:10
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9524-ed4f-7280-98a8-e3e6a3746e06` | scope=`external-scoped` | 2026-02-25 23:43:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9535-64cb-7583-8ac2-438d84702500` | scope=`project-scoped` | 2026-02-25 23:32:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c94f9-e25c-77d1-9a37-75ad120bca4a` | scope=`external-scoped` | 2026-02-25 23:08:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9519-b2df-7c80-9fd4-81f590aa32aa` | scope=`project-scoped` | 2026-02-25 23:00:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9519-b2d2-7bb3-803b-cff36b518980` | scope=`external-scoped` | 2026-02-25 23:00:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9518-cfe5-7941-a58b-341449eaa329` | scope=`project-scoped` | 2026-02-25 22:59:29
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9518-93bb-7292-8e51-1664ed2d32fc` | scope=`project-scoped` | 2026-02-25 22:59:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9516-bbad-7d60-9b8e-a1f5714eee90` | scope=`project-scoped` | 2026-02-25 22:57:05
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9513-de47-7920-8ae9-4295894775db` | scope=`project-scoped` | 2026-02-25 22:53:57
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9513-b66b-7670-a181-97c565373869` | scope=`external-scoped` | 2026-02-25 22:53:46
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c950d-1c9c-7b32-af7b-df569dcca5eb` | scope=`external-scoped` | 2026-02-25 22:46:44
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9506-1c97-7a01-8d82-0b36486f39a6` | scope=`project-scoped` | 2026-02-25 22:45:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9500-e327-7b60-b6d7-b9d6ba1471a2` | scope=`project-scoped` | 2026-02-25 22:33:41
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9500-e327-7440-9a91-e649d8fdadad` | scope=`project-scoped` | 2026-02-25 22:33:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8fcd-e21e-7de3-abe8-ae4d6d47c8f7` | scope=`project-scoped` | 2026-02-25 22:31:33
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c94fe-ba7f-7553-a7ca-1e504575ea59` | scope=`project-scoped` | 2026-02-25 22:30:51
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c94fe-ba6f-7733-8895-34915a984f63` | scope=`external-scoped` | 2026-02-25 22:30:50
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c94fc-60cb-7811-a3ff-55d6b9bfc351` | scope=`external-scoped` | 2026-02-25 22:28:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c94fc-2951-78c2-962b-a015bfa87b17` | scope=`external-scoped` | 2026-02-25 22:28:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c94fc-2953-7913-9eb8-ee6f5b8342f6` | scope=`external-scoped` | 2026-02-25 22:28:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c94fa-5cfb-7fc1-86a6-06fc15d2cf69` | scope=`external-scoped` | 2026-02-25 22:27:29
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c94fb-0c02-72e0-839e-22fbff06da62` | scope=`external-scoped` | 2026-02-25 22:26:50
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c94fa-a19b-7061-8669-a36f28cf5c87` | scope=`external-scoped` | 2026-02-25 22:26:23
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c94f6-a5b2-79e0-b317-dc7eab3d1b5e` | scope=`external-scoped` | 2026-02-25 22:24:42
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93dd-f9d2-7910-9ffc-03aa5fbd9bca` | scope=`external-scoped` | 2026-02-25 17:15:27
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93dd-c695-7323-a91c-20c99644dfcd` | scope=`project-scoped` | 2026-02-25 17:15:15
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c93dd-c685-7433-836a-60589689b3c9` | scope=`external-scoped` | 2026-02-25 17:15:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93dd-8c52-7c51-a817-78b968ebb8c9` | scope=`project-scoped` | 2026-02-25 17:15:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c93dd-8bcf-7a81-b239-0b0b0bc15d41` | scope=`external-scoped` | 2026-02-25 17:14:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93dd-8be5-7733-aca0-8267f561c901` | scope=`external-scoped` | 2026-02-25 17:14:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93dd-5ef9-7e80-95f2-c0095d1ff47d` | scope=`project-scoped` | 2026-02-25 17:14:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c93d5-7308-7e13-b081-c964ab790bb0` | scope=`external-scoped` | 2026-02-25 17:06:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93d5-492b-70e1-bbbd-0bcd8dc214d9` | scope=`external-scoped` | 2026-02-25 17:06:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93d3-c46f-7881-895e-a2515a4cc6f2` | scope=`project-scoped` | 2026-02-25 17:04:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c93d3-c3ed-72e0-8abe-d99602e8142f` | scope=`external-scoped` | 2026-02-25 17:04:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93d3-9981-7b00-83dd-c33eda133ab0` | scope=`project-scoped` | 2026-02-25 17:04:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c93d1-3ae1-7991-91a3-4fc61f758778` | scope=`external-scoped` | 2026-02-25 17:01:33
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c93ce-59bf-7de2-8853-66a23047401f` | scope=`project-scoped` | 2026-02-25 16:58:30
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9386-6449-7f31-bd08-e803a83ab36a` | scope=`external-scoped` | 2026-02-25 16:52:40
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c935f-74ae-75b2-a333-397728c163ac` | scope=`external-scoped` | 2026-02-25 15:39:15
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c92c1-a98a-71f1-9015-fe8036a008c1` | scope=`external-scoped` | 2026-02-25 14:56:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9340-d34c-7222-a91a-06f05dda930b` | scope=`project-scoped` | 2026-02-25 14:24:49
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c933f-9141-74c0-9a55-8fe81b0f4eae` | scope=`project-scoped` | 2026-02-25 14:23:31
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9310-b17b-7633-be81-755ddb4c053d` | scope=`project-scoped` | 2026-02-25 13:33:40
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c92e9-522d-7030-9b52-85af203cd099` | scope=`project-scoped` | 2026-02-25 12:51:36
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c92bc-515d-7941-ac80-8bcc3c3eadd8` | scope=`external-scoped` | 2026-02-25 12:04:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c92bd-6536-7b32-a4f3-19f56fc3b8ed` | scope=`project-scoped` | 2026-02-25 12:01:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c92a9-9b84-7260-901d-938f84e9a315` | scope=`external-scoped` | 2026-02-25 11:57:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9257-b15b-7922-a53e-8a0145fcb4c5` | scope=`external-scoped` | 2026-02-25 11:28:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/Desktop/Codex-Chat-GUI-current
+  - `019c9294-c46d-7621-9654-8bb5ebe7fbd5` | scope=`project-scoped` | 2026-02-25 11:20:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c928c-c5a5-7b91-bae1-c2fc5b7cf79c` | scope=`project-scoped` | 2026-02-25 11:10:08
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9285-f8da-72d3-afd3-0b543f5de244` | scope=`project-scoped` | 2026-02-25 11:02:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9278-0e87-73b3-abb2-cbc41b81b14d` | scope=`project-scoped` | 2026-02-25 10:47:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9279-4eb0-7533-bc04-591facaee203` | scope=`project-scoped` | 2026-02-25 10:46:22
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9273-e9ee-7081-8ef2-cf3b054edc42` | scope=`project-scoped` | 2026-02-25 10:42:48
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9275-bda2-7c50-b22e-640eb0226072` | scope=`project-scoped` | 2026-02-25 10:42:00
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9273-4e08-72b1-8a5a-8ccbe35593d4` | scope=`project-scoped` | 2026-02-25 10:41:30
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c926d-ae1e-75c2-988d-c2714a837d24` | scope=`project-scoped` | 2026-02-25 10:36:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c926d-def5-7320-b87b-a5b0a0f7b987` | scope=`project-scoped` | 2026-02-25 10:35:41
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c926f-1951-7bc1-8c1e-c471d0d3e080` | scope=`project-scoped` | 2026-02-25 10:34:45
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c926e-f0c7-7be1-b9d2-39e773ba4355` | scope=`project-scoped` | 2026-02-25 10:34:33
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c926b-66b8-79f2-8b83-bd1ef24714ca` | scope=`project-scoped` | 2026-02-25 10:33:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c926b-2759-7023-89eb-7cd4b9fed48d` | scope=`project-scoped` | 2026-02-25 10:30:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c926a-fca0-7cf2-880f-259437da37d0` | scope=`project-scoped` | 2026-02-25 10:30:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9265-a892-77d2-b57d-f67425f27b4d` | scope=`project-scoped` | 2026-02-25 10:30:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c926a-b07b-7c90-84c2-e6b067638060` | scope=`project-scoped` | 2026-02-25 10:29:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9261-c9bf-79e0-b1be-2df2c383517b` | scope=`project-scoped` | 2026-02-25 10:24:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c925b-0d91-7d91-b04c-3ee280a85bf8` | scope=`project-scoped` | 2026-02-25 10:20:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9259-7ceb-71f0-a980-fa73c1d108e6` | scope=`project-scoped` | 2026-02-25 10:12:43
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c925a-6887-7d31-9bea-87dff0a150c4` | scope=`project-scoped` | 2026-02-25 10:12:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9255-185d-7330-a408-5a0f730b49dc` | scope=`project-scoped` | 2026-02-25 10:11:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9250-0423-7cb1-9388-9dc00b6bd720` | scope=`project-scoped` | 2026-02-25 10:06:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c924a-c55e-76f1-a640-8f19ca607581` | scope=`project-scoped` | 2026-02-25 10:00:39
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9247-6298-78c2-bbd3-8bb465127a94` | scope=`project-scoped` | 2026-02-25 09:54:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9242-bea9-7090-a968-b4d444a95731` | scope=`project-scoped` | 2026-02-25 09:51:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9244-9494-70f3-8c8a-4f3d119e0732` | scope=`project-scoped` | 2026-02-25 09:48:20
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c923f-9644-7b61-b2fd-0122fdcdedab` | scope=`project-scoped` | 2026-02-25 09:46:10
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9241-93fa-7442-9ef4-fe83661d7d3e` | scope=`project-scoped` | 2026-02-25 09:45:12
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9241-5ccb-7db3-9ec7-04100650bc9a` | scope=`project-scoped` | 2026-02-25 09:44:49
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9240-deb4-7272-8f8f-31866cbed0c5` | scope=`project-scoped` | 2026-02-25 09:44:23
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c923d-44d8-7330-b82f-36ead07d3354` | scope=`project-scoped` | 2026-02-25 09:42:45
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c923d-b7cd-72d2-95f3-c3da946ff5fb` | scope=`project-scoped` | 2026-02-25 09:40:54
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9237-35bf-7642-b334-dcc4b711a2c1` | scope=`project-scoped` | 2026-02-25 09:40:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9233-ed46-7143-acfc-b574960dc24a` | scope=`project-scoped` | 2026-02-25 09:33:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9234-f432-76d2-a71c-af1e931b0de9` | scope=`project-scoped` | 2026-02-25 09:31:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9234-3055-75c1-898c-13b6051aec4e` | scope=`project-scoped` | 2026-02-25 09:30:59
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9232-f400-73f2-8827-cd3ecd2d6ba8` | scope=`project-scoped` | 2026-02-25 09:29:29
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9232-b82f-7b83-9d89-bbfd389539e4` | scope=`project-scoped` | 2026-02-25 09:28:55
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9231-719b-7602-88ae-eeca16891596` | scope=`project-scoped` | 2026-02-25 09:28:24
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c922e-2122-7173-bf7b-2571be676f6d` | scope=`project-scoped` | 2026-02-25 09:27:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90f2-f1c9-7c00-9ab5-7b060ebed617` | scope=`project-scoped` | 2026-02-25 03:41:27
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90f2-f1c9-7823-91de-86f0d12b6755` | scope=`project-scoped` | 2026-02-25 03:41:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90e8-a007-79e0-acf3-be177a37bc96` | scope=`project-scoped` | 2026-02-25 03:32:16
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90e1-7b71-7fc2-a61f-7f8f55e67a10` | scope=`project-scoped` | 2026-02-25 03:24:41
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90c8-fff5-7e20-b880-fc4f2ff29eae` | scope=`project-scoped` | 2026-02-25 02:58:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90ba-1143-7f30-89c9-25d87f501cbd` | scope=`project-scoped` | 2026-02-25 02:39:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90b3-91ad-7e83-971b-50b64bfed3bd` | scope=`project-scoped` | 2026-02-25 02:34:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90b3-91ac-74d1-aff6-5034411e5ad6` | scope=`project-scoped` | 2026-02-25 02:34:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90b6-68ad-7762-b466-847ef6f3c78c` | scope=`project-scoped` | 2026-02-25 02:33:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90b0-6b1d-7200-9bf2-66e2647a78b2` | scope=`project-scoped` | 2026-02-25 02:26:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90ab-5d82-7480-a263-de2f1a3ee575` | scope=`project-scoped` | 2026-02-25 02:23:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90aa-9bf9-7081-9a4c-2c51a375fac7` | scope=`project-scoped` | 2026-02-25 02:20:29
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90aa-50ac-7703-972c-e8420c819767` | scope=`project-scoped` | 2026-02-25 02:20:12
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90aa-326d-7913-8605-89c1243cbec1` | scope=`project-scoped` | 2026-02-25 02:20:02
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90a9-1d96-7150-808a-389b0ebd3a23` | scope=`project-scoped` | 2026-02-25 02:19:50
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90a9-1e75-7772-93ba-d75572356401` | scope=`project-scoped` | 2026-02-25 02:19:50
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90a6-6cf4-7242-9df9-e360729c2e19` | scope=`project-scoped` | 2026-02-25 02:17:28
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90a2-3ffd-7d72-b0f5-c0cdf428ed8b` | scope=`project-scoped` | 2026-02-25 02:13:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90a3-227c-7df3-b1b1-e00caf42e5a8` | scope=`project-scoped` | 2026-02-25 02:12:19
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c90a2-f5a5-7130-b777-3b102ef984cc` | scope=`project-scoped` | 2026-02-25 02:12:08
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c909a-d6e8-7d73-a7fc-677f51ab8738` | scope=`project-scoped` | 2026-02-25 02:03:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c909a-b698-70f3-9c90-23217fad6bfa` | scope=`project-scoped` | 2026-02-25 02:03:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c909a-993d-7143-89a0-e5cadcf22412` | scope=`project-scoped` | 2026-02-25 02:03:01
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c908f-8630-7d71-83d6-7e8249148737` | scope=`project-scoped` | 2026-02-25 01:51:15
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c908a-3c89-7762-b5ec-f89b8c8cf236` | scope=`project-scoped` | 2026-02-25 01:45:09
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9083-9929-7bd1-8d7b-159de8998fa1` | scope=`project-scoped` | 2026-02-25 01:38:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9083-3194-7d92-90a8-7156047c1184` | scope=`project-scoped` | 2026-02-25 01:37:24
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9082-c6fa-7911-ab21-608fd740db1a` | scope=`project-scoped` | 2026-02-25 01:37:11
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9080-ee82-7e61-bcec-0ed8adf6c960` | scope=`project-scoped` | 2026-02-25 01:36:53
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9080-c491-7dc1-b7ec-9983d55bad5a` | scope=`project-scoped` | 2026-02-25 01:35:36
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c907f-8524-79d1-a0d9-05b761962806` | scope=`project-scoped` | 2026-02-25 01:34:51
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9080-5f92-7c42-ab91-753412ffacef` | scope=`project-scoped` | 2026-02-25 01:34:35
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c907c-1e67-7121-a5af-bac979365f85` | scope=`project-scoped` | 2026-02-25 01:31:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c907b-d0a8-77e2-9843-4916305e43f8` | scope=`project-scoped` | 2026-02-25 01:29:23
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c906d-74f7-7d61-80a2-6427992a261a` | scope=`external-scoped` | 2026-02-25 01:29:19
+    - cwd: /mnt/c/Users/jhk92
+  - `019c907b-a7a8-7c20-9460-38983f498966` | scope=`project-scoped` | 2026-02-25 01:29:14
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c907b-8738-7e82-b62c-c4073d99db81` | scope=`project-scoped` | 2026-02-25 01:29:05
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c907a-2936-77a3-ab2e-fea8773e285a` | scope=`project-scoped` | 2026-02-25 01:28:42
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9078-dd14-7b31-8de2-f3278bd5b991` | scope=`project-scoped` | 2026-02-25 01:27:29
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9078-cc38-7482-a8c9-e278df3d904c` | scope=`project-scoped` | 2026-02-25 01:26:13
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9078-9112-7ee0-862e-0f286a50c6e5` | scope=`project-scoped` | 2026-02-25 01:25:51
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9078-64d6-7441-84db-0e2a7cc20d67` | scope=`project-scoped` | 2026-02-25 01:25:41
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9078-4250-7813-83f5-b3693677e794` | scope=`project-scoped` | 2026-02-25 01:25:31
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9078-0ad1-7140-ad39-a1e38d555298` | scope=`project-scoped` | 2026-02-25 01:25:17
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8fc7-1ec8-7a30-8061-fe72e3f8bbf9` | scope=`project-scoped` | 2026-02-25 01:25:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9071-69eb-7be2-a906-00296d70599a` | scope=`project-scoped` | 2026-02-25 01:21:50
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9073-c11f-7302-944a-8b57cacca04e` | scope=`project-scoped` | 2026-02-25 01:20:34
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9073-00da-7381-936c-9d5e8a58705c` | scope=`project-scoped` | 2026-02-25 01:20:08
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c9070-f043-7392-959b-69401c852dab` | scope=`project-scoped` | 2026-02-25 01:17:32
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c906a-913a-75e2-b578-d243c69a3a1b` | scope=`project-scoped` | 2026-02-25 01:10:33
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c902c-59eb-7362-b854-4c79bf4609d2` | scope=`external-scoped` | 2026-02-25 01:04:30
+    - cwd: C:\WINDOWS\system32
+  - `019c9029-1ef7-7300-af68-4dd26ce96c40` | scope=`external-scoped` | 2026-02-25 00:00:41
+    - cwd: /mnt/c/WINDOWS/system32
+  - `019c9024-8fbc-71f2-bd20-aa42d338b491` | scope=`project-scoped` | 2026-02-24 23:58:41
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c900a-064f-7bc1-b517-5a7c464d80a1` | scope=`external-scoped` | 2026-02-24 23:25:25
+    - cwd: /mnt/c/Users/jhk92/Downloads/msw2
+  - `019c8ffa-5bb1-75e0-9957-8ffcfe709c81` | scope=`project-scoped` | 2026-02-24 23:07:58
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8f4d-9834-7093-a179-f9143ffe7dd5` | scope=`external-scoped` | 2026-02-24 22:19:08
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c85f7-0229-7333-9eb2-74f31c169cf2` | scope=`external-scoped` | 2026-02-24 19:34:14
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c8a88-d304-77a0-8ec3-d5b52e2eb263` | scope=`external-scoped` | 2026-02-24 15:54:28
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c3aac-f57c-77a3-a423-e6eb55ca99ca` | scope=`external-scoped` | 2026-02-24 14:30:03
+    - cwd: c:\Users\jhk92\Downloads\My project (7)
+  - `019c8ad0-f12e-75e3-908a-29b5a9f9c5d6` | scope=`project-scoped` | 2026-02-23 23:04:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8acd-95de-7721-9daa-7c551d179b49` | scope=`project-scoped` | 2026-02-23 23:00:57
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ac0-4723-7833-b18a-d08882004a18` | scope=`project-scoped` | 2026-02-23 22:46:25
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8abf-e596-7d40-8b39-f9ae7dc054ce` | scope=`project-scoped` | 2026-02-23 22:46:07
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8abf-9456-7da3-acef-380b3f3cd306` | scope=`project-scoped` | 2026-02-23 22:45:39
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ab9-3b0b-71e1-afbb-239313a500cb` | scope=`project-scoped` | 2026-02-23 22:40:04
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ab4-b80b-73b0-aeeb-8087705b3ebe` | scope=`project-scoped` | 2026-02-23 22:33:47
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ab4-6b01-7d50-9d58-4d9c350a6477` | scope=`project-scoped` | 2026-02-23 22:33:28
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ab2-993d-7f50-bd10-5cfff2b143dd` | scope=`project-scoped` | 2026-02-23 22:33:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ab2-299a-7f10-a16e-63557ee08acc` | scope=`project-scoped` | 2026-02-23 22:31:03
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ab1-e66d-7e20-9797-cff60420ff8f` | scope=`project-scoped` | 2026-02-23 22:30:45
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ab0-c5f5-7830-acf5-e509f5d8a706` | scope=`project-scoped` | 2026-02-23 22:29:29
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8ab0-8594-7780-93f6-fbb0162f1c5e` | scope=`project-scoped` | 2026-02-23 22:29:12
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8aaf-aa0b-7a43-902e-584a232d040b` | scope=`project-scoped` | 2026-02-23 22:28:18
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8aaf-3c0c-7100-9afe-89ea19ae1bc8` | scope=`project-scoped` | 2026-02-23 22:27:49
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8aaf-1122-71d0-b085-25ea7350ea8a` | scope=`project-scoped` | 2026-02-23 22:27:37
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c8aae-82ba-7203-bee8-51f21809c4c0` | scope=`project-scoped` | 2026-02-23 22:27:06
+    - cwd: /mnt/c/Users/jhk92/OneDrive/문서/GitHub/ai/Moltbot
+  - `019c89ff-f7a5-7ba3-b6e5-129387732519` | scope=`external-scoped` | 2026-02-23 19:36:19
+    - cwd: c:\Users\jhk92\Downloads\쓸수있는것-20260223T091445Z-1-001\쓸수있는것
+  - `019c88f5-fff2-7f03-8b7a-b622ee5ef49e` | scope=`external-scoped` | 2026-02-23 14:56:37
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c5fd6-65e5-7220-946f-63b66c3175d7` | scope=`external-scoped` | 2026-02-23 02:17:41
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c8600-5b7d-7130-9c65-750c6b3786f6` | scope=`external-scoped` | 2026-02-23 00:41:05
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c85fd-35d4-7230-b721-d1ba136e1680` | scope=`external-scoped` | 2026-02-23 00:37:11
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c85fc-bd7b-7b32-aff0-c233389d7520` | scope=`unknown` | 2026-02-23 00:34:19
+  - `019c85fa-ef1f-7723-9362-6616d7f22f42` | scope=`external-scoped` | 2026-02-23 00:32:45
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c85fa-c3f4-7942-92fb-464155dbf6a3` | scope=`external-scoped` | 2026-02-23 00:32:15
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c8409-1ee1-7941-9828-f01d716bad18` | scope=`external-scoped` | 2026-02-22 17:46:30
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c8445-94c0-7112-93a5-0c52f70a45d4` | scope=`external-scoped` | 2026-02-22 16:57:47
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c7fe7-b6a7-7053-8cd8-11314609b80d` | scope=`external-scoped` | 2026-02-21 20:19:18
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c7a7b-d20f-7523-aad3-922e6bde5f73` | scope=`external-scoped` | 2026-02-20 19:52:21
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\test
+  - `019c74e1-32a7-7520-9113-62867f79db51` | scope=`external-scoped` | 2026-02-19 17:06:52
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c7187-b430-7fb2-873c-a158d58ee7a3` | scope=`external-scoped` | 2026-02-19 16:53:51
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c742b-9350-7140-bccf-25912f2aa882` | scope=`external-scoped` | 2026-02-19 13:38:12
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c6666-2fc7-7bb3-a682-b344ae57e659` | scope=`external-scoped` | 2026-02-19 01:26:46
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6efd-a299-7a51-b261-795fccb851f3` | scope=`external-scoped` | 2026-02-18 13:24:02
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac1b-7a40-aa33-b8d2704de610` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac22-7ca0-91cd-2b76ba1dfc50` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac22-7d22-a546-a5c4eb80efca` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac22-7501-b186-eb30f04bd449` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6efb-ac19-7490-9f42-ba262eaa578a` | scope=`external-scoped` | 2026-02-18 13:21:54
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6ef9-ddc4-77a3-8199-bdb3217d4216` | scope=`external-scoped` | 2026-02-18 13:19:56
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6ef9-ddc4-7b80-a329-61852027d3a6` | scope=`external-scoped` | 2026-02-18 13:19:56
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6c01-7954-7b72-8d48-aadef2ae01c6` | scope=`external-scoped` | 2026-02-17 23:29:22
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c6c01-4263-7f11-912a-981f8f49685b` | scope=`external-scoped` | 2026-02-17 23:29:11
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\WSL
+  - `019c663c-0559-7030-9ec5-54ad8e418b14` | scope=`external-scoped` | 2026-02-17 12:15:09
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6661-1fff-7f82-80b3-7cde5a01c481` | scope=`external-scoped` | 2026-02-16 21:20:22
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c665f-a39d-7250-8b5e-69f8b116c662` | scope=`external-scoped` | 2026-02-16 21:18:28
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6659-0c9c-7213-b268-cf284b7aa526` | scope=`external-scoped` | 2026-02-16 21:11:52
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6658-5021-7313-ad68-19fa9599917c` | scope=`external-scoped` | 2026-02-16 21:09:34
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6640-656d-7da3-b08a-0f4b94801f18` | scope=`external-scoped` | 2026-02-16 20:44:54
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6633-ec05-7601-a570-8542e7d7c57c` | scope=`external-scoped` | 2026-02-16 20:42:19
+    - cwd: c:\Users\jhk92\Downloads\msw2
+  - `019c6616-2f8a-7321-8fc2-b4f0b37765f8` | scope=`external-scoped` | 2026-02-16 20:04:47
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c65c5-d078-7621-ab2b-4acb9f45a17d` | scope=`external-scoped` | 2026-02-16 19:40:30
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c64c7-7eaa-7383-a76e-d6db7a061b85` | scope=`external-scoped` | 2026-02-16 19:05:22
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c65a2-cf21-7e91-bd18-0905046e0a78` | scope=`external-scoped` | 2026-02-16 19:03:26
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c64c4-abc7-7c00-a8fb-ae4af8def11c` | scope=`external-scoped` | 2026-02-16 17:36:51
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c64c1-a52d-7863-9dc5-ae5c61e910b8` | scope=`external-scoped` | 2026-02-16 13:48:31
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c64c1-805d-73a2-b4d0-83e6929f8418` | scope=`external-scoped` | 2026-02-16 13:42:11
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c64c0-64f0-7282-b052-2dd5f694e97b` | scope=`external-scoped` | 2026-02-16 13:40:58
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c6490-8e70-7203-8ce6-5c269517dca8` | scope=`external-scoped` | 2026-02-16 13:06:13
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c6488-6736-7620-801a-7a00deb854ad` | scope=`external-scoped` | 2026-02-16 12:44:24
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c647f-e46d-7ed3-a174-6eeac4d648c8` | scope=`external-scoped` | 2026-02-16 12:32:22
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c647e-be79-7110-8218-3c52ce078da9` | scope=`external-scoped` | 2026-02-16 12:30:25
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c5b1c-f9de-7410-8872-6d679fc48202` | scope=`external-scoped` | 2026-02-16 00:43:19
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c5cb9-c270-70d3-942b-d72337345383` | scope=`external-scoped` | 2026-02-15 21:21:56
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c4ca1-35b9-7313-a42f-393085bcb616` | scope=`external-scoped` | 2026-02-15 20:56:33
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c5ffc-efe1-77e1-b99e-a5b4b4bc6642` | scope=`external-scoped` | 2026-02-15 15:30:05
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c5fce-451f-7583-aa8c-dc03fb113588` | scope=`external-scoped` | 2026-02-15 15:00:20
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c5c60-f800-7ad2-81b8-b2bbafca5673` | scope=`external-scoped` | 2026-02-15 14:41:09
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c5fc4-f245-7aa0-a5d3-85bb5a29da23` | scope=`external-scoped` | 2026-02-15 14:32:23
+    - cwd: c:\Users\jhk92\.gemini\antigravity\brain
+  - `019c5cac-af1c-7803-aa68-c15181f6e8d1` | scope=`external-scoped` | 2026-02-15 00:12:47
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c5c64-c2de-7a41-aef8-421ea0eb2d36` | scope=`external-scoped` | 2026-02-14 22:44:23
+    - cwd: C:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c5c25-5861-72e0-9315-3a29ae6204be` | scope=`external-scoped` | 2026-02-14 21:42:54
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c576a-b153-7ef3-963e-cee2d5f566e5` | scope=`external-scoped` | 2026-02-14 00:38:31
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c4c9b-7771-7cd1-8e7e-b85956b177cf` | scope=`external-scoped` | 2026-02-11 21:10:39
+    - cwd: c:\Projects\MSW-VampireSurvivors
+  - `019c4302-9139-7e12-b478-ee96207dd628` | scope=`external-scoped` | 2026-02-11 15:52:31
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c430e-5a86-7450-93d1-1162beb25d8d` | scope=`external-scoped` | 2026-02-10 00:43:39
+    - cwd: c:\Users\jhk92\OneDrive\문서\GitHub\ai\Moltbot
+  - `019c30df-dd81-79a0-934f-53e469e5cfa3` | scope=`external-scoped` | 2026-02-06 12:17:55
+    - cwd: c:\Users\jhk92\Downloads\My project (7)
+
+## Fold1
+- status: **offline**
+- detail: ubuntu ssh down: ssh: connect to host 192.168.35.89 port 8023: No route to host; termux ssh down: ssh: connect to host 192.168.35.89 port 8022: No route to host
+- sessions: (none)
+
+## Antigravity
+- status: **online**
+- detail: brain workspaces: 58, conversation blobs: 51
+- scope counts:
+  - `antigravity-workspace`: 58
+- classified sessions: 8
+  - `6e341733-5468-4cd1-83de-9f43d9285e2c` | scope=`antigravity-workspace` | 2026-03-03 21:25:12
+    - cwd: /mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c
+  - `5d3a78eb-bddc-4bb9-9b41-2eccc7beafcb` | scope=`antigravity-workspace` | 2026-02-28 16:53:01
+    - cwd: /mnt/c/Users/jhk92/.gemini/antigravity/brain/5d3a78eb-bddc-4bb9-9b41-2eccc7beafcb
+  - `cc3f47bf-9c88-470e-9724-8c86f50bc3b1` | scope=`antigravity-workspace` | 2026-02-28 03:16:56
+    - cwd: /mnt/c/Users/jhk92/.gemini/antigravity/brain/cc3f47bf-9c88-470e-9724-8c86f50bc3b1
+  - `2d6fb331-c215-4342-9d17-d797a75eeb9c` | scope=`antigravity-workspace` | 2026-02-27 01:45:15
+    - cwd: /mnt/c/Users/jhk92/.gemini/antigravity/brain/2d6fb331-c215-4342-9d17-d797a75eeb9c
+  - `c5e686f2-8dbb-4844-b75c-85f75cea5e60` | scope=`antigravity-workspace` | 2026-02-26 14:40:44
+    - cwd: /mnt/c/Users/jhk92/.gemini/antigravity/brain/c5e686f2-8dbb-4844-b75c-85f75cea5e60
+  - `tempmediaStorage` | scope=`antigravity-workspace` | 2026-02-24 15:44:02
+    - cwd: /mnt/c/Users/jhk92/.gemini/antigravity/brain/tempmediaStorage
+  - `f47314d7-a6e2-4924-8cd7-932789e48afc` | scope=`antigravity-workspace` | 2026-02-26 12:35:53
+    - cwd: /mnt/c/Users/jhk92/.gemini/antigravity/brain/f47314d7-a6e2-4924-8cd7-932789e48afc
+  - `2810bb37-904e-48f2-ba6f-deab36a92d81` | scope=`antigravity-workspace` | 2026-02-26 03:14:50
+    - cwd: /mnt/c/Users/jhk92/.gemini/antigravity/brain/2810bb37-904e-48f2-ba6f-deab36a92d81
+
+## WindowsTempArtifacts
+- status: **online**
+- detail: files: 0 | temp-prompt=0, temp-answer=0, temp-error=0, temp-other=0
+- sessions: (none)
+
+## ChatGPT-WebApp
+- status: **online**
+- detail: export zip found (0de9e284f70b860fe63b5e28aaddc0ee7a22bd1dab6fc430bd0bf284a7a94070-2026-02-28-12-01-06-6b187fa97d244cc5beb7efa352c5af1f.zip) but conversations.json missing
+- sessions: (none)
+
+## GeekNewsHelpful
+- status: **online**
+- detail: source=https://news.hada.io/rss/news | selected=20 | file=GEEKNEWS_HELPFUL.json
+- classified sessions: 8
+  - `Anthropic Courses - 무료 온라인 강의 공개` | scope=`geeknews-helpful` | 2026-03-02 11:06:02
+    - title: Anthropic Courses - 무료 온라인 강의 공개
+    - cwd: geeknews-digest
+  - `알리바바의 오픈소스 Qwen3.5-Medium 모델, 로컬에서 Sonnet 4.5 수준 성능 제공` | scope=`geeknews-helpful` | 2026-03-02 04:33:12
+    - title: 알리바바의 오픈소스 Qwen3.5-Medium 모델, 로컬에서 Sonnet 4.5 수준 성능 제공
+    - cwd: geeknews-digest
+  - `Show GN: microGPT를 웹사이트로 시각화 해보았습니다.` | scope=`geeknews-helpful` | 2026-03-01 11:05:21
+    - title: Show GN: microGPT를 웹사이트로 시각화 해보았습니다.
+    - cwd: geeknews-digest
+  - `Magpie — LLM이 코드를 처음 시도에 완벽하게 작성할 수 있도록 설계된 프로그래밍 언어` | scope=`geeknews-helpful` | 2026-03-01 10:54:59
+    - title: Magpie — LLM이 코드를 처음 시도에 완벽하게 작성할 수 있도록 설계된 프로그래밍 언어
+    - cwd: geeknews-digest
+  - `OpenAI – 계정 삭제 방법` | scope=`geeknews-helpful` | 2026-03-01 09:38:48
+    - title: OpenAI – 계정 삭제 방법
+    - cwd: geeknews-digest
+  - `Show GN: OpenChrome - 크롬 브라우저를 위한 병렬 자동화 MCP 서버` | scope=`geeknews-helpful` | 2026-02-28 10:03:31
+    - title: Show GN: OpenChrome - 크롬 브라우저를 위한 병렬 자동화 MCP 서버
+    - cwd: geeknews-digest
+  - `Claude, 다른 LLM에서 전환하는 Import Memory 기능 추가` | scope=`geeknews-helpful` | 2026-03-02 09:43:04
+    - title: Claude, 다른 LLM에서 전환하는 Import Memory 기능 추가
+    - cwd: geeknews-digest
+  - `AI 코딩이 초래하는 비용` | scope=`geeknews-helpful` | 2026-03-01 10:44:43
+    - title: AI 코딩이 초래하는 비용
+    - cwd: geeknews-digest

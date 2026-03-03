@@ -1,0 +1,14 @@
+{
+  "userIgnoreFilters": [
+    ".git/",
+    "node_modules/",
+    ".venv/",
+    "Library/",
+    "Temp/",
+    "^workspace-links/antigravity/brain/[0-9a-fA-F-]{36}/",
+    "^workspace-links/antigravity/code_tracker/[0-9a-fA-F-]{36}/",
+    "^workspace-links/antigravity/brain/sections_dump\\.md$",
+    "^workspace-links/antigravity/brain/sections_dump_after\\.md$",
+    "^workspace-links/antigravity/brain/tmp_section\\.md$"
+  ]
+}
