@@ -1,0 +1,133 @@
+{
+  "discovered_paths": [
+    "/home/jhk92/.gemini/antigravity/brain/89d223cb-d37b-459d-be6e-9422033526aa",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/import_backups",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Antigravity-Brain",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Antigravity-CodeTracker",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Copilot-Prompts",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Gameplay-OCR-ComputerUse-QA",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/MSW-VampireSurvivors",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/MSW-VampireSurvivors-Pro",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Moltbot",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/OpenClaw",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/project-7f1d8c413d3d",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/project-e950ddb36cf9",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/project-f210569fd9cb",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/C:/Users/jhk92/OneDrive/문서/Obsidian Vault/workspace-links/_catalog/updates/OpenClaw",
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/logs/ide_history_export_20260306",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/89d223cb-d37b-459d-be6e-9422033526aa",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/temp_youtube_batch25"
+  ],
+  "file_counts": {
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/import_backups": {
+      "file_count": 17,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Moltbot": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/MSW-VampireSurvivors": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Gameplay-OCR-ComputerUse-QA": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/MSW-VampireSurvivors-Pro": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/project-7f1d8c413d3d": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Antigravity-Brain": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/project-f210569fd9cb": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Copilot-Prompts": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/Antigravity-CodeTracker": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/project-e950ddb36cf9": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/.agent/projects/OpenClaw": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/logs/ide_history_export_20260306": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/C:/Users/jhk92/OneDrive/문서/Obsidian Vault/workspace-links/_catalog/updates/OpenClaw": {
+      "file_count": 1,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c": {
+      "file_count": 6,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/89d223cb-d37b-459d-be6e-9422033526aa": {
+      "file_count": 2,
+      "manifest_exists": false,
+      "failed_exists": false
+    },
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/temp_youtube_batch25": {
+      "file_count": 1,
+      "manifest_exists": true,
+      "failed_exists": false
+    },
+    "/home/jhk92/.gemini/antigravity/brain/89d223cb-d37b-459d-be6e-9422033526aa": {
+      "file_count": 2,
+      "manifest_exists": false,
+      "failed_exists": false
+    }
+  },
+  "manifests_found": [
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/temp_youtube_batch25/manifest.json"
+  ],
+  "failed_lists_found": [],
+  "reusable_docs": [
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c/lilys_ai_2026_full_content.md",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c/lilys_ai_2026_full_content.md",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c/lilys_ai_2026_full_content.md"
+  ],
+  "broken_docs": [
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/C:/Users/jhk92/OneDrive/문서/Obsidian Vault/workspace-links/_catalog/updates/OpenClaw/2026-03-06.md",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c/lilys_ai_2026_full_content.md",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c/lilys_ai_extracted_data.md"
+  ],
+  "reextract_targets": [
+    "/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean/C:/Users/jhk92/OneDrive/문서/Obsidian Vault/workspace-links/_catalog/updates/OpenClaw/2026-03-06.md",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c/lilys_ai_2026_full_content.md",
+    "/mnt/c/Users/jhk92/.gemini/antigravity/brain/6e341733-5468-4cd1-83de-9f43d9285e2c/lilys_ai_extracted_data.md"
+  ]
+}

@@ -1,22 +1,65 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:\"workspace-links/_catalog/updates\" -path:\"workspace-links/_tools/master-brain\" -path:\"workspace-links/_tools/chatgpt-export\" -path:\"copilot/perplexity-tools/out\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"workspace-links/_catalog\"",
+      "color": {
+        "a": 1,
+        "rgb": 6583435
+      }
+    },
+    {
+      "query": "path:\"workspace-links/projects\"",
+      "color": {
+        "a": 1,
+        "rgb": 3050327
+      }
+    },
+    {
+      "query": "path:\"workspace-links/antigravity/brain\"",
+      "color": {
+        "a": 1,
+        "rgb": 3108845
+      }
+    },
+    {
+      "query": "path:\"workspace-links/antigravity/code_tracker\"",
+      "color": {
+        "a": 1,
+        "rgb": 14251782
+      }
+    },
+    {
+      "query": "path:\"OpenClaw\"",
+      "color": {
+        "a": 1,
+        "rgb": 12730636
+      }
+    },
+    {
+      "query": "path:\"copilot\"",
+      "color": {
+        "a": 1,
+        "rgb": 8141549
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 0.9,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.42,
+  "repelStrength": 9,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7514342322277577,
+  "linkDistance": 170,
+  "scale": 0.19630179214045507,
   "close": false
 }
