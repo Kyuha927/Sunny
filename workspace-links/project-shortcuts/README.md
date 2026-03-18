@@ -19,6 +19,7 @@
 - `11_agent_brain_rnd` -> `workspace-links/antigravity/brain`
 - `12_agent_execution_tracker` -> `workspace-links/antigravity/code_tracker`
 - `13_agent_openclaw_ops` -> `OpenClaw`
+- `14_agent_codex_nextgen` -> `workspace-links/projects/Codex-Chat-GUI-NextGen-clean`
 - `21_prompt_copilot_library` -> `copilot`
 
 ## Suggested Use
