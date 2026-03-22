@@ -4,6 +4,28 @@ Make a note of something, [[create a link]], or try [the Importer](https://help.
 
 When you're ready, delete this note and make the vault your own.
 
+## Agent Hub
+
+- [[0_Inbox]]
+- [[workspace-links/Studio Structure]] ← 🎮 에이전트 스튜디오 전체 구조
+- [[workspace-links/Agent MOC]]
+- [[workspace-links/Agent System Quick Guide]]
+- [[workspace-links/Agent System Graph]]
+- [[workspace-links/Projects]]
+- [[workspace-links/References]]
+- [[workspace-links/Agent Notes]]
+- [[workspace-links/Daily Logs Index]]
+- [[workspace-links/Weekly Review Index]]
+- [[workspace-links/Project Status Index]]
+- [[workspace-links/Archive Index]]
+- [[workspace-links/Obsidian Plugins]]
+- [[workspace-links/Archive]]
+
+## Vault Shape
+
+- Root: `/home/khyha/projects/Sunny`
+- Settings: `/.obsidian`
+
 ## Obsidian Vault 운영 시작 가이드 보강 (2026-02-15)
 ### 문서별 관찰
 - 노트가 많아지기 전에 표준을 정해 두면 Vault 확장성이 좋아집니다.
