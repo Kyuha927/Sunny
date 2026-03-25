@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path:\"workspace-links/_catalog/updates\" -path:\"workspace-links/_tools/master-brain\" -path:\"workspace-links/_tools/chatgpt-export\" -path:\"copilot/perplexity-tools/out\"",
   "showTags": false,
   "showAttachments": false,
@@ -50,16 +50,16 @@
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0.2,
   "nodeSizeMultiplier": 1.2,
   "lineSizeMultiplier": 0.9,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.42,
   "repelStrength": 9,
   "linkStrength": 1,
   "linkDistance": 170,
   "scale": 0.19630179214045507,
-  "close": false
+  "close": true
 }
