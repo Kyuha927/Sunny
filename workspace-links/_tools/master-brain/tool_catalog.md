@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Tool Catalog
 
 - generated: `2026-03-19 19:03:47`

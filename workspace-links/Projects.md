@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Projects
 
 이 노트는 현재 에이전트 작업축을 모아둔 프로젝트 인덱스다.
@@ -8,8 +15,8 @@
 | 프로젝트 | 상태 | 담당 리드 | 경로 |
 |---|---|---|---|
 | 미연시 (VN) | 🟡 진행 | story-lead, code-lead | `~/projects/미연시` |
-| pixel-agents | 🟡 설계 | code-lead, art-lead | `~/다운로드/Windows_Projects/pixel-agents` |
-| pixel-world | 🟢 완료 | art-lead, code-lead | `~/다운로드/External_Backup_Projects/pixel-world` |
+| **Room × Pixel Agents** | 🟡 설계 (Phase 2) | art-lead, code-lead | `~/다운로드/Windows_Projects/pixel-agents` |
+| ↳ pixel-world (Room) | 🔵 통합 예정 | art-lead, code-lead | `~/다운로드/External_Backup_Projects/pixel-world` |
 | [[workspace-links/Project - MSW|MSW]] | 🟢 활성 | infra-lead, code-lead | `~/다운로드/Windows_Projects/msw2` |
 | comfyUI | 🟡 설정 | media-lead | `~/다운로드/External_Backup_Projects/comfyUI` |
 | Sunny | 🟢 운영 | knowledge-lead | `~/projects/Sunny` |

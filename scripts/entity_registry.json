@@ -1,0 +1,99 @@
+{
+  "entities": {
+    "Claude Code": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "GunZ: The Duel": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "WebAssembly": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "WebGL": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "C++": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "Emscripten": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "Direct3D": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "AI": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "Three.js": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "Windows": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "Ziptable": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "CSV": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "JSON": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "URL fragment": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "GeoJSON": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "TinyURL": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "Evan Peck": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    },
+    "데이터셋": {
+      "aliases": [],
+      "domain": "general",
+      "created": "2026-03-25"
+    }
+  },
+  "_meta": {
+    "description": "Entity Registry: AI가 추출한 핵심 개념(엔티티) 인덱스. key=정규화된 이름, value=메타데이터",
+    "version": 1,
+    "last_updated": "2026-03-25"
+  }
+}

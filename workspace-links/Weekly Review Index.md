@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Weekly Review Index
 
 이 노트는 주간 회고를 모아두는 인덱스다.

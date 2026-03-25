@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - root
+created: 2026-03-25
+summary: ""
+---
 # Inbox
 
 이 노트는 새로 들어온 생각, 링크, 할 일을 잠깐 모아두는 곳이다.
@@ -10,6 +17,7 @@
 - [[workspace-links/References]]
 - [[workspace-links/Agent Notes]]
 - [[workspace-links/Archive]]
+- [[Google Discover/_index|Google Discover 아카이브]]
 
 ## 처리 규칙
 

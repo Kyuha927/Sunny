@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - copilot
+created: 2026-03-25
+summary: ""
+---
 ﻿# Perplexity Copy-Paste Tools
 
 ## Build packets

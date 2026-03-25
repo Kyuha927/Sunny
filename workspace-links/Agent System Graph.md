@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Agent System Graph
 
 이 노트는 에이전트 시스템의 관계를 한 번에 보는 지도다.

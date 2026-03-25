@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Autonomous Goal Log
 
 ## 2026-03-11 02:00:15

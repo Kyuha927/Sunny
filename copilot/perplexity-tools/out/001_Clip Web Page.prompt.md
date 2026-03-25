@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - copilot
+created: 2026-03-25
+summary: ""
+---
 # File
 copilot/copilot-custom-prompts/Clip Web Page.md
 

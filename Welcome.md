@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - root
+created: 2026-03-25
+summary: ""
+---
 This is your new *vault*.
 
 Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!

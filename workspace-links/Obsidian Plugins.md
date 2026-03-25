@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Obsidian Plugins
 
 이 노트는 현재 vault에서 확인된 Obsidian 플러그인 구성을 정리한다.

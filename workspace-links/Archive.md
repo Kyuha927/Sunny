@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Archive
 
 이 노트는 끝난 작업, 오래된 로그, 더 이상 첫 화면에 둘 필요가 없는 항목을 모아두는 자리다.

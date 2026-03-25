@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 ## 2026-03-11 02:00:15
 ### Request
 - [AUTO GOAL] `채팅GUI-기능개선 | gui-, 기능개선, 이전, 모델, 실행, 내용을` | model=`- ` | profile=`- ` | session=`019c8ace`

@@ -1,0 +1,44 @@
+{
+  "allowed_domains": [
+    "news.hada.io",
+    "techcrunch.com",
+    "quasarzone.com",
+    "blog.google",
+    "coindesk.com"
+  ],
+  "blocked_domains": [
+    "yonhapnews.co.kr",
+    "sedaily.com",
+    "n.news.naver.com",
+    "v.daum.net",
+    "chosun.com",
+    "joongang.co.kr",
+    "donga.com"
+  ],
+  "blocked_keywords": [
+    "날씨", "벚꽃", "태풍", "사건", "사고", "연예", "열애", "결혼", "이혼", "주가", "코스피", "부동산"
+  ],
+  "sites": {
+    "news.hada.io": {
+      "name": "GeekNews",
+      "mode": "latest_only",
+      "url": "https://news.hada.io",
+      "content_selector": ".topic_row, .article"
+    },
+    "techcrunch.com": {
+      "name": "TechCrunch",
+      "mode": "on_notification",
+      "content_selector": ".article-content, .entry-content"
+    },
+    "quasarzone.com": {
+      "name": "퀘이사존",
+      "mode": "on_notification",
+      "content_selector": ".tit, .wrap_p"
+    },
+    "blog.google": {
+      "name": "Google Blog",
+      "mode": "on_notification",
+      "content_selector": ".article-content, .uni-article__content"
+    }
+  }
+}

@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # References
 
 이 노트는 에이전트가 기준으로 삼는 문서와 규칙을 모아둔 참조 인덱스다.

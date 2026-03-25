@@ -1,0 +1,11 @@
+You are starting from a fresh-session handoff boundary.
+Read the handoff note first: /home/khyha/projects/Sunny/codex-handoffs/20260322_233434_agent-next-steps/HANDOFF.md
+
+Rules:
+- Treat that handoff note as the only upstream summary unless it explicitly names additional startup files.
+- Before substantive work, explicitly report:
+  Fresh session: yes
+  Handoff source: /home/khyha/projects/Sunny/codex-handoffs/20260322_233434_agent-next-steps/HANDOFF.md
+  Run ID: handoff-20260322_233434-agent-next-steps
+- Then execute only the smallest next step.
+- Do not assume hidden context from the previous transcript.

@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Agent Notes
 
 이 노트는 운영 메모와 재진입용 요약을 쌓는 공간이다.

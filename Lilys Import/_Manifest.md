@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - lilys-import
+created: 2026-03-25
+summary: ""
+---
 # Manifest
 
 - Existing Antigravity artifacts found: yes

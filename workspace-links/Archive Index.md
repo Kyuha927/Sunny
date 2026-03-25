@@ -1,3 +1,10 @@
+---
+type: concept
+tags:
+  - workspace-links
+created: 2026-03-25
+summary: ""
+---
 # Archive Index
 
 이 노트는 정리된 노트와 끝난 작업을 모아보는 인덱스다.
