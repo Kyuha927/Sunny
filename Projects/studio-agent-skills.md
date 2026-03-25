@@ -1,16 +1,16 @@
 ---
-type: concept
-tags:
+type: project
+tags::
   - projects
 created: 2026-03-25
-summary: ""
+summary: "이 문서는 `studio-agent`를 기능 도메인별 전문 에이전트 스킬로 분리한 현황을 설명합니다. 총 8개의 스킬(CharaIDE용 기본 3개, copilot IDE에서 분리된 5개) 목록과 다이어그램, 미해결 이슈를 포함합니다."
 ---
-# studio-agent 에이전트 분리 현황
+# [[Studio-agent|studio-agent]] 에이전트 분리 현황
 
 #agent #dev-tools #architecture #studio
 
 ## 개요
-copilot IDE 핸드오프 문서 (808줄) 분석 후 기능 도메인별 전문 에이전트 스킬로 분리.
+[[Copilot IDE|copilot IDE]] 핸드오프 문서 (808줄) 분석 후 기능 도메인별 전문 에이전트 스킬로 분리.
 
 **스킬 총 8개**: 3 (기본) + 5 (copilot IDE 분리)
 
@@ -19,16 +19,16 @@ copilot IDE 핸드오프 문서 (808줄) 분석 후 기능 도메인별 전문 �
 ### 기본 스킬 (CharaIDE 용)
 | 스킬 | 담당 |
 |---|---|
-| **Electron Development** | main/renderer/preload, IPC, 패키징 |
-| **React TypeScript Pro** | 컴포넌트, hooks, 성능 |
-| **Python Backend** | Edge-TTS, subprocess, REST API |
+| **[[Electron Development|Electron Development]]** | main/renderer/preload, IPC, 패키징 |
+| **[[React TypeScript Pro|React TypeScript Pro]]** | 컴포넌트, hooks, 성능 |
+| **[[Python Backend|Python Backend]]** | Edge-TTS, subprocess, REST API |
 
 ### copilot IDE 분리 스킬
 | 스킬 | 담당 | 원본 핸드오프 섹션 |
 |---|---|---|
-| **Copilot Bridge Agent** | Hub/Worker lifecycle, health | §9 Hub/Bridge |
-| **Context Memory Agent** | POLICY/MEMORY/ARTIFACTS | §G Context/Memory |
-| **Session Sync Agent** | Codex/Copilot/AG 세션 동기화 | §3,4,6,7 Paths |
+| **[[Copilot Bridge Agent|Copilot Bridge Agent]]** | Hub/Worker lifecycle, health | §9 Hub/Bridge |
+| **[[Context Memory Agent|Context Memory Agent]]** | POLICY/MEMORY/ARTIFACTS | §G Context/Memory |
+| **[[Session Sync Agent|Session Sync Agent]]** | Codex/Copilot/AG 세션 동기화 | §3,4,6,7 Paths |
 | **IDE UX Agent** | Composer/Sidebar/질문/내보내기 | §E,I UX/Debug |
 | **Launcher Agent** | 슬롯/프로필/환경 감지/.desktop | §1 Launchers |
 

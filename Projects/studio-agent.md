@@ -1,16 +1,16 @@
 ---
-type: concept
-tags:
+type: project
+tags::
   - projects
 created: 2026-03-25
-summary: ""
+summary: "studio-agent는 다양한 AI 개발 도구의 핵심 장점을 통합한 에이전트 오케스트레이터입니다. 이 시스템은 작업 유형별 모델 선택, 프롬프트 자동 주입, 스킬 로딩, Git 자동 커밋 등 여러 기능을 모듈화하여 개발 생산성을 높이는 것을 목표로 합니다."
 ---
-# studio-agent — 통합 개발 에이전트
+# [[Studio-agent|studio-agent]] — 통합 개발 에이전트
 
 #agent #dev-tools #architecture #studio
 
 ## 개요
-모든 AI 개발 도구의 장점을 취합한 통합 에이전트 오케스트레이터.
+모든 AI 개발 도구의 장점을 취합한 통합 에이전트 [[오케스트레이터|오케스트레이터]].
 
 **리포**: [Kyuha927/studio-agent](https://github.com/Kyuha927/studio-agent)
 **경로**: `~/다운로드/Windows_Projects/studio-agent/`
@@ -20,13 +20,13 @@ summary: ""
 | 모듈 | 원본 도구 | 가져온 핵심 장점 |
 |---|---|---|
 | **dispatch** | [[STUDIO.md]] | 작업 유형별 최적 모델 자동 선택 (affinity matrix) |
-| **rules-engine** | Cursor Rules | `.cursor/rules/` 파서 → 프롬프트 자동 주입 |
-| **skill-loader** | Claude Code Skills | `.claude/skills/` 3단계 프로그레시브 로딩 |
-| **git-agent** | Aider | Git 자동 커밋 + conventional commits (Sprint 2) |
+| **rules-engine** | [[Cursor Rules|Cursor Rules]] | `.cursor/rules/` 파서 → 프롬프트 자동 주입 |
+| **skill-loader** | [[Claude Code Skills|Claude Code Skills]] | `.claude/skills/` 3단계 프로그레시브 로딩 |
+| **git-agent** | [[Aider|Aider]] | Git 자동 커밋 + conventional commits (Sprint 2) |
 | **checkpoint** | Cline | 스냅샷/롤백 + 세션 간 메모리 (Sprint 2) |
-| **team-runner** | CrewAI | AGENTS.md 역할 기반 파이프라인 (Sprint 3) |
-| **mcp-bridge** | MCP | 외부 도구 표준 연결 (Sprint 3) |
-| **sandbox** | OpenHands | Docker 격리 실행 (Sprint 3) |
+| **team-runner** | [[CrewAI|CrewAI]] | AGENTS.md 역할 기반 파이프라인 (Sprint 3) |
+| **[[MCP|mcp]]-bridge** | MCP | 외부 도구 표준 연결 (Sprint 3) |
+| **sandbox** | [[OpenHands|OpenHands]] | Docker 격리 실행 (Sprint 3) |
 
 ## CLI 사용법
 

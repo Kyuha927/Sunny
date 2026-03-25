@@ -43,7 +43,7 @@ def call_gemini(prompt: str, max_retries: int = 3) -> str:
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
             "temperature": 0.2,
-            "maxOutputTokens": 1024,
+            "maxOutputTokens": 2048,
             "responseMimeType": "application/json"
         }
     }
@@ -238,17 +238,22 @@ def enrich_note(filepath: str, dry_run: bool = False) -> dict:
         return {"error": "Gemini 응답 없음"}
 
     try:
-        result = json.loads(raw_response)
-    except json.JSONDecodeError:
+        # Gemini가 markdown fence로 감싸는 경우 제거
+        cleaned = raw_response.strip()
+        if cleaned.startswith("```"):
+            cleaned = re.sub(r'^```(?:json)?\s*', '', cleaned)
+            cleaned = re.sub(r'\s*```$', '', cleaned)
+        result = json.loads(cleaned)
+    except json.JSONDecodeError as e:
         # JSON 파싱 실패 시 정규식으로 추출 시도
         try:
-            match = re.search(r'\{.*\}', raw_response, re.DOTALL)
+            match = re.search(r'\{[^{}]*(?:\{[^{}]*\}[^{}]*)*\}', raw_response, re.DOTALL)
             if match:
                 result = json.loads(match.group())
             else:
-                return {"error": f"JSON 파싱 실패: {raw_response[:200]}"}
+                return {"error": f"JSON 파싱 실패 ({e}): {raw_response[:300]}"}
         except Exception:
-            return {"error": f"JSON 파싱 실패: {raw_response[:200]}"}
+            return {"error": f"JSON 파싱 실패: {raw_response[:300]}"}
 
     summary = result.get("summary", "")
     entities = result.get("entities", [])
