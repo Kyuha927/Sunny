@@ -1,17 +1,35 @@
 ---
-title: '[메드쉐어-도수치료] 오스테오파시 Strain Counter Strain 강의 무료 수강하기'
-source: https://www.youtube.com/watch?v=5_ODRNqOcv4
-lilys_page: https://lilys.ai/digest/7372301/7981491
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - education
+  - guides
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "[메드쉐어-도수치료] 오스테오파시 Strain Counter Strain 강의 무료 수강하기"
+entities:
+  - 경계
+  - 구체적인 테크닉
+  - 도구 및 목적
+  - 시작 및 부착
+  - 압력 감소 및 자세 이동
+  - 오스테오파시 Strain Counter Strain 기법
+  - 위치
+  - 자세 탐색
+  - 접촉 유지 및 압력 테스트
+  - 조직 압력 조절
+source: "https://www.youtube.com/watch?v=5_ODRNqOcv4"
+title: "'[메드쉐어-도수치료] 오스테오파시 Strain Counter Strain 강의 무료 수강하기'"
+lilys_page: "https://lilys.ai/digest/7372301/7981491"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Education
 subcategory: Guides
-tags:
-- lilys
-- education
-- guides
-- imported
+tags::
+  - lilys
+  - education
+  - guides
+  - imported
 ---
-
 # [메드쉐어-도수치료] 오스테오파시 Strain Counter Strain 강의 무료 수강하기
 
 > Source: https://www.youtube.com/watch?v=5_ODRNqOcv4

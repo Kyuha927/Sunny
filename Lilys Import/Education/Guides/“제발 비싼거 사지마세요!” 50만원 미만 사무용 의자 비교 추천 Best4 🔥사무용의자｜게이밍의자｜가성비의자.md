@@ -1,17 +1,35 @@
 ---
-title: “제발 비싼거 사지마세요!” 50만원 미만 사무용 의자 비교 추천 Best4 🔥사무용의자｜게이밍의자｜가성비의자｜공부의자｜학생의자｜컴퓨터의자｜의자브랜드｜사이즈오브체어｜시디즈｜올즈｜
-source: https://www.youtube.com/watch?v=Pzy3-mTo21I
-lilys_page: https://lilys.ai/digest/8126939/9058954
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - education
+  - guides
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "“제발 비싼거 사지마세요!” 50만원 미만 사무용 의자 비교 추천 Best4 🔥사무용의자｜게이밍의자｜가성비의자"
+entities:
+  - 10만 원대 의자: 스탠더드랩
+  - 20만 원대 의자: 올즈 스피어 프로
+  - 30만 원대 의자: 사이즈 오브 체어 베이지
+  - 매쉬 소재
+  - 스탠더드랩
+  - 시리즈 T20
+  - 실패 확률 없이 최고의 가성비 의자를 선택하는 구체적인 방법
+  - 안락함
+  - 안락함, 지지력, 편안함의 황금 밸런스
+  - 에르먼
+source: "https://www.youtube.com/watch?v=Pzy3-mTo21I"
+title: "“제발 비싼거 사지마세요!” 50만원 미만 사무용 의자 비교 추천 Best4 🔥사무용의자｜게이밍의자｜가성비의자｜공부의자｜학생의자｜컴퓨터의자｜의자브랜드｜사이즈오브체어｜시디즈｜올즈｜"
+lilys_page: "https://lilys.ai/digest/8126939/9058954"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Education
 subcategory: Guides
-tags:
-- lilys
-- education
-- guides
-- imported
+tags::
+  - lilys
+  - education
+  - guides
+  - imported
 ---
-
 # “제발 비싼거 사지마세요!” 50만원 미만 사무용 의자 비교 추천 Best4 🔥사무용의자｜게이밍의자｜가성비의자｜공부의자｜학생의자｜컴퓨터의자｜의자브랜드｜사이즈오브체어｜시디즈｜올즈｜
 
 > Source: https://www.youtube.com/watch?v=Pzy3-mTo21I

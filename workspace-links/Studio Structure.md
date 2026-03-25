@@ -1,9 +1,18 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Studio Structure"
+entities:
+  - Claude Code CLI
+  - Codex CLI
+  - ~/.codex/agents/
+  - ~/projects/미연시
+  - ~/projects/미연시/agents/
+tags::
+  - workspace-links
 ---
 # Studio Structure
 

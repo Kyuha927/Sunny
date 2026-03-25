@@ -1,9 +1,17 @@
 ---
-type: concept
+type: moc
 tags:
+  - moc
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Archive Index"
+entities:
+  - workspace-links/Agent MOC
+  - workspace-links/Archive
+  - workspace-links/Daily Log - 2026-03-20
+  - workspace-links/Daily Log Template
+tags::
+  - workspace-links
 ---
 # Archive Index
 
@@ -24,4 +32,3 @@ summary: ""
 
 - [[workspace-links/Archive]]
 - [[workspace-links/Agent MOC]]
-

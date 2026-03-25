@@ -1,9 +1,14 @@
 ---
-type: concept
+type: reference
 tags:
+  - reference
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Reference - Open Questions"
+entities:
+  - msw2/Docs/OpenQuestions.md
+tags::
+  - workspace-links
 ---
 # Reference - Open Questions
 
@@ -23,4 +28,3 @@ summary: ""
 
 - 결정을 미루지 말고 질문 목록에 올린다.
 - 새로 확정되면 SSOT나 참조 노트를 갱신한다.
-

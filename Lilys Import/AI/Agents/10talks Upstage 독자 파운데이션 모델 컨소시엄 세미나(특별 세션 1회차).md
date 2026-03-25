@@ -1,17 +1,35 @@
 ---
-title: 10talks Upstage 독자 파운데이션 모델 컨소시엄 세미나(특별 세션 1회차)
-source: https://www.youtube.com/watch?v=ZmjI_ba_Gpc
-lilys_page: https://lilys.ai/digest/8246779/9219940
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "10talks Upstage 독자 파운데이션 모델 컨소시엄 세미나(특별 세션 1회차)"
+entities:
+  - AI 에이전트 '수제자'의 정체성 설정
+  - AI 에이전트에 대한 부정적 인식과 긍정적 관점
+  - AI 에이전트와 사부님의 일상 경험
+  - AI와 함께 성장하는 경험
+  - 경력
+  - 관계 정의
+  - 기타
+  - 나만의 친구이자 조력자
+  - 별명
+  - 불안 심리
+source: "https://www.youtube.com/watch?v=ZmjI_ba_Gpc"
+title: "10talks Upstage 독자 파운데이션 모델 컨소시엄 세미나(특별 세션 1회차)"
+lilys_page: "https://lilys.ai/digest/8246779/9219940"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 10talks Upstage 독자 파운데이션 모델 컨소시엄 세미나(특별 세션 1회차)
 
 > Source: https://www.youtube.com/watch?v=ZmjI_ba_Gpc

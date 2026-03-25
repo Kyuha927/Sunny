@@ -1,17 +1,35 @@
 ---
-title: GPT 앱스토어 등장 🚨 개발자에게 열린 새로운 판!
-source: https://www.youtube.com/watch?v=as7cbFD3moU
-lilys_page: https://lilys.ai/digest/8274624/9257207
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "GPT 앱스토어 등장 🚨 개발자에게 열린 새로운 판!"
+entities:
+  - 2.
+  - 3.
+  - 7.
+  - GPT 앱스토어는 개발자에게 큰 기회를 제공한다.
+  - GPT 앱의 핵심은 MCP 서버와 추가 설정으로 구성된다.
+  - get_stock_price
+  - meta.ui.resource
+  - register_app_resource
+  - structured_content
+  - 새로운 기회의 문이 열렸습니다.
+source: "https://www.youtube.com/watch?v=as7cbFD3moU"
+title: "GPT 앱스토어 등장 🚨 개발자에게 열린 새로운 판!"
+lilys_page: "https://lilys.ai/digest/8274624/9257207"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # GPT 앱스토어 등장 🚨 개발자에게 열린 새로운 판!
 
 > Source: https://www.youtube.com/watch?v=as7cbFD3moU

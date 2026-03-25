@@ -1,17 +1,35 @@
 ---
-title: GLM-5 모델을 사용해보자
-source: https://www.youtube.com/watch?v=u37MzLGGFSU
-lilys_page: https://lilys.ai/digest/8185801/9139219
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "GLM-5 모델을 사용해보자"
+entities:
+  - 100달러
+  - 4.6
+  - 670달러
+  - API 가격
+  - GLM 4.5
+  - GLM 4.7
+  - GLM 5
+  - GLM 개발사에서 제공
+  - GLM-5 연동 및 실제 코딩 테스트 과정
+  - GPT
+source: "https://www.youtube.com/watch?v=u37MzLGGFSU"
+title: "GLM-5 모델을 사용해보자"
+lilys_page: "https://lilys.ai/digest/8185801/9139219"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # GLM-5 모델을 사용해보자
 
 > Source: https://www.youtube.com/watch?v=u37MzLGGFSU

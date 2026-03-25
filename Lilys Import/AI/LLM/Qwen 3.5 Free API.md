@@ -1,17 +1,35 @@
 ---
-title: Qwen 3.5 Free API
-source: https://www.youtube.com/watch?v=E-cl30d8ZrY
-lilys_page: https://lilys.ai/digest/8330447/9333475
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - llm
+  - reference
+created: 2026-03-25
+summary: "Qwen 3.5 Free API"
+entities:
+  - API 키 발급 및 코드 활용 방법
+  - API 테스트 및 성능 확인
+  - ComfyUI: Flux with LLM, 5x Upscale Part 1 (Workflow Tutorial)
+  - Nvidia NIMS 플랫폼 소개
+  - Qwen 3.5 모델 출시 및 특징
+  - content
+  - output
+  - 멀티모달 LLM
+  - 무료 API 키
+  - 무료 API 활용 권장
+source: "https://www.youtube.com/watch?v=E-cl30d8ZrY"
+title: "Qwen 3.5 Free API"
+lilys_page: "https://lilys.ai/digest/8330447/9333475"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: LLM
-tags:
-- lilys
-- ai
-- llm
-- imported
+tags::
+  - lilys
+  - ai
+  - llm
+  - imported
 ---
-
 # Qwen 3.5 Free API
 
 > Source: https://www.youtube.com/watch?v=E-cl30d8ZrY

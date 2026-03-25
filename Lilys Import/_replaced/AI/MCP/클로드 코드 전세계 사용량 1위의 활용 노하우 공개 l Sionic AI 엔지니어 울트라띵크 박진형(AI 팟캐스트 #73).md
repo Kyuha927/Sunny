@@ -1,17 +1,37 @@
 ---
-title: '클로드 코드 전세계 사용량 1위의 활용 노하우 공개 l Sionic AI 엔지니어 울트라띵크 박진형(AI 팟캐스트 #73)'
-source: https://www.youtube.com/watch?v=0h6gfMqpx_0
-lilys_page: https://lilys.ai/digest/8274694/9257297
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - 73
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "클로드 코드 전세계 사용량 1위의 활용 노하우 공개 l Sionic AI 엔지니어 울트라띵크 박진형(AI 팟캐스트 #73)"
+entities:
+  - 15억 토큰 사용
+  - AI 도입의 근본적 니즈
+  - AI 활용에 대한 오해
+  - RAG와 에이전트의 비교
+  - 결론
+  - 능력 극대화를 위한 노력
+  - 사용량 순위
+  - 사이오닉 AI 소개
+  - 에이전트
+  - 에이전트 AI
+source: "https://www.youtube.com/watch?v=0h6gfMqpx_0"
+title: "'클로드 코드 전세계 사용량 1위의 활용 노하우 공개 l Sionic AI 엔지니어 울트라띵크 박진형(AI 팟캐스트 #73)'"
+lilys_page: "https://lilys.ai/digest/8274694/9257297"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # 클로드 코드 전세계 사용량 1위의 활용 노하우 공개 l Sionic AI 엔지니어 울트라띵크 박진형(AI 팟캐스트 #73)
 
 > Source: https://www.youtube.com/watch?v=0h6gfMqpx_0

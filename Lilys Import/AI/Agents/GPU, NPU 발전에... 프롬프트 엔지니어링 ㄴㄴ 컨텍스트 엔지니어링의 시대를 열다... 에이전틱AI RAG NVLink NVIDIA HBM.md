@@ -1,18 +1,35 @@
 ---
-title: GPU, NPU 발전에... 프롬프트 엔지니어링? ㄴㄴ 컨텍스트 엔지니어링의 시대를 열다... 에이전틱AI | RAG | NVLink
-  | NVIDIA | HBM
-source: https://lilys.ai/digest/5653311
-lilys_page: https://lilys.ai/digest/5653311/5345197
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "GPU, NPU 발전에... 프롬프트 엔지니어링 ㄴㄴ 컨텍스트 엔지니어링의 시대를 열다... 에이전틱AI RAG NVLink NVIDIA HBM"
+entities:
+  - : AI 분야의 핵심이
+  - AI 개발 및 활용 트렌드의 빠른 변화
+  - AI 반도체의 발전
+  - GPT-3 등장과 프롬프트 엔지니어링의 부상
+  - LLM 탄생의 기반
+  - 개발자들의 인식 변화
+  - 기존 모델의 한계
+  - 실제 서비스 구축의 한계
+  - 어텐션 메커니즘
+  - 에서
+source: "https://lilys.ai/digest/5653311"
+title: "GPU, NPU 발전에... 프롬프트 엔지니어링? ㄴㄴ 컨텍스트 엔지니어링의 시대를 열다... 에이전틱AI | RAG | NVLink"
+lilys_page: "https://lilys.ai/digest/5653311/5345197"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # GPU, NPU 발전에... 프롬프트 엔지니어링? ㄴㄴ 컨텍스트 엔지니어링의 시대를 열다... 에이전틱AI | RAG | NVLink | NVIDIA | HBM
 
 > Source: https://lilys.ai/digest/5653311

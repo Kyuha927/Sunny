@@ -1,17 +1,35 @@
 ---
-title: 조PD가 케데헌 보고 무당 떠올린 이유 (조중훈 초코엔터테인먼트 대표)
-source: https://lilys.ai/digest/5513043
-lilys_page: https://lilys.ai/digest/5513043/5136431
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - business
+  - lilys-import
+  - reference
+  - strategy
+created: 2026-03-25
+summary: "조PD가 케데헌 보고 무당 떠올린 이유 (조중훈 초코엔터테인먼트 대표)"
+entities:
+  - '캐대헌'의 뉴 디즈니 가능성
+  - AI 시대의 창작과 엔터테인먼트 산업의 미래
+  - AI 창작물의 인정 여부
+  - AI 활용 경험 및 음악 산업 변화 예측
+  - AI가 엔터테인먼트 산업에 미치는 영향
+  - AI의 산업적 영향 및 활용 전략
+  - 강력한 도구
+  - 디지털 휴먼의 새로운 가능성
+  - 변곡점의 큰 히트곡
+  - 서사의 중요성
+source: "https://lilys.ai/digest/5513043"
+title: "조PD가 케데헌 보고 무당 떠올린 이유 (조중훈 초코엔터테인먼트 대표)"
+lilys_page: "https://lilys.ai/digest/5513043/5136431"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Business
 subcategory: Strategy
-tags:
-- lilys
-- business
-- strategy
-- imported
+tags::
+  - lilys
+  - business
+  - strategy
+  - imported
 ---
-
 # 조PD가 케데헌 보고 무당 떠올린 이유 (조중훈 초코엔터테인먼트 대표)
 
 > Source: https://lilys.ai/digest/5513043

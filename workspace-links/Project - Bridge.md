@@ -1,9 +1,17 @@
 ---
-type: concept
+type: project
 tags:
+  - project
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Project - Bridge"
+entities:
+  - 2026-03-20
+  - active
+  - antigravity_bridge/README.md
+  - workspace-links/Project Status Index
+tags::
+  - workspace-links
 ---
 # Project - Bridge
 

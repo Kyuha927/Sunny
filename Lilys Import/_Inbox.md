@@ -1,9 +1,16 @@
 ---
-type: concept
+type: reference
 tags:
   - lilys-import
+  - reference
 created: 2026-03-25
-summary: ""
+summary: Inbox
+entities:
+  - 노동의 의미가 바뀌고 있다
+  - 사장들 다 집합시켜 (트럼프)
+  - 이 기능만 끄면 휴대폰 배터리 수명이 2배로 늘어납니다!
+tags::
+  - lilys-import
 ---
 # Inbox
 

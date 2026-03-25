@@ -1,17 +1,35 @@
 ---
-title: 파일 넣으면 AI가 멍청해지는 이유
-source: https://www.youtube.com/watch?v=E5JQUmlvtSw
-lilys_page: https://lilys.ai/digest/8246269/9219367
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "파일 넣으면 AI가 멍청해지는 이유"
+entities:
+  - 2~3페이지로 요약
+  - AI 에이전트 개발 시 파일 업로드 기능 구현 시 주의점
+  - AI도 사람과 동일한 문제 발생
+  - AI를 두 명으로 나누어 사용하는 아이디어
+  - AI의 집중력을 높이고 불필요한 비용 지출을 막을 수 있습니다.
+  - Gemini Flash 2.5를 툴로 호출
+  - 거짓말을 할 확률이 매우 낮아진다
+  - 거짓말을 할 확률이 현저히 낮아진다
+  - 기술적 설명 없이 작동 흐름 설명
+  - 똑똑할 필요 없이 성실함만 요구
+source: "https://www.youtube.com/watch?v=E5JQUmlvtSw"
+title: "파일 넣으면 AI가 멍청해지는 이유"
+lilys_page: "https://lilys.ai/digest/8246269/9219367"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 파일 넣으면 AI가 멍청해지는 이유
 
 > Source: https://www.youtube.com/watch?v=E5JQUmlvtSw

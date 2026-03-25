@@ -1,17 +1,35 @@
 ---
-title: 10분만에 설명하는 인생 (feat. 신경과학, 심리학)
-source: https://lilys.ai/digest/5654865
-lilys_page: https://lilys.ai/digest/5654865/5347482
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - lilys-import
+  - personal
+  - psychology
+  - reference
+created: 2026-03-25
+summary: "10분만에 설명하는 인생 (feat. 신경과학, 심리학)"
+entities:
+  - 결론
+  - 구체적인 행동 변화
+  - 기억과 감정의 숨겨진 비밀
+  - 내 반응
+  - 내 행동
+  - 노력의 역설 개념
+  - 뇌 크기 변화를 통한 청소
+  - 뇌의 야간 청소 시스템
+  - 뇌의 에너지 소모
+  - 스토아 철학의 통찰
+source: "https://lilys.ai/digest/5654865"
+title: "10분만에 설명하는 인생 (feat. 신경과학, 심리학)"
+lilys_page: "https://lilys.ai/digest/5654865/5347482"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Personal
 subcategory: Psychology
-tags:
-- lilys
-- personal
-- psychology
-- imported
+tags::
+  - lilys
+  - personal
+  - psychology
+  - imported
 ---
-
 # 10분만에 설명하는 인생 (feat. 신경과학, 심리학)
 
 > Source: https://lilys.ai/digest/5654865

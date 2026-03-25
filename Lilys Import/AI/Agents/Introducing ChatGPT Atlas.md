@@ -1,17 +1,36 @@
 ---
-title: Introducing ChatGPT Atlas
-source: https://www.youtube.com/watch?v=8UWKxJbjriY
-lilys_page: https://lilys.ai/digest/6355225/6417424
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "Introducing ChatGPT Atlas"
+entities:
+  - '브라우저를 채팅으로 대화하는 경험'
+  - '어디
+- OpenAI가
+  - AI 기반의 대화형 웹 경험
+  - ChatGPT Atlas
+  - ChatGPT의 역할
+  - 경험의 재구상
+  - 기존 기능 유지
+  - 대화형 경험의 중요성
+  - 맥락
+  - 브라우저 기능 활용
+source: "https://www.youtube.com/watch?v=8UWKxJbjriY"
+title: "Introducing ChatGPT Atlas"
+lilys_page: "https://lilys.ai/digest/6355225/6417424"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # Introducing ChatGPT Atlas
 
 > Source: https://www.youtube.com/watch?v=8UWKxJbjriY

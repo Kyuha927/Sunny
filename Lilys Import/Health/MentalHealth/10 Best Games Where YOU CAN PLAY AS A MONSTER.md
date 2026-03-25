@@ -1,17 +1,35 @@
 ---
-title: 10 Best Games Where YOU CAN PLAY AS A MONSTER
-source: https://www.youtube.com/watch?v=mCTsLawwj9A
-lilys_page: https://lilys.ai/digest/7470015/8124102
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - health
+  - lilys-import
+  - mentalhealth
+  - reference
+created: 2026-03-25
+summary: "10 Best Games Where YOU CAN PLAY AS A MONSTER"
+entities:
+  - "악당이 되는 것이 더 재미있다"
+  - '괴물 플레이 가능 게임 10선'
+  - 게임 10선
+  - 게임 평가
+  - 게임플레이
+  - 괴물 같은 행동
+  - 괴물로서 플레이하는 재미
+  - 괴물로서의 본능과 능력을 마음껏 발휘하는 실질적인 플레이 경험
+  - 괴물처럼 행동
+  - 단 하나
+source: "https://www.youtube.com/watch?v=mCTsLawwj9A"
+title: "10 Best Games Where YOU CAN PLAY AS A MONSTER"
+lilys_page: "https://lilys.ai/digest/7470015/8124102"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Health
 subcategory: MentalHealth
-tags:
-- lilys
-- health
-- mentalhealth
-- imported
+tags::
+  - lilys
+  - health
+  - mentalhealth
+  - imported
 ---
-
 # 10 Best Games Where YOU CAN PLAY AS A MONSTER
 
 > Source: https://www.youtube.com/watch?v=mCTsLawwj9A

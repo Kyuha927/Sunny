@@ -1,9 +1,12 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Agent System Graph"
+tags::
+  - workspace-links
 ---
 # Agent System Graph
 

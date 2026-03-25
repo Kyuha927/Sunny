@@ -1,9 +1,23 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Agent Notes"
+entities:
+  - workspace-links/Agent MOC
+  - workspace-links/Agent System Graph
+  - workspace-links/Agent System Quick Guide
+  - workspace-links/Archive Index
+  - workspace-links/Daily Logs Index
+  - workspace-links/Daily Logs/2026/2026-03-20
+  - workspace-links/Obsidian Plugins
+  - workspace-links/Project Status Index
+  - workspace-links/Templates/Log Template
+  - workspace-links/Templates/Research Template
+tags::
+  - workspace-links
 ---
 # Agent Notes
 

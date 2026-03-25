@@ -1,18 +1,35 @@
 ---
-title: 충격! 🔥 미친 기억력! 좌뇌 Gemini, 우뇌 Claude AI 에이전트 | Claude Code + Google Antigravity
-  동시에 쓰는 법 | 오후다섯씨
-source: https://www.youtube.com/watch?v=Fk-hGWWmYnw
-lilys_page: https://lilys.ai/digest/8161797/9106290
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "충격! 🔥 미친 기억력! 좌뇌 Gemini, 우뇌 Claude AI 에이전트 Claude Code + Google Antigravity 동시에 쓰는 법 오후다섯씨"
+entities:
+  - '두 개의 뇌'처럼 동시에 활용
+  - Accept
+  - All 버튼
+  - Antigravity
+  - Claude Code
+  - Claude Opus 4.5
+  - Claude Opus 4.6 모델
+  - Claude 버튼
+  - Gemini 모델
+  - Open Folder
+source: "https://www.youtube.com/watch?v=Fk-hGWWmYnw"
+title: "충격! 🔥 미친 기억력! 좌뇌 Gemini, 우뇌 Claude AI 에이전트 | Claude Code + Google Antigravity"
+lilys_page: "https://lilys.ai/digest/8161797/9106290"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 충격! 🔥 미친 기억력! 좌뇌 Gemini, 우뇌 Claude AI 에이전트 | Claude Code + Google Antigravity 동시에 쓰는 법 | 오후다섯씨
 
 > Source: https://www.youtube.com/watch?v=Fk-hGWWmYnw

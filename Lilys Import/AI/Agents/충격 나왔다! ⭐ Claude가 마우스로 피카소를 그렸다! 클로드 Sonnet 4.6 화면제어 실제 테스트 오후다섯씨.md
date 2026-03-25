@@ -1,17 +1,35 @@
 ---
-title: 충격 나왔다! ⭐ Claude가 마우스로 피카소를 그렸다?! 클로드 Sonnet 4.6 화면제어 실제 테스트 | 오후다섯씨
-source: https://www.youtube.com/watch?v=hPB-m7dkEmk
-lilys_page: https://lilys.ai/digest/8249371/9223430
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "충격 나왔다! ⭐ Claude가 마우스로 피카소를 그렸다! 클로드 Sonnet 4.6 화면제어 실제 테스트 오후다섯씨"
+entities:
+  - Sonnet 4.6 출시
+  - 가성비
+  - 결과
+  - 결과 분석 및 평가
+  - 그림 과정
+  - 그림 그리기 요청
+  - 기능
+  - 기존 사용자의 부담 완화
+  - 마우스 조작 능력 테스트의 한계 인지
+  - 마우스로 직접 그림을 그리고 웹을 탐색하는 AI
+source: "https://www.youtube.com/watch?v=hPB-m7dkEmk"
+title: "충격 나왔다! ⭐ Claude가 마우스로 피카소를 그렸다?! 클로드 Sonnet 4.6 화면제어 실제 테스트 | 오후다섯씨"
+lilys_page: "https://lilys.ai/digest/8249371/9223430"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 충격 나왔다! ⭐ Claude가 마우스로 피카소를 그렸다?! 클로드 Sonnet 4.6 화면제어 실제 테스트 | 오후다섯씨
 
 > Source: https://www.youtube.com/watch?v=hPB-m7dkEmk

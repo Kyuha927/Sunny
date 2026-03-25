@@ -1,17 +1,35 @@
 ---
-title: '[메이플스토리 월드]VS Code + mLua Extension'
-source: https://www.youtube.com/watch?v=TSHnwrO9Q7g
-lilys_page: https://lilys.ai/digest/8101159/9024515
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - api
+  - lilys-import
+  - programming
+  - reference
+created: 2026-03-25
+summary: "[메이플스토리 월드]VS Code + mLua Extension"
+entities:
+  - @delta
+  - @description
+  - @displayName
+  - @hideFromInspector
+  - @maxLength
+  - @maxValue
+  - @minValue
+  - @sync
+  - VS Code
+  - VS Code와 mLua 익스텐션 활용법
+source: "https://www.youtube.com/watch?v=TSHnwrO9Q7g"
+title: "'[메이플스토리 월드]VS Code + mLua Extension'"
+lilys_page: "https://lilys.ai/digest/8101159/9024515"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Programming
 subcategory: API
-tags:
-- lilys
-- programming
-- api
-- imported
+tags::
+  - lilys
+  - programming
+  - api
+  - imported
 ---
-
 # [메이플스토리 월드]VS Code + mLua Extension
 
 > Source: https://www.youtube.com/watch?v=TSHnwrO9Q7g

@@ -1,18 +1,35 @@
 ---
-title: 문과생이 엔비디아 입사하고 AI 리더가 된 진짜 이유 | 손해인 ‘K-AI’ 기업 업스테이지 부사장 | 엔비디아 국가대표 AI 취업 |
-  세바시 2054회
-source: https://www.youtube.com/watch?v=8UK7MJp2jFc
-lilys_page: https://lilys.ai/digest/8161905/9106448
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - business
+  - lilys-import
+  - reference
+  - strategy
+created: 2026-03-25
+summary: "문과생이 엔비디아 입사하고 AI 리더가 된 진짜 이유 손해인 ‘K-AI’ 기업 업스테이지 부사장 엔비디아 국가대표"
+entities:
+  - '나를 이해하는 힘'
+  - '문제를 정의하는 능력'
+  - '문제의 전문가'
+  - AI 개발자가 아니었다
+  - AI 기술을 활용해 현장의 문제를 정의하고 해결하는 실용적인 접근법
+  - AI 시대 생존 전략
+  - AI 시대를 관통하는 핵심 전략
+  - AI 업계에서의 생존
+  - 강연의 목적
+  - 경영학 졸업
+source: "https://www.youtube.com/watch?v=8UK7MJp2jFc"
+title: "문과생이 엔비디아 입사하고 AI 리더가 된 진짜 이유 | 손해인 ‘K-AI’ 기업 업스테이지 부사장 | 엔비디아 국가대표 AI 취업 |"
+lilys_page: "https://lilys.ai/digest/8161905/9106448"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Business
 subcategory: Strategy
-tags:
-- lilys
-- business
-- strategy
-- imported
+tags::
+  - lilys
+  - business
+  - strategy
+  - imported
 ---
-
 # 문과생이 엔비디아 입사하고 AI 리더가 된 진짜 이유 | 손해인 ‘K-AI’ 기업 업스테이지 부사장 | 엔비디아 국가대표 AI 취업 | 세바시 2054회
 
 > Source: https://www.youtube.com/watch?v=8UK7MJp2jFc

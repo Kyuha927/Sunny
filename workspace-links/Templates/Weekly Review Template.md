@@ -1,9 +1,13 @@
 ---
-type: concept
+type: template
 tags:
+  - template
+  - templates
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Weekly Review Template"
+tags::
+  - workspace-links
 ---
 # Weekly Review Template
 
@@ -29,5 +33,4 @@ summary: ""
 
 ## Reference Links
 
-- 
-
+-

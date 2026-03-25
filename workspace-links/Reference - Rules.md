@@ -1,9 +1,15 @@
 ---
-type: concept
+type: reference
 tags:
+  - reference
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Reference - Rules"
+entities:
+  - msw2/Docs/Rules.md
+  - reference
+tags::
+  - workspace-links
 ---
 # Reference - Rules
 
@@ -26,4 +32,3 @@ summary: ""
 
 - 애매하면 이 문서를 먼저 확인한다.
 - 구현보다 먼저 규칙을 본다.
-

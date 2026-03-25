@@ -1,17 +1,35 @@
 ---
-title: 4천억 천재 트레이더 BNF의 매매법과 차트 보는법 싹 정리
-source: https://www.youtube.com/watch?v=iYMc24df-RM
-lilys_page: https://lilys.ai/digest/6518986/6658751
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - finance
+  - lilys-import
+  - reference
+  - stocks
+created: 2026-03-25
+summary: "4천억 천재 트레이더 BNF의 매매법과 차트 보는법 싹 정리"
+entities:
+  - 7가지 투자 원칙
+  - BNF 소개
+  - BNF의 대응
+  - 가격 움직임과 시장 심리
+  - 간소한 식사
+  - 계좌 공개
+  - 급반등 및 수익 실현
+  - 기계적인 손절과 감각적인 익절
+  - 대량 매수
+  - 본명 및 출생
+source: "https://www.youtube.com/watch?v=iYMc24df-RM"
+title: "4천억 천재 트레이더 BNF의 매매법과 차트 보는법 싹 정리"
+lilys_page: "https://lilys.ai/digest/6518986/6658751"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Finance
 subcategory: Stocks
-tags:
-- lilys
-- finance
-- stocks
-- imported
+tags::
+  - lilys
+  - finance
+  - stocks
+  - imported
 ---
-
 # 4천억 천재 트레이더 BNF의 매매법과 차트 보는법 싹 정리
 
 > Source: https://www.youtube.com/watch?v=iYMc24df-RM

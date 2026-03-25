@@ -1,17 +1,36 @@
 ---
-title: (Agent Team) 나만의 조교팀 만들기
-source: https://www.youtube.com/watch?v=w_wE34SYrDI
-lilys_page: https://lilys.ai/digest/8161830/9106348
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "(Agent Team) 나만의 조교팀 만들기"
+entities:
+  - 결과 종합
+  - 결과 취합
+  - 공유 작업 목록
+  - 공유 작업 항목 목록
+  - 교정 및 조정
+  - 논의 기반 해결
+  - 메시징 시스템
+  - 메일박스
+  - 병렬 처리
+  - 복잡한 작업
+source: "https://www.youtube.com/watch?v=w_wE34SYrDI"
+title: "(Agent Team) 나만의 조교팀 만들기"
+lilys_page: "https://lilys.ai/digest/8161830/9106348"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # (Agent Team) 나만의 조교팀 만들기
 
 > Source: https://www.youtube.com/watch?v=w_wE34SYrDI

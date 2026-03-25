@@ -1,17 +1,35 @@
 ---
-title: 데이터센터(AI, 칩, 전력, 인프라)미칠겁니다. 미국주식 이제 이거 모르면 손해입니다..ㄷㄷ
-source: https://www.youtube.com/watch?v=Ij6oBOopovs
-lilys_page: https://lilys.ai/digest/6235355/6233448
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "데이터센터(AI, 칩, 전력, 인프라)미칠겁니다. 미국주식 이제 이거 모르면 손해입니다..ㄷㄷ"
+entities:
+  - 1GW = 500억 달러 = 칩 대략 100만 개
+  - 1GW 데이터센터 건설 비용 및 칩 투입량
+  - 6GW 규모의 데이터센터 프로젝트
+  - AI 생태계의 복잡한 금융 구조
+  - AI 인프라 투자를 위한 핵심 공식
+  - AI 투자 환경에 대한 분석
+  - AMD
+  - AMD 주가 급등의 배경
+  - 데이터센터 관련 사전 지식의 중요성
+  - 데이터센터 전력 규모
+source: "https://www.youtube.com/watch?v=Ij6oBOopovs"
+title: "데이터센터(AI, 칩, 전력, 인프라)미칠겁니다. 미국주식 이제 이거 모르면 손해입니다..ㄷㄷ"
+lilys_page: "https://lilys.ai/digest/6235355/6233448"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # 데이터센터(AI, 칩, 전력, 인프라)미칠겁니다. 미국주식 이제 이거 모르면 손해입니다..ㄷㄷ
 
 > Source: https://www.youtube.com/watch?v=Ij6oBOopovs

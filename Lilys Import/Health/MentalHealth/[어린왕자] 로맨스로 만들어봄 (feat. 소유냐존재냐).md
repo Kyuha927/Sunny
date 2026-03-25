@@ -1,17 +1,35 @@
 ---
-title: '[어린왕자] 로맨스로 만들어봄 (feat. 소유냐존재냐)'
-source: https://lilys.ai/digest/5706610
-lilys_page: https://lilys.ai/digest/5706610/5427253
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - health
+  - lilys-import
+  - mentalhealth
+  - reference
+created: 2026-03-25
+summary: "[어린왕자] 로맨스로 만들어봄 (feat. 소유냐존재냐)"
+entities:
+  - '대체 불가능한 경험'
+  - '소유 모드'의 가치 평가 방식
+  - '소유 모드'의 함정
+  - '어린 왕자'를 통한 사랑 해답 제시
+  - '존재 모드'의 사랑
+  - 관계의 균열과 이별
+  - 두 가지 인생 모드: 존재 모드와 소유 모드
+  - 사랑과 관계에 대한 오해
+  - 사랑에 대한 사회적 인식 변화
+  - 사랑을 통한 점수 획득
+source: "https://lilys.ai/digest/5706610"
+title: "'[어린왕자] 로맨스로 만들어봄 (feat. 소유냐존재냐)'"
+lilys_page: "https://lilys.ai/digest/5706610/5427253"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Health
 subcategory: MentalHealth
-tags:
-- lilys
-- health
-- mentalhealth
-- imported
+tags::
+  - lilys
+  - health
+  - mentalhealth
+  - imported
 ---
-
 # [어린왕자] 로맨스로 만들어봄 (feat. 소유냐존재냐)
 
 > Source: https://lilys.ai/digest/5706610

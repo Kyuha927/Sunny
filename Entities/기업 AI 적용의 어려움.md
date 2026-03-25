@@ -1,0 +1,10 @@
+---
+type: entity
+tags:
+  - entity
+created: 2026-03-25
+summary: ""
+---
+# 기업 AI 적용의 어려움
+
+> Auto-generated entity node. Backlinks show all documents referencing this concept.

@@ -1,18 +1,35 @@
 ---
-title: 구글 안티그래비티 기본 설정 및 사용방법, 코덱스 앱, 클로드 코워크와 비교 Google Antigravity, Codex App, Claude
-  Cowork
-source: https://www.youtube.com/watch?v=v3m-QXMCZ6M
-lilys_page: https://lilys.ai/digest/8332208/9335736
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "구글 안티그래비티 기본 설정 및 사용방법, 코덱스 앱, 클로드 코워크와 비교 Google Antigravity, Codex App, Claude Cowork"
+entities:
+  - Gmail 로그인
+  - VS Code 기반
+  - VS Code에 익숙하다면 즉시 활용 가능하며,
+  - 계정 전환 용이
+  - 글로벌 룰
+  - 멀티모달
+  - 무료 버전 활용
+  - 빈 폴더에서 시작 권장
+  - 상세한 작업 요청
+  - 쉬운 설치 및 초기 설정
+source: "https://www.youtube.com/watch?v=v3m-QXMCZ6M"
+title: "구글 안티그래비티 기본 설정 및 사용방법, 코덱스 앱, 클로드 코워크와 비교 Google Antigravity, Codex App, Claude"
+lilys_page: "https://lilys.ai/digest/8332208/9335736"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 구글 안티그래비티 기본 설정 및 사용방법, 코덱스 앱, 클로드 코워크와 비교 Google Antigravity, Codex App, Claude Cowork
 
 > Source: https://www.youtube.com/watch?v=v3m-QXMCZ6M

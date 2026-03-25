@@ -1,17 +1,35 @@
 ---
-title: 이상할 정도로 너무 좋아져버린 GPT 5.4
-source: https://www.youtube.com/watch?v=gnzox1NGedw
-lilys_page: https://lilys.ai/digest/8436866/9476998
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "이상할 정도로 너무 좋아져버린 GPT 5.4"
+entities:
+  - PPT 디자인
+  - 스프레드시트 분석
+  - 실제 작업 환경
+  - 에이전틱 툴 콜링
+  - 자는 동안 AI가 혼자 일함
+  - 컨텍스트 윈도우
+  - 컴퓨터 기능 시연
+  - 코딩 및 게임 제작
+  - 코팩의 두번째 선물. 스킬을 검증하고, 스킬을 만들고, 스킬을 실행하는 스킬 무료 배포
+  - 툴 뉴스 업데이트
+source: "https://www.youtube.com/watch?v=gnzox1NGedw"
+title: "이상할 정도로 너무 좋아져버린 GPT 5.4"
+lilys_page: "https://lilys.ai/digest/8436866/9476998"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # 이상할 정도로 너무 좋아져버린 GPT 5.4
 
 > Source: https://www.youtube.com/watch?v=gnzox1NGedw

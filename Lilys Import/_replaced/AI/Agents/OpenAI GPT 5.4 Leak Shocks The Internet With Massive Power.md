@@ -1,17 +1,36 @@
 ---
-title: OpenAI GPT 5.4 Leak Shocks The Internet With Massive Power
-source: https://www.youtube.com/watch?v=uiaeK24E4k8
-lilys_page: https://lilys.ai/digest/8402624/9429678
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "OpenAI GPT 5.4 Leak Shocks The Internet With Massive Power"
+entities:
+  - 1MB 미만의 RAM
+  - 2밀리초 미만의 부팅 시간
+  - 2백만 토큰
+  - 2백만 토큰 컨텍스트 창과 픽셀 단위 이미지 처리 능력
+  - 2백만 토큰 컨텍스트 창의 의미
+  - 5달러 수준의 저가 하드웨어
+  - 678 킬로바이트
+  - GPT 5.4의 존재 가능성 시사
+  - NullClaw
+  - NullClaw: 5달러 하드웨어에서도 작동하는 초경량 AI 에이전트
+source: "https://www.youtube.com/watch?v=uiaeK24E4k8"
+title: "OpenAI GPT 5.4 Leak Shocks The Internet With Massive Power"
+lilys_page: "https://lilys.ai/digest/8402624/9429678"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # OpenAI GPT 5.4 Leak Shocks The Internet With Massive Power
 
 > Source: https://www.youtube.com/watch?v=uiaeK24E4k8

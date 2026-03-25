@@ -1,9 +1,17 @@
 ---
-type: concept
+type: log
 tags:
+  - -tools
+  - log
+  - master-brain
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "tool catalog"
+entities:
+  - tools/auto_sync_geeknews.ps1
+  - tools/bash.py
+tags::
+  - workspace-links
 ---
 # Tool Catalog
 

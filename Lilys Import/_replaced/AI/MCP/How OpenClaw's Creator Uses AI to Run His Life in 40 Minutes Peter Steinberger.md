@@ -1,17 +1,36 @@
 ---
-title: How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger
-source: https://www.youtube.com/watch?v=AcwK1Uuwc0U
-lilys_page: https://lilys.ai/digest/8274565/9257136
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes Peter Steinberger"
+entities:
+  - AI 비서에게 자신의 삶을 통째로 맡긴
+  - AI의 자원 활용 능력의 의미
+  - OpenAI 키
+  - curl
+  - ffmpeg
+  - whisper.cpp
+  - 개발 동기: 새로운 운영체제로서의 AI 비서 필요성
+  - 버그 수정 사례: 이미지 기반 문제 해결
+  - 사용자 개입 최소화 및 자율성
+  - 스마트폰 앱을 무용지물
+source: "https://www.youtube.com/watch?v=AcwK1Uuwc0U"
+title: "How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger"
+lilys_page: "https://lilys.ai/digest/8274565/9257136"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # How OpenClaw's Creator Uses AI to Run His Life in 40 Minutes | Peter Steinberger
 
 > Source: https://www.youtube.com/watch?v=AcwK1Uuwc0U

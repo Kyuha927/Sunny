@@ -1,17 +1,36 @@
 ---
-title: 챗GPT와 클로드(Claude)가 멍청해 보이다가 갑자기 똑똑해지는 이유
-source: https://www.youtube.com/watch?v=2SduDuVtsp0
-lilys_page: https://lilys.ai/digest/7478006/8135196
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - llm
+  - reference
+created: 2026-03-25
+summary: "챗GPT와 클로드(Claude)가 멍청해 보이다가 갑자기 똑똑해지는 이유"
+entities:
+  - :
+   1. 그로킹은 과학적 발견처럼
+  - LLM의 작동 방식에 대한 근본적인 질문
+  - 가 현재
+  - 단순히 훈련 예제를 암기
+  - 모듈러 연산
+  - 모듈러 연산 문제에 대한 강력한 푸리에 공간 해법을 학습
+  - 사인과 코사인 같은 삼각 함수 구조가 어떻게 덧셈을 계산
+  - 새 줄을 만들어야 할 시점을 처리
+  - 실제로 학습
+  - 실질적인 지능
+source: "https://www.youtube.com/watch?v=2SduDuVtsp0"
+title: "챗GPT와 클로드(Claude)가 멍청해 보이다가 갑자기 똑똑해지는 이유"
+lilys_page: "https://lilys.ai/digest/7478006/8135196"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: LLM
-tags:
-- lilys
-- ai
-- llm
-- imported
+tags::
+  - lilys
+  - ai
+  - llm
+  - imported
 ---
-
 # 챗GPT와 클로드(Claude)가 멍청해 보이다가 갑자기 똑똑해지는 이유
 
 > Source: https://www.youtube.com/watch?v=2SduDuVtsp0

@@ -1,9 +1,16 @@
 ---
-type: concept
+type: reference
 tags:
+  - reference
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: References
+entities:
+  - workspace-links/Reference - Open Questions
+  - workspace-links/Reference - Rules
+  - workspace-links/Reference - Tools
+tags::
+  - workspace-links
 ---
 # References
 

@@ -1,17 +1,37 @@
 ---
-title: '20만원대 가성비 사무용 책상 의자 추천｜에르먼 X3 vs X3 AIR 솔직 비교 (직장인·재택근무)#사무용의자 #컴퓨터의자 #게이밍의자'
-source: https://www.youtube.com/watch?v=5mLKF9ELaUs
-lilys_page: https://lilys.ai/digest/8126951/9058971
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - general
+  - lilys-import
+  - productivity
+  - reference
+  - 사무용의자
+  - 컴퓨터의자
+created: 2026-03-25
+summary: "20만원대 가성비 사무용 책상 의자 추천｜에르먼 X3 vs X3 AIR 솔직 비교 (직장인·재택근무)#사무용의자 #컴퓨터의자"
+entities:
+  - 20만 원대
+  - 20만원대 가성비 인체공학 의자
+  - 4D로 리뉴얼
+  - X3와 X3 에어
+  - 가성비 포인트
+  - 국내 생산
+  - 기본기, 내구성, 착석감
+  - 럼버 서포트
+  - 매쉬 서스펜션 관련 특허 기술
+  - 미니멀리즘 의자 브랜드
+source: "https://www.youtube.com/watch?v=5mLKF9ELaUs"
+title: "'20만원대 가성비 사무용 책상 의자 추천｜에르먼 X3 vs X3 AIR 솔직 비교 (직장인·재택근무)#사무용의자 #컴퓨터의자 #게이밍의자'"
+lilys_page: "https://lilys.ai/digest/8126951/9058971"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Productivity
 subcategory: General
-tags:
-- lilys
-- productivity
-- general
-- imported
+tags::
+  - lilys
+  - productivity
+  - general
+  - imported
 ---
-
 # 20만원대 가성비 사무용 책상 의자 추천｜에르먼 X3 vs X3 AIR 솔직 비교 (직장인·재택근무)#사무용의자 #컴퓨터의자 #게이밍의자
 
 > Source: https://www.youtube.com/watch?v=5mLKF9ELaUs

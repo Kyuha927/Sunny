@@ -1,9 +1,14 @@
 ---
-type: concept
+type: log
 tags:
+  - log
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Daily Log Template"
+entities:
+  - workspace-links/Templates/Log Template
+tags::
+  - workspace-links
 ---
 # Daily Log Template
 

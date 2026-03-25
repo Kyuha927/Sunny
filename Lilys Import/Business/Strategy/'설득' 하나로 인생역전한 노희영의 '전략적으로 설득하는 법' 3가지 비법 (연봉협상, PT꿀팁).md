@@ -1,17 +1,35 @@
 ---
-title: '''설득'' 하나로 인생역전한 노희영의 ''전략적으로 설득하는 법'' 3가지 비법 (연봉협상, PT꿀팁)'
-source: https://lilys.ai/digest/5520781
-lilys_page: https://lilys.ai/digest/5520781/5147776
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - business
+  - lilys-import
+  - reference
+  - strategy
+created: 2026-03-25
+summary: "'설득' 하나로 인생역전한 노희영의 '전략적으로 설득하는 법' 3가지 비법 (연봉협상, PT꿀팁)"
+entities:
+  - '설득의 기술'
+  - 28세 첫 식당 오픈 도전
+  - 공감을 얻어내는 일
+  - 공감의 의미
+  - 관찰
+  - 관찰을 통한 공감
+  - 구체적인 관찰과 전략 수립
+  - 노희영 대표의 실제 행동
+  - 노희영 대표의 첫 식당 오픈 경험
+  - 면접관의 편견
+source: "https://lilys.ai/digest/5520781"
+title: "'''설득'' 하나로 인생역전한 노희영의 ''전략적으로 설득하는 법'' 3가지 비법 (연봉협상, PT꿀팁)'"
+lilys_page: "https://lilys.ai/digest/5520781/5147776"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Business
 subcategory: Strategy
-tags:
-- lilys
-- business
-- strategy
-- imported
+tags::
+  - lilys
+  - business
+  - strategy
+  - imported
 ---
-
 # '설득' 하나로 인생역전한 노희영의 '전략적으로 설득하는 법' 3가지 비법 (연봉협상, PT꿀팁)
 
 > Source: https://lilys.ai/digest/5520781

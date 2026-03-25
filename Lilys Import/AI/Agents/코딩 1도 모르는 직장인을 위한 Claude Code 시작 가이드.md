@@ -1,17 +1,35 @@
 ---
-title: 코딩 1도 모르는 직장인을 위한 Claude Code 시작 가이드
-source: https://www.youtube.com/watch?v=C6xlOsQFyOQ
-lilys_page: https://lilys.ai/digest/8161902/9106443
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "코딩 1도 모르는 직장인을 위한 Claude Code 시작 가이드"
+entities:
+  - 5단계 워크플로우
+  - Anthropic
+  - Claude
+  - Claude Code
+  - Claude 유료 계정
+  - Korean Language Pack
+  - Mac
+  - Node.js
+  - PATH
+  - Python
+source: "https://www.youtube.com/watch?v=C6xlOsQFyOQ"
+title: "코딩 1도 모르는 직장인을 위한 Claude Code 시작 가이드"
+lilys_page: "https://lilys.ai/digest/8161902/9106443"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 코딩 1도 모르는 직장인을 위한 Claude Code 시작 가이드
 
 > Source: https://www.youtube.com/watch?v=C6xlOsQFyOQ

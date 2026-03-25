@@ -1,17 +1,35 @@
 ---
-title: 자는 동안 AI가 혼자 일함
-source: https://www.youtube.com/watch?v=p7Tjk3amiKs
-lilys_page: https://lilys.ai/digest/8246831/9220009
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - llm
+  - reference
+created: 2026-03-25
+summary: "자는 동안 AI가 혼자 일함"
+entities:
+  - AI 도구 사용 시 직접적인 지시의 필요성
+  - AI의 자율 중단 원칙 충돌
+  - Anthropic의 공식 버전 출시
+  - Ralph Wiggum Loop의 개념
+  - Ralph Wiggum Loop의 등장 배경
+  - Ralph Wiggum Loop의 해결책
+  - 내가 자는 동안에도 결과물을 만들어내는 놀라운 경험
+  - 비유
+  - 새로운 프로그래밍 언어 개발
+  - 스타트업 경쟁대회
+source: "https://www.youtube.com/watch?v=p7Tjk3amiKs"
+title: "자는 동안 AI가 혼자 일함"
+lilys_page: "https://lilys.ai/digest/8246831/9220009"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: LLM
-tags:
-- lilys
-- ai
-- llm
-- imported
+tags::
+  - lilys
+  - ai
+  - llm
+  - imported
 ---
-
 # 자는 동안 AI가 혼자 일함
 
 > Source: https://www.youtube.com/watch?v=p7Tjk3amiKs

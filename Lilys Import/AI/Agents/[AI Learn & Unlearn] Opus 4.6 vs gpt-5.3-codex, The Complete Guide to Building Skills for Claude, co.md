@@ -1,18 +1,34 @@
 ---
-title: '[AI Learn & Unlearn] Opus 4.6 vs gpt-5.3-codex, The Complete Guide to Building
-  Skills for Claude, co'
-source: https://www.stdy.blog/opus-46-codex-53-and-cwf/
-lilys_page: https://lilys.ai/digest/8161944/9106521
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "[AI Learn & Unlearn] Opus 4.6 vs gpt-5.3-codex, The Complete Guide to Building Skills for Claude, co"
+entities:
+  - 1M Context 지원의 아쉬움
+  - Agent Team 기능의 만족도
+  - Fast Mode 사용 시 주의점
+  - Opus 4.6 출시 및 초기 체감
+  - gpt-5.3-codex의 체감 성능
+  - 가이드 문서 확보 및 변환
+  - 공유 및 반응
+  - 실무자가 반드시 알아야 할 최신 기능의 장단점
+  - 실제 사용 후 성능 차이와 체감 속도
+source: "https://www.stdy.blog/opus-46-codex-53-and-cwf/"
+title: "'[AI Learn & Unlearn] Opus 4.6 vs gpt-5.3-codex, The Complete Guide to Building"
+lilys_page: "https://lilys.ai/digest/8161944/9106521"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # [AI Learn & Unlearn] Opus 4.6 vs gpt-5.3-codex, The Complete Guide to Building Skills for Claude, co
 
 > Source: https://www.stdy.blog/opus-46-codex-53-and-cwf/

@@ -1,9 +1,19 @@
 ---
-type: concept
+type: project
 tags:
+  - project
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Project - MSW"
+entities:
+  - 2026-03-20
+  - active
+  - msw2/Docs/Interfaces.md
+  - msw2/Docs/MCP_ToolMap.md
+  - msw2/Docs/Rules.md
+  - workspace-links/Project Status Index
+tags::
+  - workspace-links
 ---
 # Project - MSW
 

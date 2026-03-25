@@ -1,17 +1,35 @@
 ---
-title: 갓생 만들어줄 MCP 서버 💪🏻 BEST 8종 모음
-source: https://lilys.ai/notes/582967
-lilys_page: https://lilys.ai/notes/582967
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "갓생 만들어줄 MCP 서버 💪🏻 BEST 8종 모음"
+entities:
+  - Brave Search
+  - Fetch
+  - GPT 앱스토어 등장 🚨 개발자에게 열린 새로운 판!
+  - GitHub
+  - Google Drive
+  - MCP 서버의 개념
+  - Memory
+  - PostgreSQL
+  - Puppeteer
+  - Slack
+source: "https://lilys.ai/notes/582967"
+title: "갓생 만들어줄 MCP 서버 💪🏻 BEST 8종 모음"
+lilys_page: "https://lilys.ai/notes/582967"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # 갓생 만들어줄 MCP 서버 💪🏻 BEST 8종 모음
 
 > Source: https://lilys.ai/notes/582967

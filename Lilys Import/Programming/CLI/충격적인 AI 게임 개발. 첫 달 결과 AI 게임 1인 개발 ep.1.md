@@ -1,17 +1,33 @@
 ---
-title: 충격적인 AI 게임 개발. 첫 달 결과 | AI 게임 1인 개발 ep.1
-source: https://www.youtube.com/watch?v=kL3txkAAFl4
-lilys_page: https://lilys.ai/digest/8243661/9215940
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - cli
+  - lilys-import
+  - programming
+  - reference
+created: 2026-03-25
+summary: "충격적인 AI 게임 개발. 첫 달 결과 AI 게임 1인 개발 ep.1"
+entities:
+  - AI 기술 변화 및 프로젝트 영향
+  - AI를 활용한 게임 개발 현황 요약
+  - 메인 스토리 및 세계관 구성
+  - 메인 캐릭터 일러스트 제작
+  - 스토리 개요
+  - 실질적인 개발 과정과 AI의 한계점, 그리고 이를 극복하는 방법
+  - 에코 테스트
+  - 타일맵 이미지 및 플레이 구조 제작
+source: "https://www.youtube.com/watch?v=kL3txkAAFl4"
+title: "충격적인 AI 게임 개발. 첫 달 결과 | AI 게임 1인 개발 ep.1"
+lilys_page: "https://lilys.ai/digest/8243661/9215940"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Programming
 subcategory: CLI
-tags:
-- lilys
-- programming
-- cli
-- imported
+tags::
+  - lilys
+  - programming
+  - cli
+  - imported
 ---
-
 # 충격적인 AI 게임 개발. 첫 달 결과 | AI 게임 1인 개발 ep.1
 
 > Source: https://www.youtube.com/watch?v=kL3txkAAFl4

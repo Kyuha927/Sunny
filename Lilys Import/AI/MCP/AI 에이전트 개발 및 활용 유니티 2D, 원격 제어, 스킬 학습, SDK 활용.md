@@ -1,22 +1,40 @@
 ---
-title: 'AI 에이전트 개발 및 활용: 유니티 2D, 원격 제어, 스킬 학습, SDK 활용'
-source: https://lilys.ai/digest/8345589
-lilys_page: https://lilys.ai/digest/8345589
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "AI 에이전트 개발 및 활용 유니티 2D, 원격 제어, 스킬 학습, SDK 활용"
+entities:
+  - Discord API
+  - PC 웹 브라우저 접속 및 명령어 입력
+  - Tailscale
+  - 간편하게 나만의 모바일 원격 제어 시스템을 구축
+  - 결과 확인 및 라이브 뷰 기능
+  - 런닷배치
+  - 모바일 테일스케일 앱 설치 및 연결
+  - 모바일에서 원격 제어 테스트
+  - 안티그래비티 AI 에이전트를 완벽하게 제어
+  - 안티그래비티 모바일 버전 프로그램 생성
+source: "https://lilys.ai/digest/8345589"
+title: "'AI 에이전트 개발 및 활용: 유니티 2D, 원격 제어, 스킬 학습, SDK 활용'"
+lilys_page: "https://lilys.ai/digest/8345589"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
-sources:
-- https://www.youtube.com/watch?v=MK-MS74UiPM
-- https://www.youtube.com/watch?v=_h2EnRfxMQE
-- https://www.youtube.com/watch?v=bjdBVZa66oU
-- https://www.youtube.com/watch?v=v3pxtdZfE0E
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
+sources::
+  - https://www.youtube.com/watch?v=MK-MS74UiPM
+  - https://www.youtube.com/watch?v=_h2EnRfxMQE
+  - https://www.youtube.com/watch?v=bjdBVZa66oU
+  - https://www.youtube.com/watch?v=v3pxtdZfE0E
 ---
-
 # AI 에이전트 개발 및 활용: 유니티 2D, 원격 제어, 스킬 학습, SDK 활용
 
 > Source: https://lilys.ai/digest/8345589

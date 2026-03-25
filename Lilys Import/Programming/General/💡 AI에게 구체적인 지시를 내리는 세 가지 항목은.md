@@ -1,24 +1,42 @@
 ---
-title: 💡 AI에게 구체적인 지시를 내리는 세 가지 항목은?
-source: https://lilys.ai/digest/8332539
-lilys_page: https://lilys.ai/digest/8332539
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - general
+  - lilys-import
+  - programming
+  - reference
+created: 2026-03-25
+summary: "💡 AI에게 구체적인 지시를 내리는 세 가지 항목은"
+entities:
+  - 4.
+  - 6.
+  - AI 활용 시 효율을 높이는 핵심은 '구체적인 작업 지시'이다.
+  - AI를 게임 개발의 강력한 파트너로 만드는 실질적인 가이드
+  - AI와 당신 사이의 모든 약속이 담긴 문서를 기반으로 진행
+  - AI와의 협업을 통해 게임 개발 효율을 극대화하는 구체적인 방법
+  - 건강 유의하며 즐거운 개발을 하기를 바란다.
+  - 기존 게임 기획서를 바탕으로 스펙 문서를 작성한다.
+  - 기획적인 부분에서의 구체성
+  - 본 영상이 도움이 되었다면 좋아요와 구독을 부탁한다.
+source: "https://lilys.ai/digest/8332539"
+title: "💡 AI에게 구체적인 지시를 내리는 세 가지 항목은?"
+lilys_page: "https://lilys.ai/digest/8332539"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Programming
 subcategory: General
-tags:
-- lilys
-- programming
-- general
-- imported
-sources:
-- https://www.youtube.com/watch?v=4YH8kYPQGCU
-- https://www.youtube.com/watch?v=G820pAgEx2Y
-- https://www.youtube.com/watch?v=UkOR0tCnHIQ
-- https://www.youtube.com/watch?v=ZFm6kmkIn6o
-- https://www.youtube.com/watch?v=qRMVqMS3mv0
-- https://www.youtube.com/watch?v=s_W6oeDR5Fk
+tags::
+  - lilys
+  - programming
+  - general
+  - imported
+sources::
+  - https://www.youtube.com/watch?v=4YH8kYPQGCU
+  - https://www.youtube.com/watch?v=G820pAgEx2Y
+  - https://www.youtube.com/watch?v=UkOR0tCnHIQ
+  - https://www.youtube.com/watch?v=ZFm6kmkIn6o
+  - https://www.youtube.com/watch?v=qRMVqMS3mv0
+  - https://www.youtube.com/watch?v=s_W6oeDR5Fk
 ---
-
 # 💡 AI에게 구체적인 지시를 내리는 세 가지 항목은?
 
 > Source: https://lilys.ai/digest/8332539

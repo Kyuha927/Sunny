@@ -1,9 +1,14 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "PROMPT LIBRARY"
+entities:
+  - 확실한 캐릭터 노선
+tags::
+  - workspace-links
 ---
 # 🎯 Pixel Agents RPG — 프롬프트 라이브러리 (v3 — 캐릭터성 극대화)
 

@@ -1,9 +1,23 @@
 ---
-type: concept
+type: moc
 tags:
+  - moc
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Agent MOC"
+entities:
+  - 0_Inbox
+  - Archive
+  - Inbox
+  - Projects
+  - References
+  - Templates
+  - workspace-links/Agent Notes
+  - workspace-links/Agent System Graph
+  - workspace-links/Agent System Quick Guide
+  - workspace-links/Archive
+tags::
+  - workspace-links
 ---
 # Agent MOC
 

@@ -1,9 +1,23 @@
 ---
-type: concept
+type: reference
 tags:
   - lilys-import
+  - reference
 created: 2026-03-25
-summary: ""
+summary: Index
+entities:
+  - AI
+  - Business
+  - Design
+  - Education
+  - Etc
+  - Finance
+  - GameDev
+  - Health
+  - Marketing
+  - Personal
+tags::
+  - lilys-import
 ---
 # Lilys Import Index
 

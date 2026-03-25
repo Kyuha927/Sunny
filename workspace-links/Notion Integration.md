@@ -1,9 +1,12 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Notion Integration"
+tags::
+  - workspace-links
 ---
 # Notion 연동 정보
 

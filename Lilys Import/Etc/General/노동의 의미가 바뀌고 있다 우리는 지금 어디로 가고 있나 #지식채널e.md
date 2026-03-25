@@ -1,17 +1,28 @@
 ---
-title: '노동의 의미가 바뀌고 있다 | 우리는 지금 어디로 가고 있나 | #지식채널e'
-source: https://www.youtube.com/watch?v=khR7DUuDUzQ
-lilys_page: https://lilys.ai/digest/6589729/6765021
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - etc
+  - general
+  - lilys-import
+  - reference
+  - 지식채널e
+created: 2026-03-25
+summary: "노동의 의미가 바뀌고 있다 우리는 지금 어디로 가고 있나 #지식채널e"
+entities:
+  - 사장들 다 집합시켜 (트럼프)
+  - 지식채널e
+source: "https://www.youtube.com/watch?v=khR7DUuDUzQ"
+title: "'노동의 의미가 바뀌고 있다 | 우리는 지금 어디로 가고 있나 | #지식채널e'"
+lilys_page: "https://lilys.ai/digest/6589729/6765021"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Etc
 subcategory: General
-tags:
-- lilys
-- etc
-- general
-- imported
+tags::
+  - lilys
+  - etc
+  - general
+  - imported
 ---
-
 # 노동의 의미가 바뀌고 있다 | 우리는 지금 어디로 가고 있나 | #지식채널e
 
 > Source: https://www.youtube.com/watch?v=khR7DUuDUzQ

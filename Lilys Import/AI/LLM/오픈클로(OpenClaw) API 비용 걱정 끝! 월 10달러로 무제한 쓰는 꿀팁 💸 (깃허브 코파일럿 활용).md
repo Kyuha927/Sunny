@@ -1,17 +1,35 @@
 ---
-title: 오픈클로(OpenClaw) API 비용 걱정 끝! 월 10달러로 무제한 쓰는 꿀팁 💸 (깃허브 코파일럿 활용)
-source: https://www.youtube.com/watch?v=-9_fvaQ15j0
-lilys_page: https://lilys.ai/digest/8090766/9010894
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - llm
+  - reference
+created: 2026-03-25
+summary: "오픈클로(OpenClaw) API 비용 걱정 끝! 월 10달러로 무제한 쓰는 꿀팁 💸 (깃허브 코파일럿 활용)"
+entities:
+  - 50.06%로 올라가며 차감
+  - 깃허브 코파일럿 구독 정보
+  - 깃허브 코파일럿 디바이스 로그
+  - 모델 변경을 위한 설정 접근
+  - 모델 차감 기준의 맹점 활용
+  - 오퍼스 4.5
+  - 자동화된 모델 구성 예시
+  - 코파일럿으로 인증
+  - 파브 미니
+  - 파브 미니는 요금이 차감되지 않는다.
+source: "https://www.youtube.com/watch?v=-9_fvaQ15j0"
+title: "오픈클로(OpenClaw) API 비용 걱정 끝! 월 10달러로 무제한 쓰는 꿀팁 💸 (깃허브 코파일럿 활용)"
+lilys_page: "https://lilys.ai/digest/8090766/9010894"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: LLM
-tags:
-- lilys
-- ai
-- llm
-- imported
+tags::
+  - lilys
+  - ai
+  - llm
+  - imported
 ---
-
 # 오픈클로(OpenClaw) API 비용 걱정 끝! 월 10달러로 무제한 쓰는 꿀팁 💸 (깃허브 코파일럿 활용)
 
 > Source: https://www.youtube.com/watch?v=-9_fvaQ15j0

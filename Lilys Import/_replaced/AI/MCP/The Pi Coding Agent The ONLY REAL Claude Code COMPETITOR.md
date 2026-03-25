@@ -1,17 +1,36 @@
 ---
-title: 'The Pi Coding Agent: The ONLY REAL Claude Code COMPETITOR'
-source: https://www.youtube.com/watch?v=f8cfH5XX-XU
-lilys_page: https://lilys.ai/digest/8353791/9366248
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "The Pi Coding Agent The ONLY REAL Claude Code COMPETITOR"
+entities:
+  - "나만의 Pi" 만들기
+  - Claude Code vs. Pi 비교
+  - Claude Code의 성공과 한계
+  - Pi의 등장
+  - Pi의 차별점
+  - 강력한 의견 vs. 유연성
+  - 결론
+  - 관찰 가능성
+  - 기본 Pi 에이전트 하네스
+  - 기존 도구의 한계
+source: "https://www.youtube.com/watch?v=f8cfH5XX-XU"
+title: "'The Pi Coding Agent: The ONLY REAL Claude Code COMPETITOR'"
+lilys_page: "https://lilys.ai/digest/8353791/9366248"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # The Pi Coding Agent: The ONLY REAL Claude Code COMPETITOR
 
 > Source: https://www.youtube.com/watch?v=f8cfH5XX-XU

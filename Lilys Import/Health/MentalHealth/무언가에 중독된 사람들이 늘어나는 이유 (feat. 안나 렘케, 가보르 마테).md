@@ -1,17 +1,35 @@
 ---
-title: 무언가에 중독된 사람들이 늘어나는 이유 (feat. 안나 렘케, 가보르 마테)
-source: https://lilys.ai/digest/5638410
-lilys_page: https://lilys.ai/digest/5638410/5323469
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - health
+  - lilys-import
+  - mentalhealth
+  - reference
+created: 2026-03-25
+summary: "무언가에 중독된 사람들이 늘어나는 이유 (feat. 안나 렘케, 가보르 마테)"
+entities:
+  - "왜 고통스러운가?"
+  - : 어떤 생각이나 욕구가 들었을 때, 그것을 실행하기까지의
+  - 고통으로 시작하여 고통으로 끝난다
+  - 고통으로부터 일시적으로 벗어나려는 시도
+  - 고통으로부터의 도피가 더 큰 고통을 낳는다
+  - 더 건강한 관계를 맺는 데 필요한 심오한 통찰
+  - 매우 지루하다는 것
+  - 모든 인간의 중독 가능성
+  - 성격의 약점
+  - 소득 격차와 여가 시간
+source: "https://lilys.ai/digest/5638410"
+title: "무언가에 중독된 사람들이 늘어나는 이유 (feat. 안나 렘케, 가보르 마테)"
+lilys_page: "https://lilys.ai/digest/5638410/5323469"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Health
 subcategory: MentalHealth
-tags:
-- lilys
-- health
-- mentalhealth
-- imported
+tags::
+  - lilys
+  - health
+  - mentalhealth
+  - imported
 ---
-
 # 무언가에 중독된 사람들이 늘어나는 이유 (feat. 안나 렘케, 가보르 마테)
 
 > Source: https://lilys.ai/digest/5638410

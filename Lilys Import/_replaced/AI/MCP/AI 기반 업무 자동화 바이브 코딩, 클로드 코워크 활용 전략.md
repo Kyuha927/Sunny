@@ -1,22 +1,41 @@
 ---
-title: 'AI 기반 업무 자동화: 바이브 코딩, 클로드 코워크 활용 전략'
-source: https://lilys.ai/digest/8345637
-lilys_page: https://lilys.ai/digest/8345637
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "AI 기반 업무 자동화 바이브 코딩, 클로드 코워크 활용 전략"
+entities:
+  - 글로벌 인스트럭션 및 폴더별 인스트럭션
+  - 실전 시나리오 1: 영수증 이미지로 경비 보고서 작성
+  - 실전 시나리오 2: 운영 비용 데이터 분석 및 보고서 작성
+  - 에이전틱 AI
+  - 자율 실행형 AI 에이전트
+  - 전문적인 산출물
+  - 전문적인 산출물 생성
+  - 클로드 데스크탑
+  - 클로드 코워크 설치 및 진입
+  - 클로드 코워크의 세 가지 핵심 기능
+source: "https://lilys.ai/digest/8345637"
+title: "'AI 기반 업무 자동화: 바이브 코딩, 클로드 코워크 활용 전략'"
+lilys_page: "https://lilys.ai/digest/8345637"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
-sources:
-- https://www.youtube.com/watch?v=6Z6Le3Xwqdg
-- https://www.youtube.com/watch?v=EgZyGmEO1A4
-- https://www.youtube.com/watch?v=mcJXTYb0Vt4
-- https://www.youtube.com/watch?v=qfVqIhkWL7A
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
+sources::
+  - https://www.youtube.com/watch?v=6Z6Le3Xwqdg
+  - https://www.youtube.com/watch?v=EgZyGmEO1A4
+  - https://www.youtube.com/watch?v=mcJXTYb0Vt4
+  - https://www.youtube.com/watch?v=qfVqIhkWL7A
 ---
-
 # AI 기반 업무 자동화: 바이브 코딩, 클로드 코워크 활용 전략
 
 > Source: https://lilys.ai/digest/8345637

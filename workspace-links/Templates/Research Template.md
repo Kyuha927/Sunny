@@ -1,9 +1,13 @@
 ---
-type: concept
+type: template
 tags:
+  - template
+  - templates
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Research Template"
+tags::
+  - workspace-links
 ---
 # Research Template
 
@@ -25,5 +29,4 @@ summary: ""
 
 ## 후속 액션
 
-- 
-
+-

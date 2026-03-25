@@ -1,9 +1,18 @@
 ---
-type: concept
+type: log
 tags:
+  - log
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Daily Logs Index"
+entities:
+  - workspace-links/Daily Logs/2026/2026-03-20
+  - workspace-links/Daily Logs/2026/2026-03-21
+  - workspace-links/Daily Logs/2026/2026-03-22
+  - workspace-links/Daily Logs/2026/2026-03-23
+  - workspace-links/Daily Logs/2026/2026-03-24
+tags::
+  - workspace-links
 ---
 # Daily Logs Index
 

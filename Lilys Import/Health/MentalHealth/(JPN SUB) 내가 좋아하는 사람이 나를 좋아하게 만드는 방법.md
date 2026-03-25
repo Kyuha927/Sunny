@@ -1,17 +1,35 @@
 ---
-title: (JPN SUB) 내가 좋아하는 사람이 나를 좋아하게 만드는 방법
-source: https://lilys.ai/digest/5509168
-lilys_page: https://lilys.ai/digest/5509168/5130556
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - health
+  - lilys-import
+  - mentalhealth
+  - reference
+created: 2026-03-25
+summary: "(JPN SUB) 내가 좋아하는 사람이 나를 좋아하게 만드는 방법"
+entities:
+  - '여유'와 '자신감'
+  - 고백 후 상대방의 심리적 반응
+  - 고백 후 행동의 중요성
+  - 과도한 친절이나 노력
+  - 기다림의 중요성
+  - 마음을 얻기 위한 노력의 함정
+  - 보너스 점수의 한계
+  - 사람의 본능과 친절의 역설
+  - 상대방을 자신에게 반하게 하는 능력
+  - 심리적 기술
+source: "https://lilys.ai/digest/5509168"
+title: "(JPN SUB) 내가 좋아하는 사람이 나를 좋아하게 만드는 방법"
+lilys_page: "https://lilys.ai/digest/5509168/5130556"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Health
 subcategory: MentalHealth
-tags:
-- lilys
-- health
-- mentalhealth
-- imported
+tags::
+  - lilys
+  - health
+  - mentalhealth
+  - imported
 ---
-
 # (JPN SUB) 내가 좋아하는 사람이 나를 좋아하게 만드는 방법
 
 > Source: https://lilys.ai/digest/5509168

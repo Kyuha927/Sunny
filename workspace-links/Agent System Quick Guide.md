@@ -1,9 +1,23 @@
 ---
-type: concept
+type: reference
 tags:
+  - reference
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Agent System Quick Guide"
+entities:
+  - OpenQuestions.md
+  - Sunny
+  - workspace-links/Agent MOC
+  - workspace-links/Agent Notes
+  - workspace-links/Archive Index
+  - workspace-links/Daily Logs Index
+  - workspace-links/Obsidian Plugins
+  - workspace-links/Project Status Index
+  - workspace-links/Projects
+  - workspace-links/References
+tags::
+  - workspace-links
 ---
 # Agent System Quick Guide
 

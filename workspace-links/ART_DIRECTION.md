@@ -1,9 +1,23 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "ART DIRECTION"
+entities:
+  - #1a1412
+  - #3D8B4F
+  - #3a302a
+  - #4A7CB5
+  - #4ade80
+  - #594a42
+  - #7B4EAF
+  - #8BC49A
+  - #C0C8D8
+  - #C0D8FF
+tags::
+  - workspace-links
 ---
 # 🎨 Pixel Agents RPG — 아트 디렉션 및 스타일 가이드
 

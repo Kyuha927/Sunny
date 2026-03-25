@@ -1,9 +1,23 @@
 ---
-type: concept
+type: project
 tags:
+  - project
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: Projects
+entities:
+  - Room × Pixel Agents
+  - antigravity_brains
+  - antigravity_bridge
+  - msw2/Docs
+  - workspace-links/Project - Brains
+  - workspace-links/Project - Bridge
+  - workspace-links/Project - MSW
+  - workspace-links/Project Status Index
+  - workspace-links/Studio Structure
+  - ~/projects/Sunny
+tags::
+  - workspace-links
 ---
 # Projects
 

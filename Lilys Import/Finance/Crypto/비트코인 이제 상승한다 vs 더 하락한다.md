@@ -1,17 +1,35 @@
 ---
-title: 비트코인 이제 상승한다 vs 더 하락한다
-source: https://www.youtube.com/watch?v=G_zSOcD_iiE
-lilys_page: https://lilys.ai/digest/6622602/6815316
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - crypto
+  - finance
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "비트코인 이제 상승한다 vs 더 하락한다"
+entities:
+  - 0.618 되돌림 자리인 94K
+  - 3,200에서 3,100 사이
+  - 94K 도달 시 중요성
+  - 공격적인 매수 수요가 붙지 않고 있다
+  - 공격적인 매수 수요의 부재
+  - 공통된 시장 상황 인식
+  - 과거 움직임 분석
+  - 매수 추천 복기
+  - 바닥이 나온 것 아니냐
+  - 빠르게 빨간선 위로 올라와 주는 것이 중요
+source: "https://www.youtube.com/watch?v=G_zSOcD_iiE"
+title: "비트코인 이제 상승한다 vs 더 하락한다"
+lilys_page: "https://lilys.ai/digest/6622602/6815316"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Finance
 subcategory: Crypto
-tags:
-- lilys
-- finance
-- crypto
-- imported
+tags::
+  - lilys
+  - finance
+  - crypto
+  - imported
 ---
-
 # 비트코인 이제 상승한다 vs 더 하락한다
 
 > Source: https://www.youtube.com/watch?v=G_zSOcD_iiE

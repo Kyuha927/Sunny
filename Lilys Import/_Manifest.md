@@ -1,9 +1,12 @@
 ---
-type: concept
+type: reference
 tags:
   - lilys-import
+  - reference
 created: 2026-03-25
-summary: ""
+summary: Manifest
+tags::
+  - lilys-import
 ---
 # Manifest
 

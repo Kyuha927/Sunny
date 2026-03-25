@@ -1,17 +1,36 @@
 ---
-title: 'ComfyUI: Flux with LLM, 5x Upscale Part 1 (Workflow Tutorial)'
-source: https://www.youtube.com/watch?v=6ZUJ18wR_Bo
-lilys_page: https://lilys.ai/digest/7616229/8354405
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - llm
+  - reference
+created: 2026-03-25
+summary: "ComfyUI Flux with LLM, 5x Upscale Part 1 (Workflow Tutorial)"
+entities:
+  - .
+4.
+  - : LLM으로 강화된 간단한 프롬프트조차 이미지에
+  - ControlNet과 어댑터를 특정 지점까지 불필요하게 만든다
+  - ControlNet이나 어댑터 없이도
+  - Flux 모델
+  - Flux 모델 최적화
+  - Flux 모델의 특징
+  - Flux 샘플러 노드
+  - Flux 해상도 계산기
+  - LLM 기반의 창의적인 이미지 생성 및 최대 5.4배 업스케일링
+source: "https://www.youtube.com/watch?v=6ZUJ18wR_Bo"
+title: "'ComfyUI: Flux with LLM, 5x Upscale Part 1 (Workflow Tutorial)'"
+lilys_page: "https://lilys.ai/digest/7616229/8354405"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: LLM
-tags:
-- lilys
-- ai
-- llm
-- imported
+tags::
+  - lilys
+  - ai
+  - llm
+  - imported
 ---
-
 # ComfyUI: Flux with LLM, 5x Upscale Part 1 (Workflow Tutorial)
 
 > Source: https://www.youtube.com/watch?v=6ZUJ18wR_Bo

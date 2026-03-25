@@ -1,17 +1,35 @@
 ---
-title: How To Think Like A Game Designer
-source: https://www.youtube.com/watch?v=iIOIT3dCy5w
-lilys_page: https://lilys.ai/digest/7378006/7988941
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - design
+  - lilys-import
+  - reference
+  - visual
+created: 2026-03-25
+summary: "How To Think Like A Game Designer"
+entities:
+  - '플레이어가 어떻게 행동하고 느끼게 할 것인가'
+  - MDA 구성 요소 정의
+  - MDA 프레임워크
+  - MDA 프레임워크의 등장
+  - MDA의 인과적 흐름
+  - 〈에일리언: 아이솔레이션〉의 초기 저장 시스템
+  - 〈젤다의 전설: 야생의 숨결〉 분석
+  - 공포심과 긴장감
+  - 궁극적인 비전과 미학
+  - 규칙, 시스템, 버튼의 기능, 모든 개별 수치
+source: "https://www.youtube.com/watch?v=iIOIT3dCy5w"
+title: "How To Think Like A Game Designer"
+lilys_page: "https://lilys.ai/digest/7378006/7988941"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Design
 subcategory: Visual
-tags:
-- lilys
-- design
-- visual
-- imported
+tags::
+  - lilys
+  - design
+  - visual
+  - imported
 ---
-
 # How To Think Like A Game Designer
 
 > Source: https://www.youtube.com/watch?v=iIOIT3dCy5w

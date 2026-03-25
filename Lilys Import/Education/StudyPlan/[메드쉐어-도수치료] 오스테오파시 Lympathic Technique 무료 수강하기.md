@@ -1,17 +1,35 @@
 ---
-title: '[메드쉐어-도수치료] 오스테오파시 Lympathic Technique 무료 수강하기'
-source: https://www.youtube.com/watch?v=lp9xFl1tnpY
-lilys_page: https://lilys.ai/digest/7372310/7981502
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - education
+  - lilys-import
+  - reference
+  - studyplan
+created: 2026-03-25
+summary: "[메드쉐어-도수치료] 오스테오파시 Lympathic Technique 무료 수강하기"
+entities:
+  - 10초에서 30초 정도
+  - 공간 확보 전략
+  - 공간 확보의 효과
+  - 굉장히 많은 림프 노드
+  - 대기 시간
+  - 림프 노드의 존재
+  - 림프 테크닉 영역 정의
+  - 림프 흐름 방향
+  - 변화 확인 및 재적용
+  - 사용 목적
+source: "https://www.youtube.com/watch?v=lp9xFl1tnpY"
+title: "'[메드쉐어-도수치료] 오스테오파시 Lympathic Technique 무료 수강하기'"
+lilys_page: "https://lilys.ai/digest/7372310/7981502"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Education
 subcategory: StudyPlan
-tags:
-- lilys
-- education
-- studyplan
-- imported
+tags::
+  - lilys
+  - education
+  - studyplan
+  - imported
 ---
-
 # [메드쉐어-도수치료] 오스테오파시 Lympathic Technique 무료 수강하기
 
 > Source: https://www.youtube.com/watch?v=lp9xFl1tnpY

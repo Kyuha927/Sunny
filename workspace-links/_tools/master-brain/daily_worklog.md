@@ -1,9 +1,14 @@
 ---
-type: concept
+type: log
 tags:
+  - -tools
+  - log
+  - master-brain
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "daily worklog"
+tags::
+  - workspace-links
 ---
 ## 2026-03-11 02:00:15
 - request: [AUTO GOAL] `채팅GUI-기능개선 | gui-, 기능개선, 이전, 모델, 실행, 내용을` | model=`- ` | profile=`- ` | session=`019c8ace`
@@ -636,4 +641,3 @@ summary: ""
 - evolution_notes:
   - project path: `/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean`
   - 다음 입력에는 `OBSIDIAN_LOG_CONTRACT` 아래의 실제 작업 본문까지 포함해서 다시 보내야 합니다. 지금 텍스트는 `[USER TASK]`가 계약 블록에서 끊겨 있어서 구현 대상이 비어 있습니다.
-

@@ -1,9 +1,14 @@
 ---
-type: concept
+type: log
 tags:
+  - -tools
+  - log
+  - master-brain
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "daily evolution"
+tags::
+  - workspace-links
 ---
 ## 2026-03-11 02:00:15
 ### Request
@@ -989,4 +994,3 @@ summary: ""
 - 다음 입력에는 `OBSIDIAN_LOG_CONTRACT` 아래의 실제 작업 본문까지 포함해서 다시 보내야 합니다. 지금 텍스트는 `[USER TASK]`가 계약 블록에서 끊겨 있어서 구현 대상이 비어 있습니다.
 ### Response
 - 전달된 작업 본문이 다시 중간에서 잘렸습니다. 확인 가능한 범위에는 `OBSIDIAN_LOG_CONTRACT`와 브레인 스냅샷만 있고, 실제 PM 지시 내용은 없습니다. 이 상태로는 무엇을 수정하거나 생성해야 하는지 확정할 수 없어서 실행 보류가 맞습니다.  확정 가능한 사항: - route used: `WSL-Ubuntu` - project path: `/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean` - artifact path: 없음 - Vault/Obsidian publish:...
-

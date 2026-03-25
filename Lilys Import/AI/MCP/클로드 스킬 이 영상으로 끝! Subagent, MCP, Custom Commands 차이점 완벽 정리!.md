@@ -1,17 +1,35 @@
 ---
-title: 클로드 스킬 이 영상으로 끝! | Subagent, MCP, Custom Commands 차이점 완벽 정리!
-source: https://www.youtube.com/watch?v=wKIQbRMZ4Cs
-lilys_page: https://lilys.ai/digest/8345711/9355414
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "클로드 스킬 이 영상으로 끝! Subagent, MCP, Custom Commands 차이점 완벽 정리!"
+entities:
+  - '코드 실행 및 파일' 옵션 활성화
+  - '클로드 스킬'의 핵심 원리
+  - '클로드를 위한 업무 매뉴얼'
+  - PPTX 스킬을 자동 선택 및 사용
+  - PPTX 스킬을 활용
+  - 결과 확인
+  - 기본 지원
+  - 내장 스킬
+  - 다양한 추가 스킬
+  - 대규모 자동화와 반복 작업
+source: "https://www.youtube.com/watch?v=wKIQbRMZ4Cs"
+title: "클로드 스킬 이 영상으로 끝! | Subagent, MCP, Custom Commands 차이점 완벽 정리!"
+lilys_page: "https://lilys.ai/digest/8345711/9355414"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # 클로드 스킬 이 영상으로 끝! | Subagent, MCP, Custom Commands 차이점 완벽 정리!
 
 > Source: https://www.youtube.com/watch?v=wKIQbRMZ4Cs

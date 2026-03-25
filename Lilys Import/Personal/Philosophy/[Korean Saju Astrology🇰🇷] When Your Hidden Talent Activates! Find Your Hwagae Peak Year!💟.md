@@ -1,18 +1,35 @@
 ---
-title: '[Korean Saju Astrology🇰🇷] When Your Hidden Talent Activates! Find Your "Hwagae"
-  Peak Year!💟'
-source: https://www.youtube.com/watch?v=VSuNGpYP_RM
-lilys_page: https://lilys.ai/digest/5911253/5740794
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - lilys-import
+  - personal
+  - philosophy
+  - reference
+created: 2026-03-25
+summary: "[Korean Saju Astrology🇰🇷] When Your Hidden Talent Activates! Find Your Hwagae Peak Year!💟"
+entities:
+  - 눈여겨볼 만한 강한 화개살 구성
+  - 두 번째
+  - 두 번째 조건
+  - 언제, 어떻게 강하게 발현될 수 있는지
+  - 일지를 기준으로 진짜 화개살 찾는 법
+  - 전문성과 재능이 만개하는 시점
+  - 지지의 중요성
+  - 첫 번째
+  - 첫 번째 조건
+  - 화개살
+source: "https://www.youtube.com/watch?v=VSuNGpYP_RM"
+title: "'[Korean Saju Astrology🇰🇷] When Your Hidden Talent Activates! Find Your 'Hwagae"
+lilys_page: "https://lilys.ai/digest/5911253/5740794"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Personal
 subcategory: Philosophy
-tags:
-- lilys
-- personal
-- philosophy
-- imported
+tags::
+  - lilys
+  - personal
+  - philosophy
+  - imported
 ---
-
 # [Korean Saju Astrology🇰🇷] When Your Hidden Talent Activates! Find Your "Hwagae" Peak Year!💟
 
 > Source: https://www.youtube.com/watch?v=VSuNGpYP_RM

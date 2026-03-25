@@ -1,9 +1,13 @@
 ---
-type: concept
+type: template
 tags:
+  - template
+  - templates
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Retro Template"
+tags::
+  - workspace-links
 ---
 # Retro Template
 
@@ -21,5 +25,4 @@ summary: ""
 
 ## 다음에 바꿀 것
 
-- 
-
+-

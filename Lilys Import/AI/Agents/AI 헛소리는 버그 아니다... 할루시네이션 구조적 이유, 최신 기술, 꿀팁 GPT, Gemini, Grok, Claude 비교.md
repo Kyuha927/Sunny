@@ -1,17 +1,35 @@
 ---
-title: AI 헛소리는 버그 아니다... 할루시네이션 구조적 이유, 최신 기술, 꿀팁 | GPT, Gemini, Grok, Claude 비교
-source: https://www.youtube.com/watch?v=4JDVS-JyYNc
-lilys_page: https://lilys.ai/digest/8330525/9333556
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "AI 헛소리는 버그 아니다... 할루시네이션 구조적 이유, 최신 기술, 꿀팁 GPT, Gemini, Grok, Claude 비교"
+entities:
+  - '모르겠다'고 말하는 것보다 대충 찍는 것이 더 유리한 구조
+  - '모른다고 인정하는 능력'
+  - '모를 때 모른다고 말하는 것'
+  - AI 활용 리스크 증가
+  - LRM의 본질
+  - 검증형 훈련
+  - 결과
+  - 과거 모델의 특징
+  - 구조적 부작용
+  - 기술
+source: "https://www.youtube.com/watch?v=4JDVS-JyYNc"
+title: "AI 헛소리는 버그 아니다... 할루시네이션 구조적 이유, 최신 기술, 꿀팁 | GPT, Gemini, Grok, Claude 비교"
+lilys_page: "https://lilys.ai/digest/8330525/9333556"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # AI 헛소리는 버그 아니다... 할루시네이션 구조적 이유, 최신 기술, 꿀팁 | GPT, Gemini, Grok, Claude 비교
 
 > Source: https://www.youtube.com/watch?v=4JDVS-JyYNc

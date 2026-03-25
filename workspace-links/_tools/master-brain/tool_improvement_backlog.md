@@ -1,9 +1,14 @@
 ---
-type: concept
+type: log
 tags:
+  - -tools
+  - log
+  - master-brain
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "tool improvement backlog"
+tags::
+  - workspace-links
 ---
 # Tool Improvement Backlog
 
@@ -513,4 +518,3 @@ summary: ""
   - [2026-03-19__agent.md](/mnt/c/Users/jhk92/OneDrive/문서/Obsidian%20Vault/workspace-links/_catalog/updates/Codex-Chat-GUI-NextGen-clean/2026-03-19__agent.md)
   - [project README](/mnt/c/Users/jhk92/OneDrive/문서/Obsidian%20Vault/workspace-links/projects/Codex-Chat-GUI-NextGen-clean/README.md)
 - response: 알고 있습니다. 사라진 채팅 대신 남아 있는 기준은 Git handoff와 Obsidian continuity입니다.  현재 확실한 상태: - 표준 작업본은 Ubuntu ext4 fresh clone으로 정리됨. - 현재 브랜치는 `feature/copilot-agents-auto-handoff`, 원격과 `0 / 0`. - 워크트리는 아직 dirty 상태라 로컬 전용 변경과 커밋 대상 분리가 계속 필요함. - 백업/복원 기준 문서는 이미 정리됨.   - [BACKUP_CONTENTS_DAS...
-

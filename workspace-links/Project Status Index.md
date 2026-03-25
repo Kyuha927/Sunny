@@ -1,9 +1,17 @@
 ---
-type: concept
+type: project
 tags:
+  - project
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Project Status Index"
+entities:
+  - Archive
+  - msw2/Docs
+  - response.md
+  - transcript.md
+tags::
+  - workspace-links
 ---
 # Project Status Index
 

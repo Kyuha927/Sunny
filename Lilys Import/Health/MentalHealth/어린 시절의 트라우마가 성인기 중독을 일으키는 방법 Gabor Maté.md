@@ -1,17 +1,35 @@
 ---
-title: 어린 시절의 트라우마가 성인기 중독을 일으키는 방법 | Gabor Maté
-source: https://lilys.ai/digest/5574463
-lilys_page: https://lilys.ai/digest/5574463/5226099
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - health
+  - lilys-import
+  - mentalhealth
+  - reference
+created: 2026-03-25
+summary: "어린 시절의 트라우마가 성인기 중독을 일으키는 방법 Gabor Maté"
+entities:
+  - 고통의 해소와 중독의 재정의
+  - 뇌의 적응성과 초기 경험의 중요성
+  - 생존 모드와 뇌 불균형
+  - 생존 패턴의 예시
+  - 어린 시절 트라우마가 성인기 중독으로 이어지는 과정
+  - 억압된 고통의 변형과 성인기 증상
+  - 전두엽
+  - 중독의 다양한 형태
+  - 중독의 본질과 아이러니
+  - 트라우마 처리 도구 부족과 감정 억압
+source: "https://lilys.ai/digest/5574463"
+title: "어린 시절의 트라우마가 성인기 중독을 일으키는 방법 | Gabor Maté"
+lilys_page: "https://lilys.ai/digest/5574463/5226099"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Health
 subcategory: MentalHealth
-tags:
-- lilys
-- health
-- mentalhealth
-- imported
+tags::
+  - lilys
+  - health
+  - mentalhealth
+  - imported
 ---
-
 # 어린 시절의 트라우마가 성인기 중독을 일으키는 방법 | Gabor Maté
 
 > Source: https://lilys.ai/digest/5574463

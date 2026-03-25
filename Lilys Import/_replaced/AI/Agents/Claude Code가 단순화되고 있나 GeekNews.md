@@ -1,17 +1,36 @@
 ---
-title: Claude Code가 단순화되고 있나? | GeekNews
-source: https://share.google/aEh3UbGEjHjiJbkrw
-lilys_page: https://lilys.ai/digest/8136210/9071968
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "Claude Code가 단순화되고 있나 GeekNews"
+entities:
+  - AI 에이전트 및 개발 도구: OpenClaw, Streamerbait, Claude Auto Memory
+  - Anthropic 태도에 대한 풍자
+  - Anthropic의 초기 대응
+  - Verbose Mode의 과도한 출력 내용
+  - Verbose Mode의 부분적 조정
+  - 가독성 저하 문제
+  - 개발자와 사용자 간의 요구 불일치
+  - 근본적 해결책에 대한 비판
+  - 사용자가 원하는 최소한의 정보 표시 기능
+  - 사용자들의 임시 조치
+source: "https://share.google/aEh3UbGEjHjiJbkrw"
+title: "Claude Code가 단순화되고 있나? | GeekNews"
+lilys_page: "https://lilys.ai/digest/8136210/9071968"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # Claude Code가 단순화되고 있나? | GeekNews
 
 > Source: https://share.google/aEh3UbGEjHjiJbkrw

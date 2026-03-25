@@ -1,9 +1,17 @@
 ---
-type: concept
+type: project
 tags:
+  - project
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Project - Brains"
+entities:
+  - 2026-03-20
+  - active
+  - antigravity_brains/
+  - workspace-links/Project Status Index
+tags::
+  - workspace-links
 ---
 # Project - Brains
 

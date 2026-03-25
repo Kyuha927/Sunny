@@ -1,17 +1,35 @@
 ---
-title: '[꼬꼬유] Unity 6.2의 게임 체인저: Unity AI로 개발 효율 극대화하기'
-source: https://www.youtube.com/watch?v=ORj8AvBD394
-lilys_page: https://lilys.ai/digest/7597237/8322614
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "[꼬꼬유] Unity 6.2의 게임 체인저 Unity AI로 개발 효율 극대화하기"
+entities:
+  - '바이브 코딩'
+  - Unity AI
+  - Unity AI 베타
+  - 개념 정의
+  - 개발의 민주화
+  - 공개 시점
+  - 더 나은 게임을 빠르고 반복적으로
+  - 더 생산적
+  - 민주화 비유
+  - 발표 내용 구성
+source: "https://www.youtube.com/watch?v=ORj8AvBD394"
+title: "'[꼬꼬유] Unity 6.2의 게임 체인저: Unity AI로 개발 효율 극대화하기'"
+lilys_page: "https://lilys.ai/digest/7597237/8322614"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # [꼬꼬유] Unity 6.2의 게임 체인저: Unity AI로 개발 효율 극대화하기
 
 > Source: https://www.youtube.com/watch?v=ORj8AvBD394

@@ -1,17 +1,35 @@
 ---
-title: 클로드 코워크 A to Z 이 영상 하나로 끝내드려요 l AI 비서, 데이터분석, 보고서 작성 실습까지
-source: https://www.youtube.com/watch?v=qfVqIhkWL7A
-lilys_page: https://lilys.ai/digest/8345685/9355374
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "클로드 코워크 A to Z 이 영상 하나로 끝내드려요 l AI 비서, 데이터분석, 보고서 작성 실습까지"
+entities:
+  - 글로벌 인스트럭션 및 폴더별 인스트럭션
+  - 실전 시나리오 1: 영수증 이미지로 경비 보고서 작성
+  - 실전 시나리오 2: 운영 비용 데이터 분석 및 보고서 작성
+  - 에이전틱 AI
+  - 자율 실행형 AI 에이전트
+  - 전문적인 산출물
+  - 전문적인 산출물 생성
+  - 클로드 데스크탑
+  - 클로드 코워크 설치 및 진입
+  - 클로드 코워크의 세 가지 핵심 기능
+source: "https://www.youtube.com/watch?v=qfVqIhkWL7A"
+title: "클로드 코워크 A to Z 이 영상 하나로 끝내드려요 l AI 비서, 데이터분석, 보고서 작성 실습까지"
+lilys_page: "https://lilys.ai/digest/8345685/9355374"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 클로드 코워크 A to Z 이 영상 하나로 끝내드려요 l AI 비서, 데이터분석, 보고서 작성 실습까지
 
 > Source: https://www.youtube.com/watch?v=qfVqIhkWL7A

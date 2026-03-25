@@ -1,0 +1,10 @@
+---
+type: entity
+tags:
+  - entity
+created: 2026-03-25
+summary: ""
+---
+# 기존 AI 코딩 방식의 한계
+
+> Auto-generated entity node. Backlinks show all documents referencing this concept.

@@ -1,9 +1,23 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: One-Page-Spec
+entities:
+  - Agent MOC
+  - Daily Logs Index
+  - Project Status Index
+  - chara-ide
+  - daily_report.sh
+  - msw2
+  - pixel-agents
+  - pixel-world
+  - 담당
+  - 마지막 업데이트
+tags::
+  - workspace-links
 ---
 # 🗂️ 원페이지 기획서 (One-Page Spec)
 

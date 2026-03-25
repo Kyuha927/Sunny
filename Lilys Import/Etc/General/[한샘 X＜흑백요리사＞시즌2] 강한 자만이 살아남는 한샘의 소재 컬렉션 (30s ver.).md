@@ -1,17 +1,35 @@
 ---
-title: '[한샘 X＜흑백요리사＞시즌2] 강한 자만이 살아남는 한샘의 소재 컬렉션 (30s ver.)'
-source: https://www.youtube.com/watch?v=BAiOqG72c68
-lilys_page: https://lilys.ai/digest/7917546/8771990
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - etc
+  - general
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "[한샘 X＜흑백요리사＞시즌2] 강한 자만이 살아남는 한샘의 소재 컬렉션 (30s ver.)"
+entities:
+  - 227kg
+  - 3,000번
+  - 4만 회
+  - 극한의 내구성 테스트
+  - 극한의 테스트 환경
+  - 김치 국물
+  - 내오염성 테스트
+  - 내오염에 강한 이탈리아산 세라믹
+  - 노동의 의미가 바뀌고 있다
+  - 사장들 다 집합시켜 (트럼프)
+source: "https://www.youtube.com/watch?v=BAiOqG72c68"
+title: "'[한샘 X＜흑백요리사＞시즌2] 강한 자만이 살아남는 한샘의 소재 컬렉션 (30s ver.)'"
+lilys_page: "https://lilys.ai/digest/7917546/8771990"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Etc
 subcategory: General
-tags:
-- lilys
-- etc
-- general
-- imported
+tags::
+  - lilys
+  - etc
+  - general
+  - imported
 ---
-
 # [한샘 X＜흑백요리사＞시즌2] 강한 자만이 살아남는 한샘의 소재 컬렉션 (30s ver.)
 
 > Source: https://www.youtube.com/watch?v=BAiOqG72c68

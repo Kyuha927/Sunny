@@ -1,9 +1,13 @@
 ---
-type: concept
+type: log
 tags:
+  - log
+  - templates
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Log Template"
+tags::
+  - workspace-links
 ---
 # Log Template
 
@@ -29,5 +33,4 @@ summary: ""
 
 ## 참고 링크
 
-- 
-
+-

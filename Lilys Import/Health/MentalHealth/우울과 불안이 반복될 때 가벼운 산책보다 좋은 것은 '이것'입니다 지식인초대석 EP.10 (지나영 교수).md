@@ -1,17 +1,35 @@
 ---
-title: 우울과 불안이 반복될 때 가벼운 산책보다 좋은 것은 '이것'입니다 | 지식인초대석 EP.10 (지나영 교수)
-source: https://lilys.ai/digest/5638926
-lilys_page: https://lilys.ai/digest/5638926/5324264
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - health
+  - lilys-import
+  - mentalhealth
+  - reference
+created: 2026-03-25
+summary: "우울과 불안이 반복될 때 가벼운 산책보다 좋은 것은 '이것'입니다 지식인초대석 EP.10 (지나영 교수)"
+entities:
+  - 극단적 사고
+  - 부정적 사고
+  - 부정적인 생각과 우울증의 연관성
+  - 사고적 동반 증상
+  - 수면 이상
+  - 스스로 관리하고 극복
+  - 신경질적인 반응
+  - 신체 증상 호소
+  - 신체적 동반 증상
+  - 어떻게 지지하고 도울 수 있는지
+source: "https://lilys.ai/digest/5638926"
+title: "우울과 불안이 반복될 때 가벼운 산책보다 좋은 것은 '이것'입니다 | 지식인초대석 EP.10 (지나영 교수)"
+lilys_page: "https://lilys.ai/digest/5638926/5324264"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Health
 subcategory: MentalHealth
-tags:
-- lilys
-- health
-- mentalhealth
-- imported
+tags::
+  - lilys
+  - health
+  - mentalhealth
+  - imported
 ---
-
 # 우울과 불안이 반복될 때 가벼운 산책보다 좋은 것은 '이것'입니다 | 지식인초대석 EP.10 (지나영 교수)
 
 > Source: https://lilys.ai/digest/5638926

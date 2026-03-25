@@ -1,17 +1,36 @@
 ---
-title: 디렉터 혼자 게임 만든다고? | AI 게임 1인 개발 ep.2
-source: https://www.youtube.com/watch?v=hfdQ4DYxGoo
-lilys_page: https://lilys.ai/digest/8243654/9215931
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - general
+  - lilys-import
+  - programming
+  - reference
+created: 2026-03-25
+summary: "디렉터 혼자 게임 만든다고 AI 게임 1인 개발 ep.2"
+entities:
+  - 1월 목표
+  - AI 도구를 활용해 게임의 핵심 요소들을 어떻게 구현하고 발전시키는지
+  - AI 활용
+  - AI 활용의 장점
+  - Gemini 3.0 Flash
+  - Gemini 3.5 Flash
+  - Gemini TTS 2.5 Pro
+  - 개선 시도
+  - 기존과의 차이점
+  - 덱 빌딩 구현
+source: "https://www.youtube.com/watch?v=hfdQ4DYxGoo"
+title: "디렉터 혼자 게임 만든다고? | AI 게임 1인 개발 ep.2"
+lilys_page: "https://lilys.ai/digest/8243654/9215931"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: Programming
 subcategory: General
-tags:
-- lilys
-- programming
-- general
-- imported
+tags::
+  - lilys
+  - programming
+  - general
+  - imported
 ---
-
 # 디렉터 혼자 게임 만든다고? | AI 게임 1인 개발 ep.2
 
 > Source: https://www.youtube.com/watch?v=hfdQ4DYxGoo

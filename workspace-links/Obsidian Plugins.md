@@ -1,9 +1,23 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Obsidian Plugins"
+entities:
+  - backlink
+  - copilot
+  - daily-notes
+  - dataview
+  - graph
+  - obsidian-git
+  - smart-connections
+  - templates
+  - vault-ai
+  - workspace-links/Agent MOC
+tags::
+  - workspace-links
 ---
 # Obsidian Plugins
 
@@ -70,4 +84,3 @@ summary: ""
 - [[workspace-links/Agent MOC]]
 - [[workspace-links/References]]
 - [[workspace-links/Agent System Quick Guide]]
-

@@ -1,9 +1,15 @@
 ---
-type: concept
+type: reference
 tags:
+  - reference
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Reference - Tools"
+entities:
+  - msw2/Docs/MCP_ToolMap.md
+  - reference
+tags::
+  - workspace-links
 ---
 # Reference - Tools
 
@@ -25,4 +31,3 @@ summary: ""
 
 - 도구를 추측하지 않는다.
 - 필요한 도구를 먼저 찾는다.
-

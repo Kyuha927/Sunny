@@ -1,17 +1,36 @@
 ---
-title: How Left 4 Dead's AI Director Works
-source: https://www.youtube.com/watch?v=0th5ecqe_4A
-lilys_page: https://lilys.ai/digest/7378011/7988946
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - analysis
+  - lilys-import
+  - reference
+  - research
+created: 2026-03-25
+summary: "How Left 4 Dead's AI Director Works"
+entities:
+  - 0에서 1 사이의 값
+  - : 영역의 흐름 거리가 생존자의 흐름 거리보다
+  - AI 디렉터
+  - AI 디렉터 작동 원리
+  - AI 및 디렉터의 활용
+  - 가시성 추적
+  - 감염체 스폰 메커니즘
+  - 경로 거리 계산 방식
+  - 경우.
+  2.
+  - 기능
+source: "https://www.youtube.com/watch?v=0th5ecqe_4A"
+title: "How Left 4 Dead's AI Director Works"
+lilys_page: "https://lilys.ai/digest/7378011/7988946"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Research
 subcategory: Analysis
-tags:
-- lilys
-- research
-- analysis
-- imported
+tags::
+  - lilys
+  - research
+  - analysis
+  - imported
 ---
-
 # How Left 4 Dead's AI Director Works
 
 > Source: https://www.youtube.com/watch?v=0th5ecqe_4A

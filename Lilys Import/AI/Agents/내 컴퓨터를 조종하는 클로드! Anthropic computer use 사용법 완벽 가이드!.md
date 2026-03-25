@@ -1,17 +1,35 @@
 ---
-title: 내 컴퓨터를 조종하는 클로드?! Anthropic computer use 사용법 완벽 가이드!
-source: https://www.youtube.com/watch?v=H6pyd9YvmA8
-lilys_page: https://lilys.ai/digest/8094786/9015733
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "내 컴퓨터를 조종하는 클로드! Anthropic computer use 사용법 완벽 가이드!"
+entities:
+  - '틸'
+  - 14.9%
+  - 22%
+  - AI를 통해 컴퓨터를 조작
+  - API 엔트로픽
+  - API 키
+  - OS 월드 평가
+  - `docker run` 명령어
+  - fonts-noto-cjk
+  - 구글 플라이트
+source: "https://www.youtube.com/watch?v=H6pyd9YvmA8"
+title: "내 컴퓨터를 조종하는 클로드?! Anthropic computer use 사용법 완벽 가이드!"
+lilys_page: "https://lilys.ai/digest/8094786/9015733"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 내 컴퓨터를 조종하는 클로드?! Anthropic computer use 사용법 완벽 가이드!
 
 > Source: https://www.youtube.com/watch?v=H6pyd9YvmA8

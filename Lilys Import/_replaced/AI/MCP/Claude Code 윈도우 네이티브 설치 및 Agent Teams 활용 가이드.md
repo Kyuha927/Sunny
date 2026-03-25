@@ -1,23 +1,42 @@
 ---
-title: Claude Code 윈도우 네이티브 설치 및 Agent Teams 활용 가이드
-source: https://lilys.ai/digest/8345681
-lilys_page: https://lilys.ai/digest/8345681
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "Claude Code 윈도우 네이티브 설치 및 Agent Teams 활용 가이드"
+entities:
+  - 10년 이상 된 컴퓨터에서는 마인크래프트 플레이가 불가능
+  - API 변경의 결정적 계기
+  - OpenGL
+  - OpenGL과 Vulkan의 이해
+  - Vulkan
+  - Vulkan 도입의 기대 효과
+  - Vulkan 지원 모드 출시 지연
+  - macOS에서 OpenGL 지원을 중단
+  - 구형 컴퓨터 사용자 지원 중단
+  - 기존 모드 호환성 문제
+source: "https://lilys.ai/digest/8345681"
+title: "Claude Code 윈도우 네이티브 설치 및 Agent Teams 활용 가이드"
+lilys_page: "https://lilys.ai/digest/8345681"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
-sources:
-- https://www.youtube.com/watch?v=jMlmYh5mu24
-- https://www.youtube.com/watch?v=miJLo234L9s
-- https://www.youtube.com/watch?v=myniAcRw7R4
-- https://www.youtube.com/watch?v=oC3F2SFaF9w
-- https://www.youtube.com/watch?v=vTi-4x-cMXI
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
+sources::
+  - https://www.youtube.com/watch?v=jMlmYh5mu24
+  - https://www.youtube.com/watch?v=miJLo234L9s
+  - https://www.youtube.com/watch?v=myniAcRw7R4
+  - https://www.youtube.com/watch?v=oC3F2SFaF9w
+  - https://www.youtube.com/watch?v=vTi-4x-cMXI
 ---
-
 # Claude Code 윈도우 네이티브 설치 및 Agent Teams 활용 가이드
 
 > Source: https://lilys.ai/digest/8345681

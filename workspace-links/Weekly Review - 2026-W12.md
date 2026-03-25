@@ -1,9 +1,20 @@
 ---
-type: concept
+type: reference
 tags:
+  - reference
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "Weekly Review - 2026-W12"
+entities:
+  - .obsidian
+  - Welcome.md
+  - workspace-links
+  - workspace-links/Agent MOC
+  - workspace-links/Agent Notes
+  - workspace-links/Projects
+  - workspace-links/References
+tags::
+  - workspace-links
 ---
 # Weekly Review - 2026-W12
 
@@ -41,4 +52,3 @@ summary: ""
 - [[workspace-links/Projects]]
 - [[workspace-links/References]]
 - [[workspace-links/Agent Notes]]
-

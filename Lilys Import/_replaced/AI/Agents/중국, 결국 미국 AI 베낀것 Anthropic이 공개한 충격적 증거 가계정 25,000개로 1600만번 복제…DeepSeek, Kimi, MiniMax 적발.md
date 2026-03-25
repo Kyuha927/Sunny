@@ -1,18 +1,34 @@
 ---
-title: 중국, 결국 미국 AI 베낀것? Anthropic이 공개한 충격적 증거 | 가계정 25,000개로 1600만번 복제…DeepSeek,
-  Kimi, MiniMax 적발
-source: https://www.youtube.com/watch?v=_l3Bv_Grn_M
-lilys_page: https://lilys.ai/digest/8330442/9333464
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "중국, 결국 미국 AI 베낀것 Anthropic이 공개한 충격적 증거 가계정 25,000개로 1600만번 복제…DeepSeek, Kimi, MiniMax 적발"
+entities:
+  - 1.
+  - 1.  이는 해킹이나 불법적인 방법은 아니지만,
+  - 1.  이들 기업은
+  - 강화 학습의 리워드 모델
+  - 검열 회피
+  - 미국의 GPU 수출 제한으로 인해 고성능 AI 칩을 확보하기 어렵기 때문
+  - 을 생성하여
+  - 추론 능력
+source: "https://www.youtube.com/watch?v=_l3Bv_Grn_M"
+title: "중국, 결국 미국 AI 베낀것? Anthropic이 공개한 충격적 증거 | 가계정 25,000개로 1600만번 복제…DeepSeek,"
+lilys_page: "https://lilys.ai/digest/8330442/9333464"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 중국, 결국 미국 AI 베낀것? Anthropic이 공개한 충격적 증거 | 가계정 25,000개로 1600만번 복제…DeepSeek, Kimi, MiniMax 적발
 
 > Source: https://www.youtube.com/watch?v=_l3Bv_Grn_M

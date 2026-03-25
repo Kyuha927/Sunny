@@ -1,17 +1,36 @@
 ---
-title: AI 모델 vs AI 코딩 도구, 이 영상으로 끝 | 클로드 코드 왜 쓸까
-source: https://www.youtube.com/watch?v=sUigywn57ME
-lilys_page: https://lilys.ai/digest/8174046/9123203
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "AI 모델 vs AI 코딩 도구, 이 영상으로 끝 클로드 코드 왜 쓸까"
+entities:
+  - AI 모델
+  - AI 코딩 도구
+  - GPT나 클로드
+  - 검용적이고 유연한 답변
+  - 다른 스타일
+  - 대표적인 AI 모델의 특징
+  - 대화만 가능
+  - 데스크톱 IDE
+  - 데스크톱 IDE 기반 도구
+  - 두뇌
+source: "https://www.youtube.com/watch?v=sUigywn57ME"
+title: "AI 모델 vs AI 코딩 도구, 이 영상으로 끝 | 클로드 코드 왜 쓸까"
+lilys_page: "https://lilys.ai/digest/8174046/9123203"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # AI 모델 vs AI 코딩 도구, 이 영상으로 끝 | 클로드 코드 왜 쓸까
 
 > Source: https://www.youtube.com/watch?v=sUigywn57ME

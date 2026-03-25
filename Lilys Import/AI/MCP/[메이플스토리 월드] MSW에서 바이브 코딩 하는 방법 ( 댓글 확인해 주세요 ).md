@@ -1,17 +1,35 @@
 ---
-title: '[메이플스토리 월드] MSW에서 바이브 코딩 하는 방법 ( 댓글 확인해 주세요 )'
-source: https://www.youtube.com/watch?v=bjbBMCQRNHE
-lilys_page: https://lilys.ai/digest/8100669/9023790
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "[메이플스토리 월드] MSW에서 바이브 코딩 하는 방법 ( 댓글 확인해 주세요 )"
+entities:
+  - 8가지 도구를 가진 MCP
+  - AI와 대화하며 코드를 완성하는 '바이브 코딩'의 실전 방법
+  - Copilot
+  - HTTP 방식
+  - Instructions
+  - MD 파일
+  - MD 파일 제공
+  - MSW help
+  - 기획 내용을 MD 파일 형식
+  - 기획이나 개발 방향
+source: "https://www.youtube.com/watch?v=bjbBMCQRNHE"
+title: "'[메이플스토리 월드] MSW에서 바이브 코딩 하는 방법 ( 댓글 확인해 주세요 )'"
+lilys_page: "https://lilys.ai/digest/8100669/9023790"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # [메이플스토리 월드] MSW에서 바이브 코딩 하는 방법 ( 댓글 확인해 주세요 )
 
 > Source: https://www.youtube.com/watch?v=bjbBMCQRNHE

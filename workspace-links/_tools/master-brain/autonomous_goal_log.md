@@ -1,9 +1,14 @@
 ---
-type: concept
+type: log
 tags:
+  - -tools
+  - log
+  - master-brain
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "autonomous goal log"
+tags::
+  - workspace-links
 ---
 # Autonomous Goal Log
 
@@ -438,4 +443,3 @@ summary: ""
 - goal: 현재 입력으로는 실행할 실제 작업이 없습니다. `watch_hub_pending_to_codex_cli.py`가 긴 프롬프트를 자르는 구조라, 이 turn도 `[USER TASK]` 본문이 중간에서 잘렸습니다. 저장소 내 continuity에도 같은 상태가 이미 기록돼 있습니다: [CONTINUITY.md](/hom...
 - status: success
 - detail: [CODEX] 전달된 작업 본문이 다시 중간에서 잘렸습니다. 확인 가능한 범위에는 `OBSIDIAN_LOG_CONTRACT`와 브레인 스냅샷만 있고, 실제 PM 지시 내용은 없습니다. 이 상태로는 무엇을 수정하거나 생성해야 하는지 확정할 수 없어서 실행 보류가 맞습니다.  확정 가능한 사항: - route used: `WSL-Ubuntu` - project path: `/home/jhk92/projects/Codex-Chat-GUI-NextGen-clean` - artifact path: 없음 - Vault/Obsidian publish: 실행 안 함 - con...
-

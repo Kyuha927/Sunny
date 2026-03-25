@@ -1,17 +1,36 @@
 ---
-title: AI 잘 쓰는 사람은 조용히 설계합니다.(feat.harness engineering)
-source: https://www.youtube.com/watch?v=BssPGKsP60s
-lilys_page: https://lilys.ai/digest/8250296/9224553
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "AI 잘 쓰는 사람은 조용히 설계합니다.(feat.harness engineering)"
+entities:
+  - AI 에이전트
+  - AI 활용 방식의 변화
+  - ChatGPT
+  - Claude.md
+  - Claude.md와 같은 컨텍스트 파일
+  - MCP 서버 설정
+  - OpenAI Codex 실험을 통한 인사이트
+  - 마누스
+  - 모델이 아닌 하니스가 병목 현상의 원인
+  - 스킬 파일
+source: "https://www.youtube.com/watch?v=BssPGKsP60s"
+title: "AI 잘 쓰는 사람은 조용히 설계합니다.(feat.harness engineering)"
+lilys_page: "https://lilys.ai/digest/8250296/9224553"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # AI 잘 쓰는 사람은 조용히 설계합니다.(feat.harness engineering)
 
 > Source: https://www.youtube.com/watch?v=BssPGKsP60s

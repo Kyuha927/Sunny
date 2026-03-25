@@ -1,17 +1,35 @@
 ---
-title: 700억 매출 스타트업 CEO, 집도 회사도 반지하인 이유 | 유정수 EP.1
-source: https://lilys.ai/digest/5620249
-lilys_page: https://lilys.ai/digest/5620249/5295623
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - health
+  - lilys-import
+  - mentalhealth
+  - reference
+created: 2026-03-25
+summary: "700억 매출 스타트업 CEO, 집도 회사도 반지하인 이유 유정수 EP.1"
+entities:
+  - 개인적인 습관 및 가치관
+  - 독특한 경영 철학과 삶의 방식
+  - 디자이너들의 업무 공간
+  - 땅값이 싸기 때문
+  - 본질적인 가치와 효율성
+  - 사옥 내 주요 공간 소개
+  - 사옥의 구성 및 입지 선정 이유
+  - 옥상
+  - 유정수 대표실의 위치와 특징
+  - 음식에 대한 태도
+source: "https://lilys.ai/digest/5620249"
+title: "700억 매출 스타트업 CEO, 집도 회사도 반지하인 이유 | 유정수 EP.1"
+lilys_page: "https://lilys.ai/digest/5620249/5295623"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Health
 subcategory: MentalHealth
-tags:
-- lilys
-- health
-- mentalhealth
-- imported
+tags::
+  - lilys
+  - health
+  - mentalhealth
+  - imported
 ---
-
 # 700억 매출 스타트업 CEO, 집도 회사도 반지하인 이유 | 유정수 EP.1
 
 > Source: https://lilys.ai/digest/5620249

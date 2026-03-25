@@ -1,17 +1,35 @@
 ---
-title: '[NDC22-커리어] 그때 알았더라면 좋았을 것들'
-source: https://www.youtube.com/watch?v=rYT4efmkgCw
-lilys_page: https://lilys.ai/digest/7916355/8770193
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - general
+  - lilys-import
+  - programming
+  - reference
+created: 2026-03-25
+summary: "[NDC22-커리어] 그때 알았더라면 좋았을 것들"
+entities:
+  - '사람'에 집중
+  - '피플 매니지먼트'의 핵심 원칙
+  - 가장 효율이 좋은 것
+  - 경험 및 직책 상승
+  - 기계를 상대
+  - 능동적 확인
+  - 리더의 역할
+  - 발표의 초점
+  - 불일치의 위험
+  - 사람을 상대하는 것이 주 업무
+source: "https://www.youtube.com/watch?v=rYT4efmkgCw"
+title: "'[NDC22-커리어] 그때 알았더라면 좋았을 것들'"
+lilys_page: "https://lilys.ai/digest/7916355/8770193"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Programming
 subcategory: General
-tags:
-- lilys
-- programming
-- general
-- imported
+tags::
+  - lilys
+  - programming
+  - general
+  - imported
 ---
-
 # [NDC22-커리어] 그때 알았더라면 좋았을 것들
 
 > Source: https://www.youtube.com/watch?v=rYT4efmkgCw

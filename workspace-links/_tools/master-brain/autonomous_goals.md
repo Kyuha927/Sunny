@@ -1,9 +1,21 @@
 ---
 type: concept
 tags:
+  - -tools
+  - concept
+  - master-brain
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "autonomous goals"
+entities:
+  - 1)
+  - 2)
+  - AGENTS.md
+  - docs/BRAIN_MASTER.md
+  - sync_master_chat.py
+  - tools/sync_master_chat.py
+tags::
+  - workspace-links
 ---
 # Autonomous Goals
 

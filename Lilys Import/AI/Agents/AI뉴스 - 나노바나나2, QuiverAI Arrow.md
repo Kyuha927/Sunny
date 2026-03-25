@@ -1,17 +1,31 @@
 ---
-title: AI뉴스 - 나노바나나2, QuiverAI Arrow...
-source: https://lilys.ai/videos/604721
-lilys_page: https://lilys.ai/videos/604721
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "AI뉴스 - 나노바나나2, QuiverAI Arrow"
+entities:
+  - Claude Remote Control
+  - Perplexity Computer
+  - Perplexity Computer Just KILLED Claude Code (Side-by-Side Test)
+  - QuiverAI Arrow
+  - 구글 안티그래비티 기본 설정 및 사용방법, 코덱스 앱, 클로드 코워크와 비교 Google Antigravity, Codex App, Claude Cowork
+  - 나노바나나 2 공개
+source: "https://lilys.ai/videos/604721"
+title: "AI뉴스 - 나노바나나2, QuiverAI Arrow..."
+lilys_page: "https://lilys.ai/videos/604721"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # AI뉴스 - 나노바나나2, QuiverAI Arrow...
 
 > Source: https://lilys.ai/videos/604721

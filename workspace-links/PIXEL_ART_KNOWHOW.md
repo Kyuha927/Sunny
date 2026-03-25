@@ -1,9 +1,23 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "PIXEL ART KNOWHOW"
+entities:
+  - 3중 부정
+  - ImagePaths
+  - 강함
+  - 골렘/드래곤나이트/갑옷 입은 거대 짐승
+  - 구체적 헥스 코드까지 명시
+  - 귀여움
+  - 실루엣 차별 포인트를 먼저 결정
+  - 실전 노하우
+  - 실존 레퍼런스 게임명
+  - 예쁨
+tags::
+  - workspace-links
 ---
 # 🧠 픽셀 아트 프롬프트 엔지니어링 노하우 축적소
 

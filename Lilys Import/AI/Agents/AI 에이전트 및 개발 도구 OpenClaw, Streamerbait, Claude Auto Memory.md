@@ -1,21 +1,38 @@
 ---
-title: 'AI 에이전트 및 개발 도구: OpenClaw, Streamerbait, Claude Auto Memory'
-source: https://lilys.ai/digest/8345558
-lilys_page: https://lilys.ai/digest/8345558
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "AI 에이전트 및 개발 도구 OpenClaw, Streamerbait, Claude Auto Memory"
+entities:
+  - '나라면 저렇게 안 하지' 반응 유도
+  - 강렬하고 명확한 화면 구성
+  - 공포
+  - 리액션을 강제하는 장치 마련
+  - 유머
+  - 절망과 분노
+  - 직관적이고 쉬운 플레이
+  - 충격과 반전
+  - 충족되지 못한 호기심 자극
+source: "https://lilys.ai/digest/8345558"
+title: "'AI 에이전트 및 개발 도구: OpenClaw, Streamerbait, Claude Auto Memory'"
+lilys_page: "https://lilys.ai/digest/8345558"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
-sources:
-- https://www.youtube.com/watch?v=-XelCjmjBec
-- https://www.youtube.com/watch?v=H0gWu4hJB_s
-- https://www.youtube.com/watch?v=QoU5WyCihJQ
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
+sources::
+  - https://www.youtube.com/watch?v=-XelCjmjBec
+  - https://www.youtube.com/watch?v=H0gWu4hJB_s
+  - https://www.youtube.com/watch?v=QoU5WyCihJQ
 ---
-
 # AI 에이전트 및 개발 도구: OpenClaw, Streamerbait, Claude Auto Memory
 
 > Source: https://lilys.ai/digest/8345558

@@ -1,9 +1,23 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: "ART AGENT TEAM"
+entities:
+  - AI 에이전트 전담 디자인 팀
+  - ART_DIRECTION.md
+  - ImagePaths
+  - generate_image
+  - scripts/prepare_rpg_sprite.py
+  - 담당 모델
+  - 목표
+  - 실행 방식
+  - 역할
+  - 책임
+tags::
+  - workspace-links
 ---
 # 🖌️ Pixel Agents: 아트 생성 에이전트 팀
 

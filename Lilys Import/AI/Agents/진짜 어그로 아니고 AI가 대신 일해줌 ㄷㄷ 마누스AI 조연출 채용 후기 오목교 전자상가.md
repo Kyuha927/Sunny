@@ -1,17 +1,35 @@
 ---
-title: 진짜 어그로 아니고 AI가 대신 일해줌 ㄷㄷ 마누스AI 조연출 채용 후기 / 오목교 전자상가
-source: https://www.youtube.com/watch?v=zcVM13wW-HI
-lilys_page: https://lilys.ai/digest/8097028/9018667
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "진짜 어그로 아니고 AI가 대신 일해줌 ㄷㄷ 마누스AI 조연출 채용 후기 오목교 전자상가"
+entities:
+  - AI 도입의 기대 효과
+  - AI의 작업 수행 과정
+  - 개인화된 업무용 앱 제작
+  - 데이터 분석 명령 입력
+  - 마누스 AI
+  - 마누스 AI 시작 방법
+  - 마누스 AI의 배경
+  - 마누스 AI의 정체
+  - 브라우저 연결의 중요성
+  - 새로운 조연출 소개
+source: "https://www.youtube.com/watch?v=zcVM13wW-HI"
+title: "진짜 어그로 아니고 AI가 대신 일해줌 ㄷㄷ 마누스AI 조연출 채용 후기 / 오목교 전자상가"
+lilys_page: "https://lilys.ai/digest/8097028/9018667"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 진짜 어그로 아니고 AI가 대신 일해줌 ㄷㄷ 마누스AI 조연출 채용 후기 / 오목교 전자상가
 
 > Source: https://www.youtube.com/watch?v=zcVM13wW-HI

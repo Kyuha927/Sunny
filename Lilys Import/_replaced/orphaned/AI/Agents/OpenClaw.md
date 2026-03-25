@@ -1,17 +1,37 @@
 ---
+type: reference
+tags:
+  - -replaced
+  - agents
+  - ai
+  - lilys-import
+  - orphaned
+  - reference
+created: 2026-03-25
+summary: OpenClaw
+entities:
+  - "컴퓨터 전체를 AI에게 넘겼습니다... 결과가 충격적" 오픈클로, 클로드 코드 넘어 완전 자율 에이전트 시대 시작, Openclaw 가장 안전하게 사용하는 법
+  - AI 에이전트 및 개발 도구: OpenClaw, Streamerbait, Claude Auto Memory
+  - artifact_type
+  - domain
+  - execution_mode
+  - workspace-links/_catalog/cards/Antigravity-Brain
+  - workspace-links/_catalog/cards/Antigravity-CodeTracker
+  - workspace-links/_catalog/cards/Copilot-Prompts
+  - workspace-links/_catalog/cards/MSW-VampireSurvivors
+  - workspace-links/_catalog/cards/MSW-VampireSurvivors-Pro
+source: "https://lilys.ai/digest/8330516"
 title: OpenClaw
-source: https://lilys.ai/digest/8330516
-lilys_page: https://lilys.ai/digest/8330516
-exported_at: '2026-03-06T16:50:34+00:00'
+lilys_page: "https://lilys.ai/digest/8330516"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # OpenClaw
 
 > Source: https://lilys.ai/digest/8330516

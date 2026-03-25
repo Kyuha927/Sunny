@@ -1,17 +1,35 @@
 ---
-title: '칼 융 : 동시성 현상과 양자역학(feat. 아인슈타인의 EPR역설, 주역)'
-source: https://www.youtube.com/watch?v=sA5kxRCSifA
-lilys_page: https://lilys.ai/digest/6460706/6574770
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - lilys-import
+  - papers
+  - reference
+  - research
+created: 2026-03-25
+summary: "칼 융 동시성 현상과 양자역학(feat. 아인슈타인의 EPR역설, 주역)"
+entities:
+  - '동시성' 현상
+  - '양자 얽힘' 개념
+  - '의미 있는 연결'
+  - 개인 무의식
+  - 군 복무 중 다친 경험과 어머니의 예지몽 사례
+  - 동시성
+  - 동시성의 정의
+  - 등산가의 예지몽 사례
+  - 무의식에 대한 입장 차이
+  - 무의식의 물리적 세계관과의 차이
+source: "https://www.youtube.com/watch?v=sA5kxRCSifA"
+title: "'칼 융 : 동시성 현상과 양자역학(feat. 아인슈타인의 EPR역설, 주역)'"
+lilys_page: "https://lilys.ai/digest/6460706/6574770"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Research
 subcategory: Papers
-tags:
-- lilys
-- research
-- papers
-- imported
+tags::
+  - lilys
+  - research
+  - papers
+  - imported
 ---
-
 # 칼 융 : 동시성 현상과 양자역학(feat. 아인슈타인의 EPR역설, 주역)
 
 > Source: https://www.youtube.com/watch?v=sA5kxRCSifA

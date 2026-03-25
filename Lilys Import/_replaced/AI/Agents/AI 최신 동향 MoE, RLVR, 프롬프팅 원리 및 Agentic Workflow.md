@@ -1,22 +1,41 @@
 ---
-title: 'AI 최신 동향: MoE, RLVR, 프롬프팅 원리 및 Agentic Workflow'
-source: https://lilys.ai/digest/8227019
-lilys_page: https://lilys.ai/digest/8227019
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "AI 최신 동향 MoE, RLVR, 프롬프팅 원리 및 Agentic Workflow"
+entities:
+  - '스케일업'과 '지속 학습'
+  - 100% 중국 기업
+  - 2025년 주요 사건
+  - 7배 이상
+  - DeepSeek의 기여
+  - DeepSeek의 증명
+  - DeepSeek이 촉발한 MoE와 RLVR 기술의 도약
+  - MoE 모델의 중요성
+  - MoE의 보편화
+  - MoE의 스케일링 법칙
+source: "https://lilys.ai/digest/8227019"
+title: "'AI 최신 동향: MoE, RLVR, 프롬프팅 원리 및 Agentic Workflow'"
+lilys_page: "https://lilys.ai/digest/8227019"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
-sources:
-- https://www.youtube.com/watch?v=EQ-Rnx-k-Ec
-- https://www.youtube.com/watch?v=Q43tbLNx21A
-- https://www.youtube.com/watch?v=bRsZH4CbhB4
-- https://www.youtube.com/watch?v=iDd-7trU3VE
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
+sources::
+  - https://www.youtube.com/watch?v=EQ-Rnx-k-Ec
+  - https://www.youtube.com/watch?v=Q43tbLNx21A
+  - https://www.youtube.com/watch?v=bRsZH4CbhB4
+  - https://www.youtube.com/watch?v=iDd-7trU3VE
 ---
-
 # AI 최신 동향: MoE, RLVR, 프롬프팅 원리 및 Agentic Workflow
 
 > Source: https://lilys.ai/digest/8227019

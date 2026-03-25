@@ -1,17 +1,35 @@
 ---
-title: '나만의 AI 코딩 에이전트 만들기: Pi의 작동 원리'
-source: https://lilys.ai/digest/8011743
-lilys_page: https://lilys.ai/digest/8011743
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "나만의 AI 코딩 에이전트 만들기 Pi의 작동 원리"
+entities:
+  - 'Pi'
+  - 2D 스켈레탈 애니메이션
+  - 2D 애니메이션 소프트웨어 'Spine'
+  - Claude Code
+  - Dead Cells
+  - Prince of Persia
+  - 게임 개발
+  - 결정론적인 고전 코드
+  - 구조화된 형태로 추출
+  - 나만의 코딩 에이전트
+source: "https://lilys.ai/digest/8011743"
+title: "'나만의 AI 코딩 에이전트 만들기: Pi의 작동 원리'"
+lilys_page: "https://lilys.ai/digest/8011743"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # 나만의 AI 코딩 에이전트 만들기: Pi의 작동 원리
 
 > Source: https://lilys.ai/digest/8011743

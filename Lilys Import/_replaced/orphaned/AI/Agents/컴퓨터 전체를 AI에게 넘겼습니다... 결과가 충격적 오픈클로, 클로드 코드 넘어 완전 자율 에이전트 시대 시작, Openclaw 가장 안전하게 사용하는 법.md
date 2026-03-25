@@ -1,18 +1,37 @@
 ---
-title: '"컴퓨터 전체를 AI에게 넘겼습니다... 결과가 충격적" 오픈클로, 클로드 코드 넘어 완전 자율 에이전트 시대 시작, Openclaw
-  가장 안전하게 사용하는 법'
-source: https://www.youtube.com/watch?v=fgDF_YnxHTM
-lilys_page: https://lilys.ai/digest/8188199/9142440
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - agents
+  - ai
+  - lilys-import
+  - orphaned
+  - reference
+created: 2026-03-25
+summary: "컴퓨터 전체를 AI에게 넘겼습니다... 결과가 충격적 오픈클로, 클로드 코드 넘어 완전 자율 에이전트 시대 시작, Openclaw 가장 안전하게 사용하는 법"
+entities:
+  - AI 에이전트의 탄생
+  - API 비용
+  - API 비용이 매우 많이
+  - API 키 사용
+  - UTM 설치
+  - XCode, Node.js 설치 및 오픈클로 온보딩
+  - `sudo` 권한
+  - macOS 10 이상
+  - macOS 환경 준비
+  - sudo
+source: "https://www.youtube.com/watch?v=fgDF_YnxHTM"
+title: "''컴퓨터 전체를 AI에게 넘겼습니다... 결과가 충격적' 오픈클로, 클로드 코드 넘어 완전 자율 에이전트 시대 시작, Openclaw"
+lilys_page: "https://lilys.ai/digest/8188199/9142440"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # "컴퓨터 전체를 AI에게 넘겼습니다... 결과가 충격적" 오픈클로, 클로드 코드 넘어 완전 자율 에이전트 시대 시작, Openclaw 가장 안전하게 사용하는 법
 
 > Source: https://www.youtube.com/watch?v=fgDF_YnxHTM

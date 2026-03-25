@@ -1,17 +1,35 @@
 ---
-title: Mervyn Waldman Osteopathic Lecture - Part 1 of 5
-source: https://www.youtube.com/watch?v=meKK-zg9Ojo
-lilys_page: https://lilys.ai/digest/7372208/7981384
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - lilys-import
+  - papers
+  - reference
+  - research
+created: 2026-03-25
+summary: "Mervyn Waldman Osteopathic Lecture - Part 1 of 5"
+entities:
+  - Mervyn Waldman의 비수술적 의학적 접근법
+  - iTunes에서 제공될 예정
+  - ‘신체적 증상과 질병 사이의 연관성’
+  - 강의 자료 활용 방법
+  - 섬세하고 비침습적인 치료 기법
+  - 실질적인 응용 테크닉
+  - 오늘의 강의 의제
+  - 자가 회복력과 면역 반응
+  - 자간전증
+  - 자신이 개발한 분만 의자
+source: "https://www.youtube.com/watch?v=meKK-zg9Ojo"
+title: "Mervyn Waldman Osteopathic Lecture - Part 1 of 5"
+lilys_page: "https://lilys.ai/digest/7372208/7981384"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Research
 subcategory: Papers
-tags:
-- lilys
-- research
-- papers
-- imported
+tags::
+  - lilys
+  - research
+  - papers
+  - imported
 ---
-
 # Mervyn Waldman Osteopathic Lecture - Part 1 of 5
 
 > Source: https://www.youtube.com/watch?v=meKK-zg9Ojo

@@ -1,17 +1,36 @@
 ---
-title: OpenClaw Creator Explains How He Built The Viral Agent
-source: https://www.youtube.com/watch?v=4uzGDAoNOZc
-lilys_page: https://lilys.ai/digest/8226935/9193324
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - ai
+  - lilys-import
+  - mcp
+  - reference
+created: 2026-03-25
+summary: "OpenClaw Creator Explains How He Built The Viral Agent"
+entities:
+  - CLI 앱
+  - Cloudbot
+  - GitHub 스타가 16만 개
+  - Maltbook
+  - OpenClaw
+  - 개인 AI 에이전트의 폭발적 성공 비결
+  - 놀라운 내러티브
+  - 단 1시간
+  - 단순히 타이핑한 대로 작업을 수행
+  - 로컬 에이전트의 잠재력
+source: "https://www.youtube.com/watch?v=4uzGDAoNOZc"
+title: "OpenClaw Creator Explains How He Built The Viral Agent"
+lilys_page: "https://lilys.ai/digest/8226935/9193324"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: MCP
-tags:
-- lilys
-- ai
-- mcp
-- imported
+tags::
+  - lilys
+  - ai
+  - mcp
+  - imported
 ---
-
 # OpenClaw Creator Explains How He Built The Viral Agent
 
 > Source: https://www.youtube.com/watch?v=4uzGDAoNOZc

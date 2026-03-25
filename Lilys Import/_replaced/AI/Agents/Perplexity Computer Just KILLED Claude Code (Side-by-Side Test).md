@@ -1,17 +1,36 @@
 ---
-title: Perplexity Computer Just KILLED Claude Code (Side-by-Side Test)
-source: https://www.youtube.com/watch?v=E4gc4-9O1JE
-lilys_page: https://lilys.ai/digest/8330521/9333553
-exported_at: '2026-03-06T16:50:34+00:00'
+type: reference
+tags:
+  - -replaced
+  - agents
+  - ai
+  - lilys-import
+  - reference
+created: 2026-03-25
+summary: "Perplexity Computer Just KILLED Claude Code (Side-by-Side Test)"
+entities:
+  - Bloomberg 터미널 수준의 구축
+  - Max 플랜
+  - Opus 4.6
+  - 가격 및 접근성 문제
+  - 고급 기능 및 효율성 극대화
+  - 내부 모델 및 기술
+  - 더 나은 오케스트레이터
+  - 더 적은 지식
+  - 매우 비싼 편
+  - 병렬 작업 처리
+source: "https://www.youtube.com/watch?v=E4gc4-9O1JE"
+title: "Perplexity Computer Just KILLED Claude Code (Side-by-Side Test)"
+lilys_page: "https://lilys.ai/digest/8330521/9333553"
+exported_at: "'2026-03-06T16:50:34+00:00'"
 category: AI
 subcategory: Agents
-tags:
-- lilys
-- ai
-- agents
-- imported
+tags::
+  - lilys
+  - ai
+  - agents
+  - imported
 ---
-
 # Perplexity Computer Just KILLED Claude Code (Side-by-Side Test)
 
 > Source: https://www.youtube.com/watch?v=E4gc4-9O1JE

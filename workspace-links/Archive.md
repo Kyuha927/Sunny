@@ -1,9 +1,17 @@
 ---
 type: concept
 tags:
+  - concept
   - workspace-links
 created: 2026-03-25
-summary: ""
+summary: Archive
+entities:
+  - workspace-links/Agent MOC
+  - workspace-links/Agent Notes
+  - workspace-links/Archive Index
+  - workspace-links/Daily Logs Index
+tags::
+  - workspace-links
 ---
 # Archive
 

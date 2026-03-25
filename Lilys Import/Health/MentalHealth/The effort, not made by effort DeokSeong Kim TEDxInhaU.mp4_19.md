@@ -1,17 +1,35 @@
 ---
-title: The effort, not made by effort DeokSeong Kim TEDxInhaU.mp4_19
-source: https://lilys.ai/digest/5509109
-lilys_page: https://lilys.ai/digest/5509109/5130468
-exported_at: '2026-03-06T16:52:59+00:00'
+type: reference
+tags:
+  - health
+  - lilys-import
+  - mentalhealth
+  - reference
+created: 2026-03-25
+summary: "The effort, not made by effort DeokSeong Kim TEDxInhaU.mp4 19"
+entities:
+  - '노력'의 본질
+  - '노력하지 않는 노력'
+  - '두려움과 함께 가만히 있어주는' 역설적인 접근법
+  - '태도'
+  - 강연자의 분석
+  - 강연자의 연애 경험: 외로움 회피를 위한 노력의 실패
+  - 개인의 경험과 심리학적 통찰
+  - 거절의 이유
+  - 노력과 간절함의 무관성 및 태도의 중요성
+  - 문제 발생
+source: "https://lilys.ai/digest/5509109"
+title: "The effort, not made by effort DeokSeong Kim TEDxInhaU.mp4_19"
+lilys_page: "https://lilys.ai/digest/5509109/5130468"
+exported_at: "'2026-03-06T16:52:59+00:00'"
 category: Health
 subcategory: MentalHealth
-tags:
-- lilys
-- health
-- mentalhealth
-- imported
+tags::
+  - lilys
+  - health
+  - mentalhealth
+  - imported
 ---
-
 # The effort, not made by effort DeokSeong Kim TEDxInhaU.mp4_19
 
 > Source: https://lilys.ai/digest/5509109
