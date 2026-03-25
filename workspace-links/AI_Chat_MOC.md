@@ -1,6 +1,6 @@
 # 🧠 AI Chat Map of Content (MOC)
 
-이 문서는 Perplexity와 ChatGPT에서 추출한 대화 내역을 주제별로 분류한 인덱스입니다.
+이 문서는 Perplexity와 ChatGPT에서 추출한 대화 내역을 주제별로 분류한 인덱스입니다. 개인적인 내용이나 특정 주제로 분류하기 어려운 대화는 'General & Others'에 포함되었습니다.
 
 ## 🤖 AI & Automation
 - [[Projects/AI_Insights/01_AI_Automation/001_퍼플렉시티 대화내역 모두 내보내는 법퍼플렉시티에서는 대화내역 전체 일괄 내보내기계정 전체 export 기능은_nwSNXTDFUg|001_퍼플렉시티 대화내역 모두 내보내는 법퍼플렉시티에서는 대화내역 전체 일괄 내보내기계정 전체 export 기능은_nwSNXTDFUg]]
@@ -14,11 +14,8 @@
 - [[Projects/AI_Insights/01_AI_Automation/010_맥에만 있는 자동화 브라우저맥에서만 사용 가능한 브라우저 자동화 도구들은 크게 빌트인 도구와 서드파티 앱 두_VWaqVxyUZA|010_맥에만 있는 자동화 브라우저맥에서만 사용 가능한 브라우저 자동화 도구들은 크게 빌트인 도구와 서드파티 앱 두_VWaqVxyUZA]]
 - [[Projects/AI_Insights/01_AI_Automation/011_코멧과 아틀라스 비교Comet은 Perplexity가 Atlas는 OpenAIChatGPT가 출시한 AI 네_gRVvWbd2gw|011_코멧과 아틀라스 비교Comet은 Perplexity가 Atlas는 OpenAIChatGPT가 출시한 AI 네_gRVvWbd2gw]]
 - [[Projects/AI_Insights/01_AI_Automation/014_안티그래비티 채팅 날라기는 이유Antigravity구글 안티그래비티의 채팅이 날아가는 건 현재 널리 알려진 _SbWcLxsujw|014_안티그래비티 채팅 날라기는 이유Antigravity구글 안티그래비티의 채팅이 날아가는 건 현재 널리 알려진 _SbWcLxsujw]]
-- [[Projects/AI_Insights/01_AI_Automation/015_문서 분석 및 평가_c8f2beb4a5|015_문서 분석 및 평가_c8f2beb4a5]]
 - [[Projects/AI_Insights/01_AI_Automation/016_Kimi K25 성능 분석_120d935df1|016_Kimi K25 성능 분석_120d935df1]]
-- [[Projects/AI_Insights/01_AI_Automation/019_예시 채팅 무엇이든 부탁하세요_adf7cbe9d4|019_예시 채팅 무엇이든 부탁하세요_adf7cbe9d4]]
 - [[Projects/AI_Insights/01_AI_Automation/021_오픈메모리 사용법 안내_76d4996403|021_오픈메모리 사용법 안내_76d4996403]]
-- [[Projects/AI_Insights/01_AI_Automation/022_자기소개 요청_8f330ef3d8|022_자기소개 요청_8f330ef3d8]]
 
 ## 💻 Hardware & PC
 - [[Projects/AI_Insights/02_Hardware_PC/004_RTX 3090 AORUS 평가_21f52791f8|004_RTX 3090 AORUS 평가_21f52791f8]]
@@ -51,4 +48,9 @@
 - [[Projects/AI_Insights/04_Finance_Life/017_중고거래사기시 지급정지 신청 인터넷 은행은중고거래 사기 발생 시 인터넷 전문은행 3사의 지급정지 수용 여부와_Yi8.JKd7sQ|017_중고거래사기시 지급정지 신청 인터넷 은행은중고거래 사기 발생 시 인터넷 전문은행 3사의 지급정지 수용 여부와_Yi8.JKd7sQ]]
 - [[Projects/AI_Insights/04_Finance_Life/018_수표로 입금법수표를 계좌에 입금하는 방법은 ATM 이용과 은행 창구 방문 두 가지가 있습니다 정액수표10만 _yeq1m6EILA|018_수표로 입금법수표를 계좌에 입금하는 방법은 ATM 이용과 은행 창구 방문 두 가지가 있습니다 정액수표10만 _yeq1m6EILA]]
 - [[Projects/AI_Insights/04_Finance_Life/020_중고사기 돈 돌려 받기중고사기 피해를 당했다면 신고 속도가 가장 중요합니다 2시간 이내 신고 시 환급 성공률_26z4NXebRQ|020_중고사기 돈 돌려 받기중고사기 피해를 당했다면 신고 속도가 가장 중요합니다 2시간 이내 신고 시 환급 성공률_26z4NXebRQ]]
+
+## 📂 General & Others
+- [[Projects/AI_Insights/99_General_Others/015_문서 분석 및 평가_c8f2beb4a5|015_문서 분석 및 평가_c8f2beb4a5]]
+- [[Projects/AI_Insights/99_General_Others/019_예시 채팅 무엇이든 부탁하세요_adf7cbe9d4|019_예시 채팅 무엇이든 부탁하세요_adf7cbe9d4]]
+- [[Projects/AI_Insights/99_General_Others/022_자기소개 요청_8f330ef3d8|022_자기소개 요청_8f330ef3d8]]
 
