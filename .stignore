@@ -1,0 +1,4 @@
+# Syncthing ignore rules for Windows-safe cross-device sync
+
+# Generated cache/index artifacts
+.smart-env/
